@@ -84,17 +84,6 @@ input {
   text-decoration: none;
 }
 
-.brand-mark {
-  width: 2rem;
-  height: 2rem;
-  border-radius: 0.8rem;
-  display: grid;
-  place-items: center;
-  background: var(--accent-tint);
-  color: var(--accent);
-  border: 1px solid rgba(217, 119, 87, 0.18);
-}
-
 .top-nav {
   display: inline-flex;
   gap: 1.25rem;
@@ -602,26 +591,81 @@ input {
 .site-footer {
   border-top: 1px solid var(--border-subtle);
   background: var(--bg-surface);
-  padding: 2.5rem 0;
+  padding: 3.5rem 0 2.5rem;
 }
 
 .footer-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
 }
 
-.footer-inner p {
+.footer-headline {
   margin: 0;
-  color: var(--text-secondary);
-  font-size: 0.92rem;
+  font-size: clamp(1.3rem, 3vw, 1.8rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--text-primary);
 }
 
-.footer-note {
-  margin-top: 0.5rem !important;
-  font-size: 0.82rem !important;
-  color: var(--text-muted) !important;
-  max-width: 42rem;
-  margin-left: auto;
-  margin-right: auto;
+.footer-sub {
+  margin: 0.6rem 0 0;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 34rem;
+}
+
+.footer-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.cta-primary,
+.cta-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.85rem 1.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: 180ms ease;
+}
+
+.cta-primary {
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 10px 24px rgba(217, 119, 87, 0.22);
+}
+
+.cta-primary:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 14px 32px rgba(217, 119, 87, 0.28);
+}
+
+.cta-secondary {
+  border: 1.5px solid rgba(217, 119, 87, 0.35);
+  color: var(--accent);
+  background: transparent;
+}
+
+.cta-secondary:hover {
+  background: var(--accent-tint);
+  transform: translateY(-1px);
+}
+
+.footer-credit {
+  margin: 2rem 0 0;
+  font-size: 0.82rem;
+  color: var(--text-muted);
 }
 
 /* ── Section surface ───────────────────────────────── */
