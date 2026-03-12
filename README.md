@@ -74,16 +74,31 @@ This atlas uses strategic lanes instead:
 
 That makes it much easier to scan and compare.
 
-## Local preview
+## Local development
+
+Install dependencies:
 
 ```bash
-python3 -m http.server 8000
+npm install
 ```
 
-Then open:
+Run the Vite dev server:
+
+```bash
+npm run dev
+```
+
+Default local URL:
 
 ```text
-http://localhost:8000
+http://localhost:4173
+```
+
+## Production build
+
+```bash
+npm run build
+npm run preview
 ```
 
 ## Deployment
