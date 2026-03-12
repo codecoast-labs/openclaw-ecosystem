@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpenClaw Ecosystem Atlas</title>
+    <meta
+      name="description"
+      content="A strategic map of the OpenClaw ecosystem: derivatives, adjacent competitors, orchestration layers, and benchmark systems."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="#top">
+          <span class="brand-mark">◌</span>
+          <span>OpenClaw <span class="accent">Ecosystem</span></span>
+        </a>
+        <nav class="top-nav">
+          <a href="#atlas">Atlas</a>
+          <a href="#compare">Compare</a>
+          <a href="#method">Method</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="orb orb-a"></div>
+        <div class="orb orb-b"></div>
+        <div class="shell hero-grid">
+          <div>
+            <p class="eyebrow">Lead It style · minimal ecosystem intelligence</p>
+            <h1>
+              The OpenClaw ecosystem,
+              <span class="accent">mapped for strategy</span>
+            </h1>
+            <p class="hero-copy">
+              This atlas is designed for one job: quickly show the shape of the
+              ecosystem, then let you drill into positioning, differentiation,
+              links, and strategic relevance without drowning in a messy graph.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#atlas">Open the atlas</a>
+              <a class="button button-secondary" href="#compare">Compare projects</a>
+            </div>
+          </div>
+          <div class="hero-card">
+            <p class="panel-label">Current thesis</p>
+            <ul id="thesisList" class="thesis-list"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="metrics">
+        <div class="shell metrics-grid" id="metricsGrid"></div>
+      </section>
+
+      <section class="section" id="atlas">
+        <div class="shell section-head">
+          <div>
+            <p class="eyebrow">Visual structure</p>
+            <h2>Atlas view</h2>
+            <p class="section-copy">
+              Instead of a spaghetti force-graph, the atlas groups projects by
+              strategic lane. That makes the overview readable and the analysis
+              useful.
+            </p>
+          </div>
+        </div>
+
+        <div class="shell controls-row">
+          <div class="filters" id="filters"></div>
+          <label class="search-wrap">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="OpenClaw, Hermes, security, multi-agent…" />
+          </label>
+        </div>
+
+        <div class="shell atlas-layout">
+          <div id="laneContainer" class="lane-container"></div>
+          <aside class="detail-panel" id="detailPanel"></aside>
+        </div>
+      </section>
+
+      <section class="section section-surface" id="compare">
+        <div class="shell section-head">
+          <div>
+            <p class="eyebrow">Detailed analysis</p>
+            <h2>Comparison matrix</h2>
+            <p class="section-copy">
+              Use this table for faster side-by-side reading: lane, tier,
+              deployment style, differentiator, and why each project matters.
+            </p>
+          </div>
+        </div>
+
+        <div class="shell table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th>Project</th>
+                <th>Lane</th>
+                <th>Tier</th>
+                <th>Deployment</th>
+                <th>Differentiator</th>
+                <th>Why it matters</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section" id="method">
+        <div class="shell method-grid">
+          <article class="info-card">
+            <p class="panel-label">Why this visual works</p>
+            <h3>Atlas over mind-map</h3>
+            <p>
+              A classic node-link graph looks impressive, but it breaks down as
+              soon as you need real analysis. The atlas keeps the category legible:
+              core, lightweight, security-first, orchestration, adjacent systems,
+              and longer-tail derivatives.
+            </p>
+          </article>
+          <article class="info-card">
+            <p class="panel-label">UI direction</p>
+            <h3>Lead It alignment</h3>
+            <p>
+              The styling intentionally mirrors Lead It’s calm visual language:
+              warm accent, soft cream background, blurred header, rounded cards,
+              restrained shadows, and clean, editorial spacing.
+            </p>
+          </article>
+          <article class="info-card">
+            <p class="panel-label">Hosting</p>
+            <h3>Subdomain-ready</h3>
+            <p>
+              This is a dependency-light static site. It can be deployed on a
+              subdomain via GitHub Pages, Vercel, Netlify, Cloudflare Pages, or
+              any simple static host.
+            </p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

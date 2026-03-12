@@ -1,0 +1,606 @@
+const DATA = {
+  updatedAt: "2026-03-12 UTC",
+  thesis: [
+    "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
+    "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
+    "Security-first alternatives are the strongest architectural critique of OpenClaw-style systems.",
+    "Multi-agent orchestration is no longer fringe; it is becoming a standard branch of the category.",
+    "Hermes Agent and Perplexity Computer matter because they push the category toward learning loops and long-running digital work."
+  ],
+  lanes: [
+    {
+      id: "core",
+      name: "Core reference",
+      thesis: "The original category anchor and the main baseline every other project is reacting to."
+    },
+    {
+      id: "lightweight",
+      name: "Lightweight / low-resource",
+      thesis: "Projects attacking runtime bloat, startup time, hardware cost, and deployment friction."
+    },
+    {
+      id: "security",
+      name: "Security-first",
+      thesis: "Projects that keep the assistant shape but argue for stronger isolation, privacy, and runtime boundaries."
+    },
+    {
+      id: "orchestration",
+      name: "Multi-agent / orchestration",
+      thesis: "Systems moving from one assistant toward teams, manager-worker models, and control planes."
+    },
+    {
+      id: "adjacent",
+      name: "Adjacent benchmarks",
+      thesis: "Close conceptual neighbors and competitive benchmarks that shape the market even without being direct derivatives."
+    },
+    {
+      id: "longtail",
+      name: "Long-tail derivatives",
+      thesis: "Smaller but strategically useful implementations that show how portable the OpenClaw pattern has become."
+    }
+  ],
+  projects: [
+    {
+      id: "openclaw",
+      name: "OpenClaw",
+      lane: "core",
+      tier: "T1",
+      label: "Reference",
+      deployment: "Self-hosted gateway / local or VPS",
+      differentiator: "Category anchor for messaging-native personal assistants",
+      short: "Broad channels, skills, browser, coding, canvas, and control-plane story.",
+      why: "Sets the baseline vocabulary, product shape, and showcase standard for the whole ecosystem.",
+      tags: ["TypeScript", "Messaging-native", "Skills", "Browser", "Control plane"],
+      links: [
+        ["Repo", "https://github.com/openclaw/openclaw"],
+        ["Docs", "https://docs.openclaw.ai"],
+        ["Showcase", "https://docs.openclaw.ai/start/showcase"],
+        ["Site", "https://openclaw.ai"]
+      ]
+    },
+    {
+      id: "nanobot",
+      name: "nanobot",
+      lane: "lightweight",
+      tier: "T1",
+      label: "High signal",
+      deployment: "Lightweight Python self-hosting",
+      differentiator: "OpenClaw-style assistant with dramatically less code",
+      short: "Probably the clearest lightweight rewrite line in the ecosystem.",
+      why: "Shows how much demand there is for the same assistant pattern with less complexity.",
+      tags: ["Python", "Ultra-lightweight", "OpenClaw-inspired", "Multi-channel"],
+      links: [["Repo", "https://github.com/HKUDS/nanobot"]]
+    },
+    {
+      id: "picoclaw",
+      name: "PicoClaw",
+      lane: "lightweight",
+      tier: "T1",
+      label: "Edge story",
+      deployment: "Cheap boards / old phones / edge devices",
+      differentiator: "Strongest hardware-efficiency reinterpretation",
+      short: "Pushes the category into low-cost, always-on edge deployment territory.",
+      why: "Important because it expands the TAM away from Mac minis and full VPS setups.",
+      tags: ["Go", "Edge", "Cheap hardware", "Always-on"],
+      links: [
+        ["Repo", "https://github.com/sipeed/picoclaw"],
+        ["Site", "https://picoclaw.io"]
+      ]
+    },
+    {
+      id: "zeroclaw",
+      name: "ZeroClaw",
+      lane: "lightweight",
+      tier: "T1",
+      label: "Rust line",
+      deployment: "Rust-native deploy-anywhere runtime",
+      differentiator: "Ultra-low-overhead Rust positioning",
+      short: "Frames itself as a much smaller, cheaper, leaner path than OpenClaw.",
+      why: "High visibility and strong momentum make it strategically relevant even beyond pure engineering taste.",
+      tags: ["Rust", "Low RAM", "Cheap deployment", "Fast startup"],
+      links: [
+        ["Repo", "https://github.com/zeroclaw-labs/zeroclaw"],
+        ["Site", "https://www.zeroclawlabs.ai/"]
+      ]
+    },
+    {
+      id: "nanoclaw",
+      name: "NanoClaw",
+      lane: "security",
+      tier: "T1",
+      label: "Security critique",
+      deployment: "Container-isolated bespoke assistant",
+      differentiator: "Strongest security-first critique of OpenClaw’s runtime model",
+      short: "Uses container isolation and code-level customization as the core product story.",
+      why: "Defines the argument that personal assistants should have stronger OS-level boundaries, not just app-level policies.",
+      tags: ["TypeScript", "Containers", "Claude SDK", "Security-first"],
+      links: [
+        ["Repo", "https://github.com/qwibitai/nanoclaw"],
+        ["Site", "https://nanoclaw.dev"]
+      ]
+    },
+    {
+      id: "ironclaw",
+      name: "IronClaw",
+      lane: "security",
+      tier: "T1",
+      label: "Privacy-first",
+      deployment: "Rust self-hosted assistant",
+      differentiator: "Privacy, encryption, sandboxing, defense-in-depth",
+      short: "The strongest ‘assistant you can actually trust’ framing in the derivative wave.",
+      why: "Important because it reframes the category around trust rather than just convenience or speed.",
+      tags: ["Rust", "Privacy", "WASM sandbox", "Encrypted local control"],
+      links: [
+        ["Repo", "https://github.com/nearai/ironclaw"],
+        ["Site", "https://www.ironclaw.com"]
+      ]
+    },
+    {
+      id: "hermes",
+      name: "Hermes Agent",
+      lane: "adjacent",
+      tier: "T1",
+      label: "Learning loop",
+      deployment: "Self-hosted + VPS + serverless backends",
+      differentiator: "Self-improving agent narrative with memory, skill creation, cron, and subagents",
+      short: "Close conceptual neighbor to OpenClaw with a much stronger learning-loop and runtime-flexibility story.",
+      why: "Matters because it pushes the category toward agents that get better over time instead of static tool orchestration.",
+      tags: ["Learning loop", "Messaging gateway", "Subagents", "Cron", "Memory"],
+      links: [
+        ["Repo", "https://github.com/NousResearch/hermes-agent"],
+        ["Docs", "https://hermes-agent.nousresearch.com/docs/"],
+        ["Nous", "https://nousresearch.com"]
+      ]
+    },
+    {
+      id: "perplexity-computer",
+      name: "Perplexity Computer",
+      lane: "adjacent",
+      tier: "T1",
+      label: "Cloud benchmark",
+      deployment: "Managed cloud digital worker",
+      differentiator: "Long-running async execution and multi-model delegation",
+      short: "Defines the cloud-managed opposite pole of the category.",
+      why: "Strategically important as the benchmark for high-end outcome-first digital work.",
+      tags: ["Cloud", "Long-running", "Multi-model", "Digital worker"],
+      links: [
+        ["Announcement", "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer"],
+        ["Hub", "https://www.perplexity.ai/hub"]
+      ]
+    },
+    {
+      id: "tinyclaw",
+      name: "TinyClaw",
+      lane: "orchestration",
+      tier: "T2",
+      label: "Multi-team",
+      deployment: "Always-on multi-agent runtime",
+      differentiator: "Teams of assistants collaborating in isolated workspaces",
+      short: "A clear step from one personal assistant to many coordinated assistants.",
+      why: "Useful for tracking the shift from single-agent UX to agent teams as a normal expectation.",
+      tags: ["TypeScript", "Multi-agent", "Multi-team", "Parallel"],
+      links: [["Repo", "https://github.com/TinyAGI/tinyclaw"]]
+    },
+    {
+      id: "hiclaw",
+      name: "HiClaw",
+      lane: "orchestration",
+      tier: "T2",
+      label: "Manager-worker",
+      deployment: "Matrix-based collaboration stack",
+      differentiator: "Treats OpenClaw-like assistants as workers inside a larger agent company",
+      short: "Less clone, more operating system for digital employees.",
+      why: "Important because it repositions OpenClaw-style assistants as components inside a bigger enterprise orchestration layer.",
+      tags: ["Enterprise", "Manager-worker", "Matrix", "Oversight"],
+      links: [
+        ["Repo", "https://github.com/alibaba/hiclaw"],
+        ["Site", "https://hiclaw.io"]
+      ]
+    },
+    {
+      id: "poco",
+      name: "Poco",
+      lane: "security",
+      tier: "T2",
+      label: "Product UX",
+      deployment: "Self-hosted sandboxed runtime",
+      differentiator: "Safer, more polished, more productized assistant experience",
+      short: "Competes more on UX, project management, and sandbox experience than on ideology.",
+      why: "Shows what a more productized OpenClaw-adjacent experience can look like.",
+      tags: ["Sandbox", "UI-heavy", "Project view", "Browser"],
+      links: [
+        ["Repo", "https://github.com/poco-ai/poco-claw"],
+        ["Docs", "https://docs.poco-ai.com/"]
+      ]
+    },
+    {
+      id: "astrbot",
+      name: "AstrBot",
+      lane: "adjacent",
+      tier: "T2",
+      label: "Platform overlap",
+      deployment: "IM-centric agent platform",
+      differentiator: "Plugin-heavy multi-platform chat automation",
+      short: "A neighboring platform rather than a derivative, but one with huge overlap in channels and usage patterns.",
+      why: "Worth watching because it competes for similar messaging-native assistant mindshare from a different direction.",
+      tags: ["Python", "Plugins", "IM platform", "Sandbox"],
+      links: [
+        ["Repo", "https://github.com/AstrBotDevs/AstrBot"],
+        ["Site", "https://astrbot.app"]
+      ]
+    },
+    {
+      id: "swarmclaw",
+      name: "SwarmClaw",
+      lane: "orchestration",
+      tier: "T2",
+      label: "Control plane",
+      deployment: "Dashboard over multiple gateways",
+      differentiator: "Fleet and workflow management for many OpenClaw runtimes",
+      short: "Closer to a control plane than a personal assistant product.",
+      why: "Important because ecosystems mature when operators start needing management layers, not just agent runtimes.",
+      tags: ["Dashboard", "Multi-gateway", "Ops", "LangGraph"],
+      links: [
+        ["Repo", "https://github.com/swarmclawai/swarmclaw"],
+        ["Docs", "https://swarmclaw.ai/docs"]
+      ]
+    },
+    {
+      id: "mimiclaw",
+      name: "MimiClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Embedded",
+      deployment: "ESP32 / chip-level assistant",
+      differentiator: "Runs the category on tiny embedded hardware",
+      short: "The most extreme hardware miniaturization story in the ecosystem.",
+      why: "Shows how far the assistant pattern can travel once it becomes infrastructural rather than desktop-bound.",
+      tags: ["C", "Embedded", "ESP32", "$5 chip"],
+      links: [
+        ["Repo", "https://github.com/memovai/mimiclaw"],
+        ["Site", "https://mimiclaw.io"]
+      ]
+    },
+    {
+      id: "clawlet",
+      name: "Clawlet",
+      lane: "longtail",
+      tier: "T3",
+      label: "Single binary",
+      deployment: "Static binary local assistant",
+      differentiator: "Simple single-binary distribution with bundled memory search",
+      short: "A clean minimalist interpretation with very little operational ceremony.",
+      why: "Useful signal that binary-first deployment remains attractive.",
+      tags: ["Go", "Single binary", "SQLite", "Local memory"],
+      links: [["Repo", "https://github.com/mosaxiv/clawlet"]]
+    },
+    {
+      id: "lightclaw",
+      name: "LightClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Lean Rust",
+      deployment: "Rust binary self-hosting",
+      differentiator: "Near-instant startup and low-footprint local-first assistant",
+      short: "Another proof that the ecosystem keeps converging on small binary + local-first execution.",
+      why: "Helps validate that the lightweight lane is not a one-project fad.",
+      tags: ["Rust", "Single binary", "Local-first"],
+      links: [
+        ["Repo", "https://github.com/zofrasca/lightclaw"],
+        ["Site", "https://lightclaw.dev/"]
+      ]
+    },
+    {
+      id: "goclaw",
+      name: "GoClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Go port",
+      deployment: "Go gateway / tray app",
+      differentiator: "Direct Go reinterpretation of the OpenClaw gateway idea",
+      short: "Single binary, low memory, fast startup, with local control-plane ergonomics.",
+      why: "Shows continued appetite for Go as the ‘practical runtime’ answer to Node heaviness.",
+      tags: ["Go", "Tray app", "Gateway", "Fast startup"],
+      links: [["Repo", "https://github.com/sausheong/goclaw"]]
+    },
+    {
+      id: "smallclaw",
+      name: "SmallClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Small models",
+      deployment: "Local-first browser UI",
+      differentiator: "Optimized around small models and single-pass tool calling",
+      short: "A notable angle because it competes by model efficiency, not just runtime efficiency.",
+      why: "Useful for tracking how much of the category can be served by smaller models with tighter loops.",
+      tags: ["TypeScript", "Small models", "Browser UI", "Local-first"],
+      links: [["Repo", "https://github.com/XposeMarket/SmallClaw"]]
+    },
+    {
+      id: "nextclaw",
+      name: "NextClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Plugin compatibility",
+      deployment: "Local assistant with browser UI",
+      differentiator: "Stays close to OpenClaw extensibility while framing itself as lighter",
+      short: "Broad providers, channels, and automation with a strong simplification pitch.",
+      why: "Interesting because compatibility claims often decide whether a lightweight alternative can gain adoption.",
+      tags: ["TypeScript", "Providers", "Channels", "Compatibility"],
+      links: [
+        ["Repo", "https://github.com/Peiiii/nextclaw"],
+        ["Site", "https://nextclaw.io"]
+      ]
+    },
+    {
+      id: "n8nclaw",
+      name: "n8nClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Workflow template",
+      deployment: "n8n visual workflow stack",
+      differentiator: "Rebuilds the assistant pattern as workflow automation rather than a coded framework",
+      short: "Shows OpenClaw becoming an architecture pattern, not only a codebase.",
+      why: "Useful for tracking adoption among no-code and operations-heavy builders.",
+      tags: ["n8n", "Workflow", "Visual automation"],
+      links: [["Repo", "https://github.com/shabbirun/n8nclaw"]]
+    },
+    {
+      id: "freeclaw",
+      name: "FreeClaw",
+      lane: "longtail",
+      tier: "T3",
+      label: "Concept port",
+      deployment: "Minimal Python implementation",
+      differentiator: "Small port of the OpenClaw concept",
+      short: "Low-signal commercially, but useful as evidence that the pattern is portable.",
+      why: "Even small ports matter when they show how quickly the concept can be copied and reshaped.",
+      tags: ["Python", "Minimal", "Concept port"],
+      links: [["Repo", "https://github.com/openconstruct/freeclaw"]]
+    },
+    {
+      id: "icrab",
+      name: "iCrab",
+      lane: "longtail",
+      tier: "T3",
+      label: "Phone repurposing",
+      deployment: "Old iPhone as server",
+      differentiator: "Turns discarded mobile hardware into assistant infrastructure",
+      short: "Another signal that commodity hardware reuse is becoming part of the category’s story.",
+      why: "Matters because infrastructure cost and accessibility change who can adopt these systems.",
+      tags: ["Mobile reuse", "Low cost", "Personal server"],
+      links: [["Repo", "https://github.com/Snehal-Reddy/iCrab"]]
+    },
+    {
+      id: "clawswarm",
+      name: "ClawSwarm",
+      lane: "orchestration",
+      tier: "T3",
+      label: "Swarms angle",
+      deployment: "Swarms-based multi-agent stack",
+      differentiator: "Positions multi-agent coordination as the default product shape",
+      short: "Smaller signal today, but useful as a read on where orchestration branding may go.",
+      why: "Worth tracking because the multi-agent lane is expanding quickly and could fragment into many frameworks.",
+      tags: ["Python", "Swarms", "Multi-agent"],
+      links: [["Repo", "https://github.com/The-Swarm-Corporation/ClawSwarm"]]
+    }
+  ]
+};
+
+const state = {
+  filter: "all",
+  search: "",
+  selected: "openclaw"
+};
+
+const thesisList = document.getElementById("thesisList");
+const metricsGrid = document.getElementById("metricsGrid");
+const filters = document.getElementById("filters");
+const laneContainer = document.getElementById("laneContainer");
+const detailPanel = document.getElementById("detailPanel");
+const tableBody = document.getElementById("tableBody");
+const searchInput = document.getElementById("searchInput");
+
+const laneMap = Object.fromEntries(DATA.lanes.map((lane) => [lane.id, lane]));
+
+function filteredProjects() {
+  const q = state.search.trim().toLowerCase();
+  return DATA.projects.filter((project) => {
+    const laneMatch = state.filter === "all" || project.lane === state.filter;
+    const searchMatch =
+      !q ||
+      project.name.toLowerCase().includes(q) ||
+      project.short.toLowerCase().includes(q) ||
+      project.tags.join(" ").toLowerCase().includes(q) ||
+      project.differentiator.toLowerCase().includes(q);
+    return laneMatch && searchMatch;
+  });
+}
+
+function renderThesis() {
+  thesisList.innerHTML = DATA.thesis.map((item) => `<li>${item}</li>`).join("");
+}
+
+function renderMetrics() {
+  const counts = {
+    total: DATA.projects.length,
+    tier1: DATA.projects.filter((p) => p.tier === "T1").length,
+    lanes: DATA.lanes.length,
+    adjacent: DATA.projects.filter((p) => p.lane === "adjacent").length
+  };
+
+  const metrics = [
+    [counts.total, "Tracked projects"],
+    [counts.tier1, "Tier 1 names"],
+    [counts.lanes, "Strategic lanes"],
+    [counts.adjacent, "Adjacent benchmarks"]
+  ];
+
+  metricsGrid.innerHTML = metrics
+    .map(
+      ([value, label]) => `
+        <article class="metric-card">
+          <div class="metric-value">${value}</div>
+          <div class="metric-label">${label}</div>
+        </article>
+      `
+    )
+    .join("");
+}
+
+function renderFilters() {
+  const items = [{ id: "all", name: "All lanes" }, ...DATA.lanes];
+  filters.innerHTML = items
+    .map(
+      (item) => `
+        <button class="filter-pill ${state.filter === item.id ? "is-active" : ""}" data-filter="${item.id}">
+          ${item.name}
+        </button>
+      `
+    )
+    .join("");
+
+  filters.querySelectorAll("[data-filter]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.filter = button.dataset.filter;
+      renderAtlas();
+      renderFilters();
+    });
+  });
+}
+
+function renderAtlas() {
+  const visibleProjects = filteredProjects();
+  const visibleIds = new Set(visibleProjects.map((project) => project.id));
+
+  if (!visibleIds.has(state.selected) && visibleProjects[0]) {
+    state.selected = visibleProjects[0].id;
+  }
+
+  laneContainer.innerHTML = DATA.lanes
+    .map((lane) => {
+      const projects = visibleProjects.filter((project) => project.lane === lane.id);
+      if (!projects.length) return "";
+
+      return `
+        <section class="lane-card">
+          <div class="lane-head">
+            <div>
+              <h3 class="lane-title">${lane.name}</h3>
+              <p class="lane-thesis">${lane.thesis}</p>
+            </div>
+            <span class="badge">${projects.length}</span>
+          </div>
+          <div class="project-grid">
+            ${projects
+              .map(
+                (project) => `
+                  <button class="project-card ${state.selected === project.id ? "is-active" : ""}" data-project="${project.id}">
+                    <div class="project-meta">
+                      <div>
+                        <h4 class="project-name">${project.name}</h4>
+                        <p class="project-kicker">${project.differentiator}</p>
+                      </div>
+                      <span class="badge">${project.tier}</span>
+                    </div>
+                    <div class="tag-row">
+                      ${project.tags.slice(0, 4).map((tag) => `<span class="tag">${tag}</span>`).join("")}
+                    </div>
+                  </button>
+                `
+              )
+              .join("")}
+          </div>
+        </section>
+      `;
+    })
+    .join("");
+
+  laneContainer.querySelectorAll("[data-project]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.selected = button.dataset.project;
+      renderAtlas();
+      renderDetail();
+    });
+  });
+
+  renderDetail();
+}
+
+function renderDetail() {
+  const project = DATA.projects.find((item) => item.id === state.selected) || DATA.projects[0];
+  const lane = laneMap[project.lane];
+
+  detailPanel.innerHTML = `
+    <div class="detail-header">
+      <div class="detail-topline">
+        <span class="badge">${project.tier}</span>
+        <span class="tag">${lane.name}</span>
+      </div>
+      <div>
+        <h3 class="detail-title">${project.name}</h3>
+        <p class="detail-copy">${project.short}</p>
+      </div>
+      <div class="tag-row">
+        ${project.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
+      </div>
+    </div>
+
+    <div class="detail-stack">
+      <section class="detail-block">
+        <h4>Deployment</h4>
+        <p>${project.deployment}</p>
+      </section>
+      <section class="detail-block">
+        <h4>Strategic differentiator</h4>
+        <p>${project.differentiator}</p>
+      </section>
+      <section class="detail-block">
+        <h4>Why it matters</h4>
+        <p>${project.why}</p>
+      </section>
+      <section class="detail-block">
+        <h4>Links</h4>
+        <div class="link-list">
+          ${project.links
+            .map(([label, url]) => `<a class="link-button" href="${url}" target="_blank" rel="noreferrer">${label}</a>`)
+            .join("")}
+        </div>
+      </section>
+    </div>
+  `;
+}
+
+function renderTable() {
+  tableBody.innerHTML = DATA.projects
+    .map((project) => {
+      const lane = laneMap[project.lane];
+      const primaryLink = project.links[0]?.[1] || "#";
+      return `
+        <tr>
+          <td>
+            <a class="compare-name" href="${primaryLink}" target="_blank" rel="noreferrer">
+              ${project.name} <span class="badge">${project.tier}</span>
+            </a>
+          </td>
+          <td>${lane.name}</td>
+          <td>${project.tier}</td>
+          <td>${project.deployment}</td>
+          <td>${project.differentiator}</td>
+          <td>${project.why}</td>
+        </tr>
+      `;
+    })
+    .join("");
+}
+
+searchInput.addEventListener("input", (event) => {
+  state.search = event.target.value;
+  renderAtlas();
+});
+
+renderThesis();
+renderMetrics();
+renderFilters();
+renderAtlas();
+renderTable();
