@@ -2,6 +2,53 @@
 
 Minimal static site for the OpenClaw ecosystem map.
 
+## Architecture
+
+This site is now **data-driven**.
+
+### Canonical source of truth
+
+The canonical research dataset lives in the Luna workspace at:
+
+- `research/openclaw-ecosystem/ecosystem.json`
+
+That file is the structured source for:
+
+- lanes
+- projects
+- tiers
+- differentiators
+- strategic thesis
+- day-level changes
+- links and deployment notes
+
+### Published site bundle
+
+The hosted site does **not** depend on Luna's filesystem at runtime.
+Instead, the workspace exports a deployable JSON bundle into:
+
+- `openclaw-ecosystem-site/data/summary.json`
+- `openclaw-ecosystem-site/data/lanes.json`
+- `openclaw-ecosystem-site/data/projects.json`
+- `openclaw-ecosystem-site/data/today.json`
+- `openclaw-ecosystem-site/data/ecosystem.json`
+
+The frontend loads those files via `fetch()`.
+
+## Export flow
+
+Generate the site data bundle from the canonical dataset:
+
+```bash
+node /home/jp/.openclaw-client-b/workspace/scripts/export-openclaw-ecosystem-site-data.mjs
+```
+
+Publish the site repo after export:
+
+```bash
+/home/jp/.openclaw-client-b/workspace/scripts/publish-openclaw-ecosystem-site.sh
+```
+
 ## What it is
 
 A single-page ecosystem atlas designed to:
@@ -10,12 +57,6 @@ A single-page ecosystem atlas designed to:
 - group projects by strategic lane instead of using a messy force graph
 - provide detailed drill-down analysis with direct links
 - stay visually aligned with the Lead It UI language
-
-## Files
-
-- `index.html` — page structure
-- `styles.css` — visual system inspired by Lead It
-- `app.js` — dataset + rendering logic
 
 ## Design choices
 

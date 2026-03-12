@@ -1,0 +1,15 @@
+{
+  "date": "2026-03-12 UTC",
+  "changes": [
+    "The ecosystem watch was expanded from a small starter set into a canonical multi-tier tracked set.",
+    "Hermes is now pinned to NousResearch/hermes-agent and tracked as a high-signal adjacent competitor / close conceptual neighbor.",
+    "The daily scan now covers Tier 1, Tier 2, and Tier 3 targets instead of just OpenClaw, PicoClaw, and Perplexity.",
+    "The scan was hardened against GitHub unauthenticated API rate limits so the daily job can continue using README-level evidence when metadata calls fail.",
+    "A daily cron now maintains the ecosystem watch and only posts into the topic when there is a materially meaningful update."
+  ],
+  "whyItMatters": [
+    "We now have a stable operating map of the ecosystem rather than ad hoc research.",
+    "Hermes adds an important differentiator to the watch: the self-improving learning-loop agent narrative.",
+    "The watch is now structured to separate durable strategy from daily movement."
+  ]
+}
