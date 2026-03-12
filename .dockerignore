@@ -1,6 +1,5 @@
 node_modules
 dist
 .git
-.vite
-Dockerfile
-README.md
+.github
+*.md
