@@ -100,6 +100,22 @@ input {
   color: var(--accent);
 }
 
+.nav-cta {
+  padding: 0.45rem 1rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: 180ms ease;
+}
+
+.nav-cta:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(217, 119, 87, 0.22);
+}
+
 /* ── Hero ──────────────────────────────────────────── */
 
 .hero {
