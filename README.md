@@ -101,14 +101,41 @@ npm run build
 npm run preview
 ```
 
+## Docker
+
+Build the image:
+
+```bash
+docker build -t openclaw-ecosystem-atlas .
+```
+
+Run it:
+
+```bash
+docker run --rm -p 8080:8080 openclaw-ecosystem-atlas
+```
+
+Then open:
+
+```text
+http://localhost:8080
+```
+
+Or use Docker Compose:
+
+```bash
+docker compose up --build
+```
+
 ## Deployment
 
-This is a plain static site, so it can be deployed to:
+This site can now be deployed as:
 
 - GitHub Pages
 - Vercel
 - Netlify
 - Cloudflare Pages
+- a plain Docker container on any VPS
 - any static host behind a subdomain
 
 ## Notes
