@@ -1,15 +1,16 @@
 {
-  "date": "2026-03-12 UTC",
+  "date": "2026-03-13 UTC",
   "changes": [
-    "The ecosystem watch was expanded from a small starter set into a canonical multi-tier tracked set.",
-    "Hermes is now pinned to NousResearch/hermes-agent and tracked as a high-signal adjacent competitor / close conceptual neighbor.",
-    "The daily scan now covers Tier 1, Tier 2, and Tier 3 targets instead of just OpenClaw, PicoClaw, and Perplexity.",
-    "The scan was hardened against GitHub unauthenticated API rate limits so the daily job can continue using README-level evidence when metadata calls fail.",
-    "A daily cron now maintains the ecosystem watch and only posts into the topic when there is a materially meaningful update."
+    "The scan recovered full GitHub metadata after yesterday's rate-limit fallback, so the latest snapshot now includes repo stats, release objects, and push timestamps across the tracked set.",
+    "OpenClaw published v2026.3.12 on 2026-03-13 and continues to ship on a rapid daily cadence.",
+    "Hermes Agent now exposes a `hermes claw migrate` command in its README and has a fresh v2026.3.12 release, making the OpenClaw-to-Hermes migration path more explicit.",
+    "SwarmClaw materially rewrote its README from an OpenClaw orchestration dashboard pitch toward a broader autonomous runtime / control-plane story with runtime skills, conversation-to-skill drafting, and crypto-wallet tooling.",
+    "Additional release activity is now visible across adjacent projects including ZeroClaw v0.1.9a, TinyClaw v0.0.12, AstrBot v4.20.0, and SwarmClaw v1.0.6."
   ],
   "whyItMatters": [
-    "We now have a stable operating map of the ecosystem rather than ad hoc research.",
-    "Hermes adds an important differentiator to the watch: the self-improving learning-loop agent narrative.",
-    "The watch is now structured to separate durable strategy from daily movement."
+    "Yesterday's scan mostly confirmed structure; today's scan restores the market's actual movement layer.",
+    "Hermes is strengthening the competitive narrative that users can migrate from OpenClaw into a learning-loop agent rather than adopt a neighboring product cold.",
+    "SwarmClaw now looks less like a thin dashboard and more like an orchestration runtime ambition, which raises the strategic importance of the multi-agent control-plane lane.",
+    "The wider release burst reinforces that the category is still shipping fast across lightweight, orchestration, and adjacent platform players."
   ]
 }
