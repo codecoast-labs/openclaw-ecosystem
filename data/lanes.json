@@ -1,0 +1,32 @@
+[
+  {
+    "id": "core",
+    "name": "Core reference",
+    "thesis": "The original category anchor and the main baseline every other project is reacting to."
+  },
+  {
+    "id": "lightweight",
+    "name": "Lightweight / low-resource",
+    "thesis": "Projects attacking runtime bloat, startup time, hardware cost, and deployment friction."
+  },
+  {
+    "id": "security",
+    "name": "Security-first",
+    "thesis": "Projects that keep the assistant shape but argue for stronger isolation, privacy, and runtime boundaries."
+  },
+  {
+    "id": "orchestration",
+    "name": "Multi-agent / orchestration",
+    "thesis": "Systems moving from one assistant toward teams, manager-worker models, and control planes."
+  },
+  {
+    "id": "adjacent",
+    "name": "Adjacent benchmarks",
+    "thesis": "Close conceptual neighbors and competitive benchmarks that shape the market even without being direct derivatives."
+  },
+  {
+    "id": "longtail",
+    "name": "Long-tail derivatives",
+    "thesis": "Smaller but strategically useful implementations that show how portable the OpenClaw pattern has become."
+  }
+]

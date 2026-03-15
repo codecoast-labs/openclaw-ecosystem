@@ -1,0 +1,28 @@
+{
+  "updatedAt": "2026-03-15 UTC",
+  "thesis": [
+    "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
+    "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
+    "Security-first alternatives are the strongest architectural critique of OpenClaw-style systems.",
+    "Multi-agent orchestration is no longer fringe; it is becoming a standard branch of the category.",
+    "Hermes Agent and Perplexity Computer matter because they push the category toward learning loops and long-running digital work."
+  ],
+  "watchQuestion": {
+    "title": "Which differentiator is proving most durable?",
+    "prompts": [
+      "lighter runtime",
+      "safer runtime",
+      "more agents",
+      "better long-term memory / learning loop",
+      "stronger cloud execution"
+    ]
+  },
+  "metrics": {
+    "totalProjects": 23,
+    "tier1Projects": 8,
+    "tier2Projects": 5,
+    "tier3Projects": 10,
+    "laneCount": 6,
+    "adjacentCount": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-15 UTC",
+  "changes": [
+    "ZeroClaw moved from yesterday's beta-only cadence to a new stable release, v0.3.1, while also continuing same-day beta cuts (v0.3.1-beta.212 and .213).",
+    "HiClaw shipped v1.0.6 and now foregrounds enterprise-grade MCP server management through Higress AI Gateway, strengthening its manager-worker enterprise-control-plane story.",
+    "SwarmClaw shipped v1.0.9 with quieter connector replies, sender-aware direct inbox handling, and cleaner memory-write termination — operational polish more than a new strategic move.",
+    "OpenClaw's latest stable tag for the 2026-03-13 train is now v2026.3.13-1, which looks like a fast follow-up packaging or release correction rather than a new product thesis.",
+    "The tracked set stayed stable today: Hermes remains canonically tracked at NousResearch/hermes-agent, and no new project forced a watchlist or taxonomy change."
+  ],
+  "whyItMatters": [
+    "A fresh stable ZeroClaw cut makes the ultra-lightweight Rust lane look more credible as an actively maturing product line, not just a beta stream.",
+    "HiClaw continues to differentiate less as a clone and more as an enterprise orchestration layer with secure tool access.",
+    "SwarmClaw's release shows the control-plane / operator-runtime segment is iterating on day-two reliability problems, not just launch messaging.",
+    "Because the taxonomy and monitored set did not change, today's signal is execution and product hardening rather than a new ecosystem frame."
+  ]
+}
