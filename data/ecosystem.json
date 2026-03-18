@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16 UTC",
+  "updatedAt": "2026-03-18 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,18 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-03-16 UTC",
+    "date": "2026-03-18 UTC",
     "changes": [
-      "SwarmClaw shipped v1.1.3, v1.1.4, and v1.1.5 in quick succession on 2026-03-16, keeping the control-plane / orchestration lane in active release mode.",
-      "ZeroClaw continued its rapid Rust cadence with three fresh v0.3.4-beta cuts (.230, .231, .232), signaling iterative hardening rather than a new stable milestone.",
-      "PicoClaw published another nightly build on 2026-03-16, reinforcing that the low-cost edge-device lane is still being actively maintained.",
-      "OpenClaw showed fresh repo activity while its latest stable remained v2026.3.13-1; the reference project is still moving, but without a new category-shaping release today.",
-      "Hermes remained canonically tracked at NousResearch/hermes-agent, and the monitored set and taxonomy did not need a change."
+      "OpenClaw did not cut a new stable release, but its official showcase page expanded materially with fresh community evidence across home automation, visual briefings, accounting intake, and other real-world workflows.",
+      "PicoClaw shipped v0.2.3 on 2026-03-17, adding a system tray UI, sub-agent status tracking, experimental gateway hot-reload, cron security gates, and two security fixes.",
+      "ZeroClaw shipped v0.5.0 on 2026-03-18 after a fast beta cadence, turning its recent Rust momentum into a new stable milestone.",
+      "IronClaw shipped v0.19.0 on 2026-03-17, showing the privacy/security-first lane is still moving with regular release discipline.",
+      "Hermes Agent shipped v2026.3.17 (v0.3.0), reinforcing the adjacent learning-loop benchmark with a fresh official release.",
+      "SwarmClaw shipped three releases in one day (v1.2.0, v1.2.1, v1.2.2 on 2026-03-17), keeping the orchestration/control-plane lane in active iteration."
     ],
     "whyItMatters": [
-      "SwarmClaw's release burst is the clearest sign today that the ecosystem is not only cloning the assistant runtime, but also building operator layers above it.",
-      "ZeroClaw and PicoClaw continuing to ship supports the broader thesis that the lightweight / low-resource lane is still the most execution-heavy branch of the ecosystem.",
-      "Because no new project forced a watchlist, taxonomy, or strategic-frame update, today's movement is best read as ongoing product execution rather than a new market turn."
+      "The clearest new signal is not just repo churn but category breadth: OpenClaw's official showcase now demonstrates a wider spread of real deployed use cases, which strengthens the market proof around messaging-native personal assistants.",
+      "PicoClaw, ZeroClaw, and IronClaw all shipping again supports the existing thesis that lightweight and security-conscious reinterpretations remain the most execution-heavy branches of the ecosystem.",
+      "Hermes and SwarmClaw continuing to release keeps pressure on two adjacent fronts: self-improving agent narratives and operator/control-plane tooling for multi-agent deployments.",
+      "Despite the release activity, the monitored set and top-level taxonomy still hold; this looks like ecosystem deepening rather than a strategic map reset."
     ]
   }
 }
