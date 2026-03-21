@@ -1,16 +1,17 @@
 {
-  "date": "2026-03-20 UTC",
+  "date": "2026-03-21 UTC",
   "changes": [
-    "OpenClaw still did not cut a new stable release, but its official showcase page remains the strongest fresh signal: the visible use-case surface expanded materially across home automation, visual briefings, accounting intake, job search, and other real-world workflows.",
-    "Poco shipped v0.3.2 on 2026-03-19, continuing the productized sandboxed-UX lane with another fast follow-up release.",
-    "ZeroClaw continued moving immediately after yesterday's stable v0.5.0 with fresh beta cuts, reinforcing that its Rust line is iterating at high speed rather than pausing after a milestone.",
-    "SwarmClaw extended its rapid release cadence again with v1.2.3 and v1.2.4 on 2026-03-18, keeping the orchestration/control-plane lane visibly active.",
-    "PicoClaw v0.2.3, IronClaw v0.19.0, Hermes Agent v2026.3.17, HiClaw v1.0.7, AstrBot v4.20.1, and TinyAGI v0.0.15 are all still very recent, so the broader field remains in an unusually high-churn release window."
+    "OpenClaw still did not cut a newer stable release than v2026.3.13-1, but its official showcase remains the most important fresh strategic signal: the visible workflow surface is now much broader across home automation, visual briefings, accounting intake, job search, support automation, and hardware control.",
+    "ZeroClaw shipped stable v0.5.4 on 2026-03-20 and immediately followed with new beta builds, reinforcing the Rust lightweight lane as one of the fastest-moving branches in the field.",
+    "IronClaw moved again with v0.21.0 on 2026-03-20, keeping the privacy / defense-in-depth branch on a very fast cadence instead of settling after v0.19.0.",
+    "TinyAGI released v0.0.16 and HiClaw released v1.0.8 on 2026-03-20, so the orchestration / manager-worker lane is still shipping actively across multiple implementations.",
+    "Poco v0.3.2, PicoClaw nightly + v0.2.3, Hermes Agent v2026.3.17, AstrBot v4.20.1, and SwarmClaw v1.2.4 remain very recent, so the broader ecosystem is still in a high-churn release window rather than a pause."
   ],
   "whyItMatters": [
-    "The clearest category signal is still breadth of deployed workflows, not just repo activity: OpenClaw's official showcase now gives stronger proof that messaging-native assistants are escaping demo-land and touching practical daily operations.",
-    "Poco, PicoClaw, ZeroClaw, and IronClaw together keep validating the main execution branches around lighter runtimes, safer runtimes, and more productized self-hosting experiences.",
-    "SwarmClaw, TinyAGI, and HiClaw keep the orchestration layer active, which suggests the market is starting to normalize teams, control planes, and manager-worker structures rather than treating them as side experiments.",
-    "The monitored set and top-level taxonomy still hold. This is ecosystem deepening and velocity, not a strategic map reset."
+    "The biggest category signal is still real-world workflow breadth, not just GitHub churn: OpenClaw's showcase is increasingly evidence that messaging-native assistants are escaping demo-land and touching recurring operational work.",
+    "ZeroClaw, PicoClaw, and Poco keep validating the market demand for lighter, cheaper, and more productized alternatives to the reference implementation.",
+    "IronClaw and NanoClaw keep the security-first critique alive, which matters because runtime trust is becoming a primary product axis rather than a niche concern.",
+    "TinyAGI, HiClaw, and SwarmClaw show that agent teams, control planes, and manager-worker structures are becoming normalized branches of the category.",
+    "The monitored set and top-level taxonomy still hold. This is ecosystem deepening and release velocity, not a strategic map reset."
   ]
 }
