@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-21 UTC",
+  "date": "2026-03-22 UTC",
   "changes": [
-    "OpenClaw still did not cut a newer stable release than v2026.3.13-1, but its official showcase remains the most important fresh strategic signal: the visible workflow surface is now much broader across home automation, visual briefings, accounting intake, job search, support automation, and hardware control.",
-    "ZeroClaw shipped stable v0.5.4 on 2026-03-20 and immediately followed with new beta builds, reinforcing the Rust lightweight lane as one of the fastest-moving branches in the field.",
-    "IronClaw moved again with v0.21.0 on 2026-03-20, keeping the privacy / defense-in-depth branch on a very fast cadence instead of settling after v0.19.0.",
-    "TinyAGI released v0.0.16 and HiClaw released v1.0.8 on 2026-03-20, so the orchestration / manager-worker lane is still shipping actively across multiple implementations.",
-    "Poco v0.3.2, PicoClaw nightly + v0.2.3, Hermes Agent v2026.3.17, AstrBot v4.20.1, and SwarmClaw v1.2.4 remain very recent, so the broader ecosystem is still in a high-churn release window rather than a pause."
+    "ZeroClaw shipped fresh same-day releases again: stable v0.5.7 plus v0.5.7-beta.554, which keeps the Rust lightweight lane among the fastest-moving branches in the field.",
+    "AstrBot moved to v4.21.0, reinforcing that the broader IM-native agent platform space is still shipping quickly, not cooling off.",
+    "OpenClaw still did not cut a newer stable release than v2026.3.13-1, but its official showcase remains the most important strategic signal in this run: the visible workflow surface is now much broader across home automation, visual briefings, accounting intake, job search, support automation, and hardware control.",
+    "NextClaw showed fresh repo activity today, while IronClaw, TinyAGI, HiClaw, Poco, PicoClaw, Hermes Agent, and SwarmClaw all remain on very recent release cadences.",
+    "The monitored set itself did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current taxonomy still fits the market."
   ],
   "whyItMatters": [
-    "The biggest category signal is still real-world workflow breadth, not just GitHub churn: OpenClaw's showcase is increasingly evidence that messaging-native assistants are escaping demo-land and touching recurring operational work.",
-    "ZeroClaw, PicoClaw, and Poco keep validating the market demand for lighter, cheaper, and more productized alternatives to the reference implementation.",
-    "IronClaw and NanoClaw keep the security-first critique alive, which matters because runtime trust is becoming a primary product axis rather than a niche concern.",
-    "TinyAGI, HiClaw, and SwarmClaw show that agent teams, control planes, and manager-worker structures are becoming normalized branches of the category.",
-    "The monitored set and top-level taxonomy still hold. This is ecosystem deepening and release velocity, not a strategic map reset."
+    "The strongest category signal is still workflow breadth, not raw GitHub churn: OpenClaw's showcase is increasingly evidence that messaging-native assistants are escaping demo-land and touching recurring operational work.",
+    "ZeroClaw's same-day stable + beta shipping cadence keeps validating demand for lighter, cheaper, and faster-starting alternatives to the reference implementation.",
+    "AstrBot, HiClaw, TinyAGI, and SwarmClaw show that adjacent platform and orchestration layers are not slowing down either, so competition is widening both horizontally and vertically.",
+    "IronClaw, NanoClaw, and Poco keep the runtime-trust / isolation axis alive, which matters because security is becoming a first-class product wedge rather than a side concern.",
+    "This is still ecosystem deepening, not taxonomy reset: more release velocity, more applied use cases, same top-level strategic map."
   ]
 }
