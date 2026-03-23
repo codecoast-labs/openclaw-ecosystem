@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22 UTC",
+  "updatedAt": "2026-03-23 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-03-22 UTC",
+    "date": "2026-03-23 UTC",
     "changes": [
-      "ZeroClaw shipped fresh same-day releases again: stable v0.5.7 plus v0.5.7-beta.554, which keeps the Rust lightweight lane among the fastest-moving branches in the field.",
-      "AstrBot moved to v4.21.0, reinforcing that the broader IM-native agent platform space is still shipping quickly, not cooling off.",
-      "OpenClaw still did not cut a newer stable release than v2026.3.13-1, but its official showcase remains the most important strategic signal in this run: the visible workflow surface is now much broader across home automation, visual briefings, accounting intake, job search, support automation, and hardware control.",
-      "NextClaw showed fresh repo activity today, while IronClaw, TinyAGI, HiClaw, Poco, PicoClaw, Hermes Agent, and SwarmClaw all remain on very recent release cadences.",
-      "The monitored set itself did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current taxonomy still fits the market."
+      "ZeroClaw shipped another same-day jump: stable v0.5.9 plus two fresh betas (v0.5.9-beta.579 and v0.5.9-beta.578). The Rust lightweight lane is still one of the fastest-moving branches in the field.",
+      "AstrBot advanced again to v4.22.0, which matters because the broader IM-native platform layer is not just active — it is compounding release velocity across consecutive days.",
+      "Hermes Agent and OpenClaw both showed fresh repo activity today, but neither changed the top-line strategic read: OpenClaw remains the category anchor, while Hermes remains the strongest learning-loop adjacent benchmark.",
+      "PicoClaw pushed a new nightly build, while HiClaw, Poco, IronClaw, NextClaw, and SwarmClaw all continued to show fresh motion or very recent release cadence.",
+      "The monitored set itself still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current taxonomy still fits the market."
     ],
     "whyItMatters": [
-      "The strongest category signal is still workflow breadth, not raw GitHub churn: OpenClaw's showcase is increasingly evidence that messaging-native assistants are escaping demo-land and touching recurring operational work.",
-      "ZeroClaw's same-day stable + beta shipping cadence keeps validating demand for lighter, cheaper, and faster-starting alternatives to the reference implementation.",
-      "AstrBot, HiClaw, TinyAGI, and SwarmClaw show that adjacent platform and orchestration layers are not slowing down either, so competition is widening both horizontally and vertically.",
-      "IronClaw, NanoClaw, and Poco keep the runtime-trust / isolation axis alive, which matters because security is becoming a first-class product wedge rather than a side concern.",
-      "This is still ecosystem deepening, not taxonomy reset: more release velocity, more applied use cases, same top-level strategic map."
+      "The strongest live signal is still sustained release tempo across multiple lanes: lightweight, security-first, orchestration, and adjacent IM platforms are all moving at once.",
+      "ZeroClaw keeps reinforcing the case that speed, small footprint, and aggressive shipping cadence are major competitive wedges against the reference implementation.",
+      "AstrBot’s back-to-back movement is a reminder that OpenClaw is not just surrounded by clones; it is also pressured by adjacent plugin-heavy IM agent platforms competing for the same operational workflows.",
+      "Hermes, IronClaw, NanoClaw, and Poco keep the learning-loop + trust boundary conversation alive, which means the category is still widening on architecture, not only on features.",
+      "This is still ecosystem deepening, not taxonomy reset: more momentum, broader proof of demand, same core market map."
     ]
   }
 }
