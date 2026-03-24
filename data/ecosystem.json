@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23 UTC",
+  "updatedAt": "2026-03-24 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-03-23 UTC",
+    "date": "2026-03-24 UTC",
     "changes": [
-      "ZeroClaw shipped another same-day jump: stable v0.5.9 plus two fresh betas (v0.5.9-beta.579 and v0.5.9-beta.578). The Rust lightweight lane is still one of the fastest-moving branches in the field.",
-      "AstrBot advanced again to v4.22.0, which matters because the broader IM-native platform layer is not just active — it is compounding release velocity across consecutive days.",
-      "Hermes Agent and OpenClaw both showed fresh repo activity today, but neither changed the top-line strategic read: OpenClaw remains the category anchor, while Hermes remains the strongest learning-loop adjacent benchmark.",
-      "PicoClaw pushed a new nightly build, while HiClaw, Poco, IronClaw, NextClaw, and SwarmClaw all continued to show fresh motion or very recent release cadence.",
+      "OpenClaw posted a fresh stable release, v2026.3.23, after the v2026.3.22 line and beta moved yesterday. The reference project is still shipping fast, not just absorbing attention.",
+      "Hermes Agent shipped v2026.3.23 / v0.4.0, which is the clearest concrete move yet from the strongest learning-loop adjacent benchmark.",
+      "ZeroClaw kept its velocity up with fresh same-day releases to v0.6.0 and then v0.6.1, plus a beta in between.",
+      "TinyAGI advanced to v0.0.17, while PicoClaw published another nightly build and AstrBot remained on its fresh v4.22.0 line with continued repo activity.",
       "The monitored set itself still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current taxonomy still fits the market."
     ],
     "whyItMatters": [
-      "The strongest live signal is still sustained release tempo across multiple lanes: lightweight, security-first, orchestration, and adjacent IM platforms are all moving at once.",
-      "ZeroClaw keeps reinforcing the case that speed, small footprint, and aggressive shipping cadence are major competitive wedges against the reference implementation.",
-      "AstrBot’s back-to-back movement is a reminder that OpenClaw is not just surrounded by clones; it is also pressured by adjacent plugin-heavy IM agent platforms competing for the same operational workflows.",
-      "Hermes, IronClaw, NanoClaw, and Poco keep the learning-loop + trust boundary conversation alive, which means the category is still widening on architecture, not only on features.",
-      "This is still ecosystem deepening, not taxonomy reset: more momentum, broader proof of demand, same core market map."
+      "This is a stronger signal than a generic 'repos are active' day: the reference implementation, the learning-loop benchmark, the fastest Rust lightweight fork, and the orchestration lane all shipped again within roughly 24 hours.",
+      "OpenClaw’s new stable release matters because it reduces the risk that the ecosystem story becomes 'derivatives are moving faster than the original.'",
+      "Hermes now has a fresh concrete release, which strengthens the case that memory + self-improvement + flexible runtime backends is a real adjacent product direction, not just good positioning copy.",
+      "ZeroClaw continues to prove that speed, low-footprint deployment, and high release tempo remain one of the sharpest competitive wedges in the category.",
+      "This is still ecosystem deepening, not taxonomy reset: more validation across the same strategic lanes, without needing to redraw the map."
     ]
   }
 }
