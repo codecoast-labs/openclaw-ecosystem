@@ -1,17 +1,15 @@
 {
-  "date": "2026-03-24 UTC",
+  "date": "2026-03-25 UTC",
   "changes": [
-    "OpenClaw posted a fresh stable release, v2026.3.23, after the v2026.3.22 line and beta moved yesterday. The reference project is still shipping fast, not just absorbing attention.",
-    "Hermes Agent shipped v2026.3.23 / v0.4.0, which is the clearest concrete move yet from the strongest learning-loop adjacent benchmark.",
-    "ZeroClaw kept its velocity up with fresh same-day releases to v0.6.0 and then v0.6.1, plus a beta in between.",
-    "TinyAGI advanced to v0.0.17, while PicoClaw published another nightly build and AstrBot remained on its fresh v4.22.0 line with continued repo activity.",
-    "The monitored set itself still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current taxonomy still fits the market."
+    "ZeroClaw added another same-cycle release with v0.6.2, extending the burst that already produced v0.6.0 and v0.6.1 yesterday.",
+    "nanobot elevated a litellm supply-chain poisoning advisory to the top of its README and pointed users to the dependency-removal commit 3dfdab7.",
+    "PicoClaw pushed a fresher nightly build, while OpenClaw, Hermes Agent, NanoClaw, IronClaw, and AstrBot all showed continued repo movement without a taxonomy-changing announcement.",
+    "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
   ],
   "whyItMatters": [
-    "This is a stronger signal than a generic 'repos are active' day: the reference implementation, the learning-loop benchmark, the fastest Rust lightweight fork, and the orchestration lane all shipped again within roughly 24 hours.",
-    "OpenClaw’s new stable release matters because it reduces the risk that the ecosystem story becomes 'derivatives are moving faster than the original.'",
-    "Hermes now has a fresh concrete release, which strengthens the case that memory + self-improvement + flexible runtime backends is a real adjacent product direction, not just good positioning copy.",
-    "ZeroClaw continues to prove that speed, low-footprint deployment, and high release tempo remain one of the sharpest competitive wedges in the category.",
-    "This is still ecosystem deepening, not taxonomy reset: more validation across the same strategic lanes, without needing to redraw the map."
+    "The clearest new signal today is security posture becoming part of the competitive story, not just feature velocity.",
+    "ZeroClaw’s v0.6.2 keeps reinforcing the same wedge: fast release tempo plus a low-footprint Rust runtime remains one of the strongest derivative narratives in the market.",
+    "The broader field is still active, but today looks more like ecosystem continuation and hardening than a new category turn.",
+    "This is meaningful enough for the daily record, but not enough to redraw the stable strategic read."
   ]
 }
