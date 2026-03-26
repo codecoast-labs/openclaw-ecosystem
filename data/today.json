@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25 UTC",
+  "date": "2026-03-26 UTC",
   "changes": [
     "ZeroClaw added another same-cycle release with v0.6.2, extending the burst that already produced v0.6.0 and v0.6.1 yesterday.",
     "nanobot elevated a litellm supply-chain poisoning advisory to the top of its README and pointed users to the dependency-removal commit 3dfdab7.",
