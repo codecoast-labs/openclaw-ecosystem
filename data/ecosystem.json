@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26 UTC",
+  "updatedAt": "2026-03-27 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,18 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-03-26 UTC",
+    "date": "2026-03-27 UTC",
     "changes": [
-      "ZeroClaw added another same-cycle release with v0.6.2, extending the burst that already produced v0.6.0 and v0.6.1 yesterday.",
-      "nanobot elevated a litellm supply-chain poisoning advisory to the top of its README and pointed users to the dependency-removal commit 3dfdab7.",
-      "PicoClaw pushed a fresher nightly build, while OpenClaw, Hermes Agent, NanoClaw, IronClaw, and AstrBot all showed continued repo movement without a taxonomy-changing announcement.",
+      "ZeroClaw added two more same-cycle releases, v0.6.3 and v0.6.5, extending its rapid-fire Rust release pattern.",
+      "IronClaw shipped v0.23.0 one day after v0.22.0, reinforcing momentum in the security-first lane.",
+      "NanoClaw updated its README to say outbound requests now route through OneCLI's Agent Vault so agents never hold raw API keys.",
+      "TinyAGI released v0.0.20, while Hermes Agent, OpenClaw, PicoClaw, AstrBot, and HiClaw all continued showing active repo movement without a taxonomy reset.",
       "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
     ],
     "whyItMatters": [
-      "The clearest new signal today is security posture becoming part of the competitive story, not just feature velocity.",
-      "ZeroClaw’s v0.6.2 keeps reinforcing the same wedge: fast release tempo plus a low-footprint Rust runtime remains one of the strongest derivative narratives in the market.",
-      "The broader field is still active, but today looks more like ecosystem continuation and hardening than a new category turn.",
-      "This is meaningful enough for the daily record, but not enough to redraw the stable strategic read."
+      "Today reinforces the two strongest non-core wedges in the market: lighter runtime velocity and stronger security boundaries.",
+      "ZeroClaw’s release burst is increasingly part of its identity rather than a one-off spike.",
+      "NanoClaw’s Agent Vault framing sharpens the security critique from generic isolation to concrete credential-boundary design.",
+      "This is meaningful enough for the daily record and outbound digest, but not enough to redraw the stable strategic read."
     ]
   }
 }
