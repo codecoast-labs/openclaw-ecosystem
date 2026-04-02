@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27 UTC",
+  "updatedAt": "2026-04-02 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -308,7 +308,7 @@
       "links": [
         [
           "Repo",
-          "https://github.com/alibaba/hiclaw"
+          "https://github.com/agentscope-ai/HiClaw"
         ],
         [
           "Site",
@@ -648,18 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-03-27 UTC",
+    "date": "2026-04-02 UTC",
     "changes": [
-      "ZeroClaw added two more same-cycle releases, v0.6.3 and v0.6.5, extending its rapid-fire Rust release pattern.",
-      "IronClaw shipped v0.23.0 one day after v0.22.0, reinforcing momentum in the security-first lane.",
-      "NanoClaw updated its README to say outbound requests now route through OneCLI's Agent Vault so agents never hold raw API keys.",
-      "TinyAGI released v0.0.20, while Hermes Agent, OpenClaw, PicoClaw, AstrBot, and HiClaw all continued showing active repo movement without a taxonomy reset.",
+      "OpenClaw shipped v2026.4.1 on 2026-04-01, with a same-day beta alongside it, maintaining fast cadence from the category anchor.",
+      "ZeroClaw released v0.6.8 on 2026-04-02 after v0.6.7 on 2026-03-29, reinforcing its rapid Rust-native shipping pattern.",
+      "Hermes Agent reached v2026.3.30 and now explicitly includes a 'hermes claw migrate' path in its README, making the migration story from OpenClaw more overt.",
+      "PicoClaw elevated Android support into its visible product/news surface, widening the low-cost lightweight lane beyond boards and desktops.",
+      "TinyAGI has fully leaned into the TinyClaw -> TinyAGI rename in repo and release surface area, while NanoClaw, IronClaw, AstrBot, HiClaw, and SwarmClaw continue moving without forcing a taxonomy reset.",
       "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
     ],
     "whyItMatters": [
-      "Today reinforces the two strongest non-core wedges in the market: lighter runtime velocity and stronger security boundaries.",
-      "ZeroClaw’s release burst is increasingly part of its identity rather than a one-off spike.",
-      "NanoClaw’s Agent Vault framing sharpens the security critique from generic isolation to concrete credential-boundary design.",
+      "The ecosystem is continuing to differentiate by durable wedges rather than collapsing into one generic OpenClaw clone pattern.",
+      "OpenClaw still sets the center of gravity, but ZeroClaw and PicoClaw keep validating the lightweight / low-cost lane as a serious branch of the market.",
+      "Hermes strengthens the adjacent threat/opportunity from the learning-loop side by making migration from OpenClaw more explicit.",
+      "TinyAGI’s rename is a reminder that orchestration players may increasingly frame themselves around teams/companies rather than assistant-clone branding.",
       "This is meaningful enough for the daily record and outbound digest, but not enough to redraw the stable strategic read."
     ]
   }
