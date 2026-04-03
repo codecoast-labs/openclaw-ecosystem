@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02 UTC",
+  "updatedAt": "2026-04-03 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,21 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-02 UTC",
+    "date": "2026-04-03 UTC",
     "changes": [
-      "OpenClaw shipped v2026.4.1 on 2026-04-01, with a same-day beta alongside it, maintaining fast cadence from the category anchor.",
-      "ZeroClaw released v0.6.8 on 2026-04-02 after v0.6.7 on 2026-03-29, reinforcing its rapid Rust-native shipping pattern.",
-      "Hermes Agent reached v2026.3.30 and now explicitly includes a 'hermes claw migrate' path in its README, making the migration story from OpenClaw more overt.",
-      "PicoClaw elevated Android support into its visible product/news surface, widening the low-cost lightweight lane beyond boards and desktops.",
-      "TinyAGI has fully leaned into the TinyClaw -> TinyAGI rename in repo and release surface area, while NanoClaw, IronClaw, AstrBot, HiClaw, and SwarmClaw continue moving without forcing a taxonomy reset.",
+      "OpenClaw shipped v2026.4.2 on 2026-04-02, one day after v2026.4.1, maintaining a very fast category-anchor release tempo.",
+      "HiClaw published v1.0.9 on 2026-04-02, showing the orchestration / team-assistant lane is still iterating after the repo move.",
+      "SwarmClaw published v1.3.4 on 2026-04-02, reinforcing that the multi-agent long tail is still shipping in public.",
+      "Hermes Agent, ZeroClaw, PicoClaw, NanoClaw, IronClaw, AstrBot, and TinyAGI all showed continued repo movement in the 2026-04-03 snapshot without forcing a taxonomy reset.",
       "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
     ],
     "whyItMatters": [
-      "The ecosystem is continuing to differentiate by durable wedges rather than collapsing into one generic OpenClaw clone pattern.",
-      "OpenClaw still sets the center of gravity, but ZeroClaw and PicoClaw keep validating the lightweight / low-cost lane as a serious branch of the market.",
-      "Hermes strengthens the adjacent threat/opportunity from the learning-loop side by making migration from OpenClaw more explicit.",
-      "TinyAGI’s rename is a reminder that orchestration players may increasingly frame themselves around teams/companies rather than assistant-clone branding.",
-      "This is meaningful enough for the daily record and outbound digest, but not enough to redraw the stable strategic read."
+      "The clearest fresh signal is continued category velocity: OpenClaw is still shipping often enough to define the pace others react to.",
+      "HiClaw and SwarmClaw matter as proof that the multi-agent / orchestration branch is still alive across more than one public project.",
+      "This is real movement, but still mostly execution inside existing lanes rather than a strategic redraw of the ecosystem.",
+      "That keeps map.md and executive-digest.md stable while today.md records the incremental pulse."
     ]
   }
 }
