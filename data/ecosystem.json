@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03 UTC",
+  "updatedAt": "2026-04-04 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-03 UTC",
+    "date": "2026-04-04 UTC",
     "changes": [
-      "OpenClaw shipped v2026.4.2 on 2026-04-02, one day after v2026.4.1, maintaining a very fast category-anchor release tempo.",
-      "HiClaw published v1.0.9 on 2026-04-02, showing the orchestration / team-assistant lane is still iterating after the repo move.",
-      "SwarmClaw published v1.3.4 on 2026-04-02, reinforcing that the multi-agent long tail is still shipping in public.",
-      "Hermes Agent, ZeroClaw, PicoClaw, NanoClaw, IronClaw, AstrBot, and TinyAGI all showed continued repo movement in the 2026-04-03 snapshot without forcing a taxonomy reset.",
+      "Hermes Agent shipped v2026.4.3 on 2026-04-03, which is the cleanest new adjacent-benchmark signal in this run because Hermes is one of the few projects pushing the learning-loop lane hard.",
+      "SwarmClaw shipped v1.4.0 on 2026-04-03 after two same-day releases, reinforcing how quickly the orchestration / control-plane branch is iterating.",
+      "PicoClaw published v0.2.5 on 2026-04-03 and also cut a fresh nightly on 2026-04-04, keeping the cheap-hardware / edge lane visibly active.",
+      "OpenClaw itself did not ship a newer release after v2026.4.2, but the repo stayed hot in the 2026-04-04 snapshot and still sets the ecosystem tempo.",
       "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
     ],
     "whyItMatters": [
-      "The clearest fresh signal is continued category velocity: OpenClaw is still shipping often enough to define the pace others react to.",
-      "HiClaw and SwarmClaw matter as proof that the multi-agent / orchestration branch is still alive across more than one public project.",
-      "This is real movement, but still mostly execution inside existing lanes rather than a strategic redraw of the ecosystem.",
-      "That keeps map.md and executive-digest.md stable while today.md records the incremental pulse."
+      "The strongest fresh signal is continued category velocity across multiple lanes at once: the core anchor, the learning-loop benchmark, the edge/runtime-efficiency lane, and the orchestration layer are all still shipping in public.",
+      "Hermes matters because it strengthens the case that self-improving memory plus skill-learning is becoming a real differentiator, not just marketing copy.",
+      "SwarmClaw matters because it shows the market is still exploring management layers above single-agent assistants, not just lighter rewrites of the base assistant.",
+      "Even with that motion, this is still incremental execution inside the existing taxonomy, so map.md, tracked-targets.md, and executive-digest.md stay stable."
     ]
   }
 }
