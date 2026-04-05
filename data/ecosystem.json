@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04 UTC",
+  "updatedAt": "2026-04-05 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-04-04 UTC",
+    "date": "2026-04-05 UTC",
     "changes": [
-      "Hermes Agent shipped v2026.4.3 on 2026-04-03, which is the cleanest new adjacent-benchmark signal in this run because Hermes is one of the few projects pushing the learning-loop lane hard.",
-      "SwarmClaw shipped v1.4.0 on 2026-04-03 after two same-day releases, reinforcing how quickly the orchestration / control-plane branch is iterating.",
-      "PicoClaw published v0.2.5 on 2026-04-03 and also cut a fresh nightly on 2026-04-04, keeping the cheap-hardware / edge lane visibly active.",
-      "OpenClaw itself did not ship a newer release after v2026.4.2, but the repo stayed hot in the 2026-04-04 snapshot and still sets the ecosystem tempo.",
-      "The monitored set still did not need to change: Hermes remains the canonical tracked repo at https://github.com/NousResearch/hermes-agent, and the current positioning map still holds."
+      "SwarmClaw pushed v1.4.1, v1.4.2, and v1.4.3 on 2026-04-04, which is the clearest fresh signal that the orchestration / control-plane lane is still iterating at high speed.",
+      "Poco shipped v0.4.0 on 2026-04-04, adding a meaningful product-layer update from a UI-heavy, sandbox-first OpenClaw alternative.",
+      "AstrBot shipped v4.22.3 on 2026-04-04, keeping the broader IM-agent platform overlap lane active.",
+      "PicoClaw cut a fresh nightly on 2026-04-05, so the cheap-hardware / edge lane is still visibly shipping even without a new stable tag.",
+      "OpenClaw and Hermes Agent did not ship newer releases after v2026.4.2 and v2026.4.3, but both repos stayed very active in the 2026-04-05 snapshot."
     ],
     "whyItMatters": [
-      "The strongest fresh signal is continued category velocity across multiple lanes at once: the core anchor, the learning-loop benchmark, the edge/runtime-efficiency lane, and the orchestration layer are all still shipping in public.",
-      "Hermes matters because it strengthens the case that self-improving memory plus skill-learning is becoming a real differentiator, not just marketing copy.",
-      "SwarmClaw matters because it shows the market is still exploring management layers above single-agent assistants, not just lighter rewrites of the base assistant.",
-      "Even with that motion, this is still incremental execution inside the existing taxonomy, so map.md, tracked-targets.md, and executive-digest.md stay stable."
+      "The strongest fresh read is still breadth of execution, not a taxonomy break: orchestration, safer product UX, IM-platform overlap, and edge deployment are all moving at once.",
+      "SwarmClaw matters because rapid release cadence suggests the market still wants management layers above single-agent assistants, not just lighter rewrites.",
+      "Poco matters because it reinforces the case that sandbox plus polished operator UI is a durable alternative packaging of the same assistant category.",
+      "AstrBot matters less as a direct derivative than as a reminder that messaging-native agent infrastructure remains a crowded adjacent battlefield.",
+      "This is still incremental movement inside the current map, so tracked-targets.md, map.md, and executive-digest.md stay stable."
     ]
   }
 }
