@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06 UTC",
+  "updatedAt": "2026-04-07 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-06 UTC",
+    "date": "2026-04-07 UTC",
     "changes": [
-      "OpenClaw shipped v2026.4.5 on 2026-04-06, which is the clearest fresh category-anchor signal in this run.",
-      "SwarmClaw followed its 2026-04-04 burst with v1.4.5 on 2026-04-05, reinforcing that the orchestration / control-plane lane is still iterating quickly.",
-      "PicoClaw kept the edge lane active with a fresh nightly on 2026-04-05, while Poco v0.4.0 and AstrBot v4.22.3 remained the most recent product-layer and adjacent-platform releases from the prior 48 hours.",
-      "Hermes Agent did not ship a newer release after v2026.4.3, but the canonical repo stayed active in the 2026-04-06 snapshot.",
-      "The canonical repo references are now cleaner in the dataset too: TinyClaw is tracked through TinyAGI and HiClaw through agentscope-ai/HiClaw."
+      "No newer Tier 1 release landed between the 2026-04-06 and 2026-04-07 UTC scans; the biggest fresh product signal in the current window is still OpenClaw v2026.4.5, published on 2026-04-06.",
+      "SwarmClaw still looks unusually active in the orchestration lane, with its 2026-04-06 release burst now carrying into today's scan as a live signal rather than a one-off blip.",
+      "The atlas dataset itself materially improved today: Hermes Agent is now pinned to its canonical repo, NousResearch/hermes-agent, while TinyClaw and HiClaw now point to the correct official repos.",
+      "The scan also promoted several newly source-backed OpenClaw showcase use cases into the research layer: device-control handoff / home automation, scheduled visual morning briefings, and accounting intake from email plus PDFs."
     ],
     "whyItMatters": [
-      "The important change today is that the reference implementation itself shipped again: this is not just derivative churn.",
-      "SwarmClaw still matters because repeated fast releases suggest sustained demand for management layers above a single assistant runtime.",
-      "Poco and AstrBot still support the same strategic read: productized sandbox UX and messaging-native platform overlap remain live pressure points around the category.",
-      "Updating TinyAGI and HiClaw canonical repo links matters for the hosted atlas because it keeps the watch grounded in the right official surfaces, not stale aliases.",
-      "This is still incremental movement inside the current map, so the taxonomy and executive read remain stable."
+      "The product market read did not meaningfully shift overnight; today's value is confirmation and cleanup, not invented movement.",
+      "OpenClaw's 2026-04-06 release still anchors the category, which matters more than derivative churn by itself.",
+      "The canonical repo corrections matter because the hosted atlas should track the real official surfaces, not stale aliases or superseded repos.",
+      "The new showcase-backed use cases matter because they broaden the evidence base for how OpenClaw is actually being used: not just chat and coding, but steady-state automation and back-office workflow compression.",
+      "This remains meaningful but incremental: enough for a short operator digest, but not enough to rewrite the taxonomy or executive view."
     ]
   }
 }
