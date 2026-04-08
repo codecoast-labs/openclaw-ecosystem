@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07 UTC",
+  "updatedAt": "2026-04-08 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-07 UTC",
+    "date": "2026-04-08 UTC",
     "changes": [
-      "No newer Tier 1 release landed between the 2026-04-06 and 2026-04-07 UTC scans; the biggest fresh product signal in the current window is still OpenClaw v2026.4.5, published on 2026-04-06.",
-      "SwarmClaw still looks unusually active in the orchestration lane, with its 2026-04-06 release burst now carrying into today's scan as a live signal rather than a one-off blip.",
-      "The atlas dataset itself materially improved today: Hermes Agent is now pinned to its canonical repo, NousResearch/hermes-agent, while TinyClaw and HiClaw now point to the correct official repos.",
-      "The scan also promoted several newly source-backed OpenClaw showcase use cases into the research layer: device-control handoff / home automation, scheduled visual morning briefings, and accounting intake from email plus PDFs."
+      "OpenClaw shipped two same-day releases on 2026-04-08 UTC: v2026.4.7 at 02:12 UTC and v2026.4.8 at 05:59 UTC.",
+      "ZeroClaw also published v0.6.9 at 2026-04-08 06:11 UTC, keeping the lightweight Rust lane active.",
+      "The atlas dataset remains cleaner than last week: Hermes Agent is pinned to NousResearch/hermes-agent, while TinyClaw / TinyAGI and HiClaw now point to their correct official repos.",
+      "The latest OpenClaw showcase additions still hold as valid source-backed use-case expansion: device-control handoff, scheduled visual morning briefings, and accounting intake from email plus PDFs."
     ],
     "whyItMatters": [
-      "The product market read did not meaningfully shift overnight; today's value is confirmation and cleanup, not invented movement.",
-      "OpenClaw's 2026-04-06 release still anchors the category, which matters more than derivative churn by itself.",
-      "The canonical repo corrections matter because the hosted atlas should track the real official surfaces, not stale aliases or superseded repos.",
-      "The new showcase-backed use cases matter because they broaden the evidence base for how OpenClaw is actually being used: not just chat and coding, but steady-state automation and back-office workflow compression.",
-      "This remains meaningful but incremental: enough for a short operator digest, but not enough to rewrite the taxonomy or executive view."
+      "This is no longer just a cleanup run: the category anchor itself moved again today, which is the highest-signal kind of ecosystem activity.",
+      "OpenClaw's release velocity strengthens the read that the reference product is still setting pace, not just holding incumbency.",
+      "ZeroClaw's fresh release reinforces that the lightweight Rust lane is still active, but it does not yet overturn the broader market map.",
+      "Repo canonicalization still matters for the hosted atlas because strategic monitoring is only useful if it points to the real official surfaces.",
+      "Net: this is meaningful but still incremental. Enough for a short operator digest, not enough to rewrite the taxonomy or executive view."
     ]
   }
 }
