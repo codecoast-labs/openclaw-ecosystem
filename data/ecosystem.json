@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08 UTC",
+  "updatedAt": "2026-04-09 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-04-08 UTC",
+    "date": "2026-04-09 UTC",
     "changes": [
-      "OpenClaw shipped two same-day releases on 2026-04-08 UTC: v2026.4.7 at 02:12 UTC and v2026.4.8 at 05:59 UTC.",
-      "ZeroClaw also published v0.6.9 at 2026-04-08 06:11 UTC, keeping the lightweight Rust lane active.",
-      "The atlas dataset remains cleaner than last week: Hermes Agent is pinned to NousResearch/hermes-agent, while TinyClaw / TinyAGI and HiClaw now point to their correct official repos.",
-      "The latest OpenClaw showcase additions still hold as valid source-backed use-case expansion: device-control handoff, scheduled visual morning briefings, and accounting intake from email plus PDFs."
+      "OpenClaw shipped v2026.4.9 on 2026-04-09 at 02:25 UTC, after a short-lived v2026.4.9-beta.1 at 01:26 UTC.",
+      "PicoClaw published v0.2.6 on 2026-04-08 at 13:39 UTC, keeping the cheap-hardware and edge lane active.",
+      "Hermes Agent published v2026.4.8 / v0.8.0 on 2026-04-08 at 11:56 UTC, extending the learning-loop adjacent benchmark's release momentum.",
+      "The broader atlas structure is unchanged today: the monitored set, taxonomy, and executive read still hold."
     ],
     "whyItMatters": [
-      "This is no longer just a cleanup run: the category anchor itself moved again today, which is the highest-signal kind of ecosystem activity.",
-      "OpenClaw's release velocity strengthens the read that the reference product is still setting pace, not just holding incumbency.",
-      "ZeroClaw's fresh release reinforces that the lightweight Rust lane is still active, but it does not yet overturn the broader market map.",
-      "Repo canonicalization still matters for the hosted atlas because strategic monitoring is only useful if it points to the real official surfaces.",
-      "Net: this is meaningful but still incremental. Enough for a short operator digest, not enough to rewrite the taxonomy or executive view."
+      "OpenClaw remains the highest-signal mover in the category, and another same-day release keeps the reference product in pace-setting territory.",
+      "PicoClaw continuing to ship reinforces that the lightweight edge-hardware lane is not just a one-week spike.",
+      "Hermes shipping again matters because the strongest learning-loop adjacent keeps compounding, not stalling.",
+      "Net: this is meaningful operating movement, but still not enough to rewrite the map or executive thesis."
     ]
   }
 }
