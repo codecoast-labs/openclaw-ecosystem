@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09 UTC",
+  "updatedAt": "2026-04-10 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,18 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-04-09 UTC",
+    "date": "2026-04-10 UTC",
     "changes": [
-      "OpenClaw shipped v2026.4.9 on 2026-04-09 at 02:25 UTC, after a short-lived v2026.4.9-beta.1 at 01:26 UTC.",
-      "PicoClaw published v0.2.6 on 2026-04-08 at 13:39 UTC, keeping the cheap-hardware and edge lane active.",
-      "Hermes Agent published v2026.4.8 / v0.8.0 on 2026-04-08 at 11:56 UTC, extending the learning-loop adjacent benchmark's release momentum.",
+      "No new Tier 1 or adjacent benchmark release landed in the latest scan window.",
+      "PicoClaw posted a fresh nightly build at 2026-04-10 03:30 UTC, but its latest stable release is still v0.2.6.",
+      "Hermes Agent did not cut a new release, but its README now explicitly documents Android / Termux support in the install path.",
       "The broader atlas structure is unchanged today: the monitored set, taxonomy, and executive read still hold."
     ],
     "whyItMatters": [
-      "OpenClaw remains the highest-signal mover in the category, and another same-day release keeps the reference product in pace-setting territory.",
-      "PicoClaw continuing to ship reinforces that the lightweight edge-hardware lane is not just a one-week spike.",
-      "Hermes shipping again matters because the strongest learning-loop adjacent keeps compounding, not stalling.",
-      "Net: this is meaningful operating movement, but still not enough to rewrite the map or executive thesis."
+      "This is incremental product motion, not a category-shaping move.",
+      "PicoClaw's nightly cadence still reinforces the fast-moving edge and low-resource lane.",
+      "Hermes broadening the documented install story to Android nudges it a bit further toward portable, always-available personal-agent positioning.",
+      "Net: the ecosystem is still active, but nothing materially new happened today."
     ]
   }
 }
