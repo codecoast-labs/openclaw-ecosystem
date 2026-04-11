@@ -1,15 +1,17 @@
 {
-  "date": "2026-04-10 UTC",
+  "date": "2026-04-11 UTC",
   "changes": [
-    "No new Tier 1 or adjacent benchmark release landed in the latest scan window.",
-    "PicoClaw posted a fresh nightly build at 2026-04-10 03:30 UTC, but its latest stable release is still v0.2.6.",
-    "Hermes Agent did not cut a new release, but its README now explicitly documents Android / Termux support in the install path.",
+    "OpenClaw released v2026.4.10 on 2026-04-11 02:43 UTC.",
+    "IronClaw released ironclaw-v0.25.0 on 2026-04-11 01:41 UTC.",
+    "PicoClaw posted another nightly build on 2026-04-11 00:53 UTC, while stable remains v0.2.6.",
+    "Hermes Agent still has no new release since v2026.4.8, but its install/docs surface now clearly includes Android / Termux support.",
     "The broader atlas structure is unchanged today: the monitored set, taxonomy, and executive read still hold."
   ],
   "whyItMatters": [
-    "This is incremental product motion, not a category-shaping move.",
+    "OpenClaw shipping again matters because the category anchor is still setting product pace, not just mindshare.",
+    "IronClaw shipping on the same day reinforces that the privacy and security lane is staying active, not stalling behind the lightweight clones.",
     "PicoClaw's nightly cadence still reinforces the fast-moving edge and low-resource lane.",
-    "Hermes broadening the documented install story to Android nudges it a bit further toward portable, always-available personal-agent positioning.",
-    "Net: the ecosystem is still active, but nothing materially new happened today."
+    "Hermes broadening the documented install story to Android helps its portable, always-available personal-agent positioning, but remains secondary to the release activity above.",
+    "Net: this was a material day-level update, but it does not change the stable strategic thesis yet."
   ]
 }
