@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12 UTC",
+  "updatedAt": "2026-04-13 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-12 UTC",
+    "date": "2026-04-13 UTC",
     "changes": [
-      "OpenClaw released v2026.4.11 on 2026-04-12 00:18 UTC, after a v2026.4.11-beta.1 cut on 2026-04-11 15:15 UTC.",
-      "PicoClaw posted another nightly build on 2026-04-12 00:59 UTC, while stable remains v0.2.6.",
-      "AstrBot released v4.23.0-beta.1 on 2026-04-11 13:54 UTC.",
-      "SwarmClaw shipped another release burst on 2026-04-11, most recently v1.5.35.",
+      "OpenClaw cut v2026.4.12-beta.1 on 2026-04-12 23:27 UTC.",
+      "AstrBot promoted its beta into stable v4.23.0 on 2026-04-12 16:38 UTC.",
+      "SwarmClaw kept shipping fast follow-ups on 2026-04-12, reaching v1.5.40.",
+      "PicoClaw posted another nightly build on 2026-04-13 01:01 UTC, while stable remains v0.2.6.",
       "Hermes Agent still has no new release since v2026.4.8, and the broader atlas structure is unchanged today."
     ],
     "whyItMatters": [
-      "OpenClaw shipping again matters most because the category anchor is still setting the pace, with a fast beta-to-stable turn.",
-      "PicoClaw's nightly cadence still reinforces the fast-moving edge and low-resource lane.",
-      "AstrBot and SwarmClaw both moving on the same cycle are useful adjacent signals that the broader messaging-native and orchestration layer is active.",
-      "Hermes remaining strategically important without a same-day release is itself informative: the learning-loop lane remains relevant even when today's motion is elsewhere.",
+      "OpenClaw remains the pacing project, and another beta this quickly suggests the anchor product is still in a rapid release loop.",
+      "AstrBot converting beta into stable matters because the broader IM-native agent layer is not just experimenting, it is shipping production releases.",
+      "SwarmClaw's release burst reinforces that the orchestration and control-plane lane is still active around the OpenClaw ecosystem.",
+      "PicoClaw's nightly cadence continues to validate the low-resource edge lane as a live competitive direction.",
       "Net: this was a material day-level update, but it does not change the stable strategic thesis yet."
     ]
   }
