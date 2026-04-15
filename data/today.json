@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-14 UTC",
+  "date": "2026-04-15 UTC",
   "changes": [
-    "OpenClaw shipped v2026.4.14-beta.1 on 2026-04-14 02:07 UTC, immediately after the new stable v2026.4.12 on 2026-04-13.",
-    "Hermes Agent moved again with v2026.4.13 on 2026-04-13 18:52 UTC.",
-    "AstrBot followed its fresh stable with patch release v4.23.1 on 2026-04-13 15:42 UTC.",
-    "SwarmClaw kept shipping rapid follow-ups, reaching v1.5.44 on 2026-04-13 12:10 UTC.",
-    "PicoClaw posted another nightly build on 2026-04-14 03:18 UTC, while stable remains v0.2.6."
+    "OpenClaw converted yesterday’s beta into stable with v2026.4.14, published on 2026-04-14 13:03 UTC.",
+    "nanobot shipped v0.1.5.post1 on 2026-04-14 18:58 UTC, then updated its README/news stream with the release details.",
+    "PicoClaw posted another nightly build on 2026-04-15 01:02 UTC, keeping the edge-runtime lane visibly active between stable cuts.",
+    "SwarmClaw kept firing rapid orchestration releases, jumping to v1.5.49 on 2026-04-14 22:00 UTC after a same-day run through v1.5.47 and v1.5.48.",
+    "OpenClaw’s showcase/readme layer also exposed fresh evidence of broader use-case depth, including home automation from discovered controls, scheduled visual briefings, and accounting intake workflows."
   ],
   "whyItMatters": [
-    "OpenClaw is still setting category pace, and the quick beta-after-stable pattern suggests active shipping pressure on the core reference product.",
-    "Hermes moving matters because the strongest learning-loop adjacent benchmark is still shipping, not stalling.",
-    "AstrBot and SwarmClaw both releasing again reinforces that the IM-native and orchestration layers around this category remain very live.",
-    "PicoClaw continuing nightly updates keeps the low-resource edge lane credible even without a new stable cut.",
-    "Net: this was another material day-level update, but it still does not change the stable strategic thesis yet."
+    "OpenClaw is still the pace-setter, and turning the beta into a same-cycle stable reinforces that the category anchor is shipping quickly, not just previewing work.",
+    "nanobot continuing to patch and widen channel/runtime behavior strengthens the lightweight challenger lane, not just its star-growth story.",
+    "PicoClaw’s nightly cadence keeps the cheap-hardware edge narrative credible even without a new stable tag.",
+    "SwarmClaw’s release velocity keeps the orchestration/control-plane branch hot, even if it remains much smaller than the anchor projects.",
+    "The new showcase evidence matters because it deepens the practical OpenClaw use-case map without changing the higher-level strategic thesis."
   ]
 }
