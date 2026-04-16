@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-15 UTC",
+  "date": "2026-04-16 UTC",
   "changes": [
-    "OpenClaw converted yesterday’s beta into stable with v2026.4.14, published on 2026-04-14 13:03 UTC.",
-    "nanobot shipped v0.1.5.post1 on 2026-04-14 18:58 UTC, then updated its README/news stream with the release details.",
-    "PicoClaw posted another nightly build on 2026-04-15 01:02 UTC, keeping the edge-runtime lane visibly active between stable cuts.",
-    "SwarmClaw kept firing rapid orchestration releases, jumping to v1.5.49 on 2026-04-14 22:00 UTC after a same-day run through v1.5.47 and v1.5.48.",
-    "OpenClaw’s showcase/readme layer also exposed fresh evidence of broader use-case depth, including home automation from discovered controls, scheduled visual briefings, and accounting intake workflows."
+    "OpenClaw published v2026.4.15-beta.1 on 2026-04-15 19:40 UTC, showing the anchor project is already back in beta motion after the prior stable cut.",
+    "SwarmClaw released v1.5.50 on 2026-04-15 09:32 UTC, extending its rapid orchestration/control-plane cadence.",
+    "PicoClaw posted another nightly build on 2026-04-16 02:45 UTC, keeping the cheap-hardware edge lane active.",
+    "HiClaw showed fresh official repo movement on 2026-04-16 after its recent Kubernetes-native orchestration write-up, but without a new release.",
+    "Hermes Agent kept compounding momentum with a fresh push on 2026-04-16 and no new release beyond v2026.4.13."
   ],
   "whyItMatters": [
-    "OpenClaw is still the pace-setter, and turning the beta into a same-cycle stable reinforces that the category anchor is shipping quickly, not just previewing work.",
-    "nanobot continuing to patch and widen channel/runtime behavior strengthens the lightweight challenger lane, not just its star-growth story.",
-    "PicoClaw’s nightly cadence keeps the cheap-hardware edge narrative credible even without a new stable tag.",
-    "SwarmClaw’s release velocity keeps the orchestration/control-plane branch hot, even if it remains much smaller than the anchor projects.",
-    "The new showcase evidence matters because it deepens the practical OpenClaw use-case map without changing the higher-level strategic thesis."
+    "OpenClaw continuing the preview-to-release loop is a core category signal because the anchor is still setting the pace.",
+    "SwarmClaw keeps validating the control-plane layer as a real branch of the ecosystem, not just a side experiment.",
+    "PicoClaw’s nightly cadence keeps the low-cost edge story credible even without a new stable cut.",
+    "HiClaw remains relevant in the orchestration lane, but today’s movement looked incremental rather than taxonomy-changing.",
+    "Hermes is still accumulating gravity as a learning-loop benchmark, though today’s signal was momentum rather than a strategic product-shape change."
   ]
 }
