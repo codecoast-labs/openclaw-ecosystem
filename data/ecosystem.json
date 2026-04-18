@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17 UTC",
+  "updatedAt": "2026-04-18 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-04-17 UTC",
+    "date": "2026-04-18 UTC",
     "changes": [
-      "OpenClaw shipped v2026.4.15-beta.2 at 2026-04-16 19:30 UTC and the stable v2026.4.15 at 2026-04-16 21:50 UTC, completing another fast beta-to-stable cycle.",
-      "Hermes Agent released v2026.4.16 at 2026-04-16 19:53 UTC while repo momentum climbed to roughly 95k stars by the 2026-04-17 scan.",
-      "ZeroClaw posted a fresh prerelease, v0.7.0-beta.1030, at 2026-04-17 04:56 UTC, keeping the ultra-light Rust lane active.",
-      "SwarmClaw published v1.5.59, v1.5.60, and v1.5.61 between 2026-04-16 23:53 UTC and 2026-04-17 00:07 UTC, extending its rapid control-plane cadence.",
-      "PicoClaw posted another nightly build at 2026-04-17 01:02 UTC, keeping the edge-device lane warm without a new stable release."
+      "OpenClaw did not post a new release since v2026.4.15, but repo activity stayed hot, with the main repo reaching roughly 359.7k stars by the 2026-04-18 scan.",
+      "Hermes Agent had the clearest demand jump today, climbing from roughly 95k to about 97.6k stars by the 2026-04-18 scan while its latest stable remained v2026.4.16.",
+      "ZeroClaw kept shipping aggressively with v0.7.0-beta.1040 at 2026-04-17 08:42 UTC, v0.7.0-beta.1041 at 2026-04-17 15:03 UTC, and v0.7.1-beta.1045 at 2026-04-18 07:20 UTC.",
+      "SwarmClaw continued its control-plane sprint with v1.5.64, v1.5.65, and v1.5.66 all published between 2026-04-17 21:07 UTC and 2026-04-17 21:44 UTC.",
+      "PicoClaw posted another nightly build at 2026-04-18 00:58 UTC, keeping the edge-device lane active without a new stable cut."
     ],
     "whyItMatters": [
-      "OpenClaw is still setting the category tempo by converting previews into stable cuts quickly, not just shipping noisy betas.",
-      "Hermes continues to strengthen the learning-loop benchmark, increasing pressure on the rest of the ecosystem to differentiate beyond basic tool orchestration.",
-      "ZeroClaw’s prerelease cadence reinforces that the lightweight Rust lane is still an active competitive branch.",
-      "SwarmClaw remains the clearest sign that a control-plane and operator layer is forming around OpenClaw-like runtimes.",
-      "PicoClaw still validates the cheap-hardware thesis, though today’s signal was maintenance cadence rather than a strategic jump."
+      "OpenClaw is still the anchor, but today’s strongest signal was not an anchor release, it was ecosystem follow-on activity around it.",
+      "Hermes is compounding into a serious adjacent benchmark because it is pairing learning-loop positioning with visible adoption momentum.",
+      "ZeroClaw is reinforcing the lightweight Rust lane as a fast-moving branch with near-continuous prerelease iteration.",
+      "SwarmClaw keeps validating the operator/control-plane layer as a real category branch, not just an experiment.",
+      "PicoClaw still supports the cheap-hardware thesis, though today was another cadence signal rather than a strategic step-change."
     ]
   }
 }
