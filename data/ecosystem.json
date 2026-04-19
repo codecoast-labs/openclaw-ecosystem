@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18 UTC",
+  "updatedAt": "2026-04-19 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-04-18 UTC",
+    "date": "2026-04-19 UTC",
     "changes": [
-      "OpenClaw did not post a new release since v2026.4.15, but repo activity stayed hot, with the main repo reaching roughly 359.7k stars by the 2026-04-18 scan.",
-      "Hermes Agent had the clearest demand jump today, climbing from roughly 95k to about 97.6k stars by the 2026-04-18 scan while its latest stable remained v2026.4.16.",
-      "ZeroClaw kept shipping aggressively with v0.7.0-beta.1040 at 2026-04-17 08:42 UTC, v0.7.0-beta.1041 at 2026-04-17 15:03 UTC, and v0.7.1-beta.1045 at 2026-04-18 07:20 UTC.",
-      "SwarmClaw continued its control-plane sprint with v1.5.64, v1.5.65, and v1.5.66 all published between 2026-04-17 21:07 UTC and 2026-04-17 21:44 UTC.",
-      "PicoClaw posted another nightly build at 2026-04-18 00:58 UTC, keeping the edge-device lane active without a new stable cut."
+      "OpenClaw posted v2026.4.19-beta.1 at 2026-04-19 02:01 UTC and v2026.4.19-beta.2 at 2026-04-19 05:55 UTC, while the main repo reached roughly 360.2k stars in the 2026-04-19 scan.",
+      "Hermes Agent crossed the 100k-star line in the 2026-04-19 scan while its latest release remained v2026.4.16.",
+      "ZeroClaw shipped v0.7.3-beta.1051 at 2026-04-19 03:49 UTC and then promoted that burst into stable v0.7.3 at 2026-04-19 03:55 UTC.",
+      "The tracked set was tightened around canonical repos: Hermes on NousResearch/hermes-agent, TinyClaw on TinyAGI/tinyagi, and HiClaw on agentscope-ai/HiClaw.",
+      "OpenClaw showcase evidence expanded the use-case log with home automation from discovered controls, scheduled visual briefings, and accounting intake workflows."
     ],
     "whyItMatters": [
-      "OpenClaw is still the anchor, but today’s strongest signal was not an anchor release, it was ecosystem follow-on activity around it.",
-      "Hermes is compounding into a serious adjacent benchmark because it is pairing learning-loop positioning with visible adoption momentum.",
-      "ZeroClaw is reinforcing the lightweight Rust lane as a fast-moving branch with near-continuous prerelease iteration.",
-      "SwarmClaw keeps validating the operator/control-plane layer as a real category branch, not just an experiment.",
-      "PicoClaw still supports the cheap-hardware thesis, though today was another cadence signal rather than a strategic step-change."
+      "OpenClaw itself is moving again today, which is a stronger signal than ecosystem-only motion.",
+      "Hermes crossing 100k stars makes it a heavyweight adjacent benchmark rather than a niche nearby project.",
+      "ZeroClaw is showing that the lightweight Rust branch can turn rapid prerelease cadence into stable releases quickly.",
+      "Canonical repo cleanup reduces blind spots in the watch and keeps the atlas aligned with where real development now lives.",
+      "The new showcase examples broaden the proof set from chat assistance into repeatable workflows and ambient daily interfaces."
     ]
   }
 }
