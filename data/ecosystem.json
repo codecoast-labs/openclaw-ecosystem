@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19 UTC",
+  "updatedAt": "2026-04-20 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,16 @@
     ]
   },
   "today": {
-    "date": "2026-04-19 UTC",
+    "date": "2026-04-20 UTC",
     "changes": [
-      "OpenClaw posted v2026.4.19-beta.1 at 2026-04-19 02:01 UTC and v2026.4.19-beta.2 at 2026-04-19 05:55 UTC, while the main repo reached roughly 360.2k stars in the 2026-04-19 scan.",
-      "Hermes Agent crossed the 100k-star line in the 2026-04-19 scan while its latest release remained v2026.4.16.",
-      "ZeroClaw shipped v0.7.3-beta.1051 at 2026-04-19 03:49 UTC and then promoted that burst into stable v0.7.3 at 2026-04-19 03:55 UTC.",
-      "The tracked set was tightened around canonical repos: Hermes on NousResearch/hermes-agent, TinyClaw on TinyAGI/tinyagi, and HiClaw on agentscope-ai/HiClaw.",
-      "OpenClaw showcase evidence expanded the use-case log with home automation from discovered controls, scheduled visual briefings, and accounting intake workflows."
+      "No fresh Tier 1 or Tier 2 release changed the strategic read today; the main movement was continued repo momentum rather than a new category move.",
+      "Hermes Agent rose to roughly 103.3k stars in the 2026-04-20 scan, extending yesterday's 100k-crossing momentum without a newer release than v2026.4.16.",
+      "PicoClaw published a new nightly build at 2026-04-20 01:03 UTC, while the rest of the watched set mostly showed routine growth and activity."
     ],
     "whyItMatters": [
-      "OpenClaw itself is moving again today, which is a stronger signal than ecosystem-only motion.",
-      "Hermes crossing 100k stars makes it a heavyweight adjacent benchmark rather than a niche nearby project.",
-      "ZeroClaw is showing that the lightweight Rust branch can turn rapid prerelease cadence into stable releases quickly.",
-      "Canonical repo cleanup reduces blind spots in the watch and keeps the atlas aligned with where real development now lives.",
-      "The new showcase examples broaden the proof set from chat assistance into repeatable workflows and ambient daily interfaces."
+      "This is a consolidation day, not a taxonomy-changing day.",
+      "Hermes remains the standout momentum story in the adjacent benchmark lane, but today's movement strengthens the existing read rather than changing it.",
+      "PicoClaw's nightly cadence reinforces that the lightweight edge-device branch remains active even without a fresh stable release."
     ]
   }
 }
