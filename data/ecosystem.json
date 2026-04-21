@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20 UTC",
+  "updatedAt": "2026-04-21 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,16 +648,16 @@
     ]
   },
   "today": {
-    "date": "2026-04-20 UTC",
+    "date": "2026-04-21 UTC",
     "changes": [
-      "No fresh Tier 1 or Tier 2 release changed the strategic read today; the main movement was continued repo momentum rather than a new category move.",
-      "Hermes Agent rose to roughly 103.3k stars in the 2026-04-20 scan, extending yesterday's 100k-crossing momentum without a newer release than v2026.4.16.",
-      "PicoClaw published a new nightly build at 2026-04-20 01:03 UTC, while the rest of the watched set mostly showed routine growth and activity."
+      "IronClaw shipped 0.26.0 on 2026-04-21 06:32 UTC, giving the security-first lane a fresh Tier 1 release signal.",
+      "Hermes Agent rose to roughly 106.4k stars in the 2026-04-21 scan, extending its breakout momentum without a newer release than v2026.4.16.",
+      "PicoClaw published a new nightly build at 2026-04-21 01:02 UTC, while SwarmClaw also pushed v1.5.67 and the rest of the watched set mostly showed routine growth and activity."
     ],
     "whyItMatters": [
-      "This is a consolidation day, not a taxonomy-changing day.",
-      "Hermes remains the standout momentum story in the adjacent benchmark lane, but today's movement strengthens the existing read rather than changing it.",
-      "PicoClaw's nightly cadence reinforces that the lightweight edge-device branch remains active even without a fresh stable release."
+      "This is more than a maintenance day because a Tier 1 security-first project shipped a fresh release.",
+      "Hermes remains the standout momentum story in the adjacent benchmark lane, but today's movement still strengthens the existing read rather than changing it.",
+      "Lightweight and orchestration branches remain active, yet today's movement does not change the taxonomy or strategic map."
     ]
   }
 }
