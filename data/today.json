@@ -1,13 +1,14 @@
 {
-  "date": "2026-04-21 UTC",
+  "date": "2026-04-22 UTC",
   "changes": [
-    "IronClaw shipped 0.26.0 on 2026-04-21 06:32 UTC, giving the security-first lane a fresh Tier 1 release signal.",
-    "Hermes Agent rose to roughly 106.4k stars in the 2026-04-21 scan, extending its breakout momentum without a newer release than v2026.4.16.",
-    "PicoClaw published a new nightly build at 2026-04-21 01:02 UTC, while SwarmClaw also pushed v1.5.67 and the rest of the watched set mostly showed routine growth and activity."
+    "OpenClaw shipped stable v2026.4.21 at 2026-04-22 04:18 UTC, plus a same-day v2026.4.20 stable release on 2026-04-21 19:19 UTC, which is the strongest direct category-anchor signal in this run.",
+    "nanobot shipped v0.1.5.post2 at 2026-04-21 17:38 UTC, adding Windows and Python 3.14 support, Office document reading, and OpenAI-compatible SSE streaming.",
+    "Hermes Agent rose to roughly 109.1k stars in the 2026-04-22 scan, extending its breakout momentum without a newer release than v2026.4.16.",
+    "PicoClaw published a new nightly build at 2026-04-22 00:59 UTC, while the rest of the watched set mostly showed routine growth and fresh pushes."
   ],
   "whyItMatters": [
-    "This is more than a maintenance day because a Tier 1 security-first project shipped a fresh release.",
-    "Hermes remains the standout momentum story in the adjacent benchmark lane, but today's movement still strengthens the existing read rather than changing it.",
-    "Lightweight and orchestration branches remain active, yet today's movement does not change the taxonomy or strategic map."
+    "OpenClaw itself moved, so this is not just derivative churn. The anchor project is still shipping fast and setting the pace.",
+    "nanobot continues to validate the lightweight lane as a serious product branch, not just a one-off clone story.",
+    "Hermes keeps compounding adjacent-market momentum, but today's movement still strengthens the existing strategic read rather than changing the map."
   ]
 }
