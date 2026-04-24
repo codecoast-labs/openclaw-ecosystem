@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22 UTC",
+  "updatedAt": "2026-04-24 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,17 @@
     ]
   },
   "today": {
-    "date": "2026-04-22 UTC",
+    "date": "2026-04-24 UTC",
     "changes": [
-      "OpenClaw shipped stable v2026.4.21 at 2026-04-22 04:18 UTC, plus a same-day v2026.4.20 stable release on 2026-04-21 19:19 UTC, which is the strongest direct category-anchor signal in this run.",
-      "nanobot shipped v0.1.5.post2 at 2026-04-21 17:38 UTC, adding Windows and Python 3.14 support, Office document reading, and OpenAI-compatible SSE streaming.",
-      "Hermes Agent rose to roughly 109.1k stars in the 2026-04-22 scan, extending its breakout momentum without a newer release than v2026.4.16.",
-      "PicoClaw published a new nightly build at 2026-04-22 00:59 UTC, while the rest of the watched set mostly showed routine growth and fresh pushes."
+      "OpenClaw shipped stable v2026.4.22 on 2026-04-23 13:56 UTC, keeping the category anchor on a near-daily release cadence.",
+      "Hermes Agent shipped v2026.4.23 on 2026-04-23 22:32 UTC and reached roughly 113.9k stars in the 2026-04-24 scan.",
+      "HiClaw published v1.1.0-rc.1 on 2026-04-23 15:07 UTC, adding another fresh signal from the orchestration lane.",
+      "AstrBot shipped v4.23.5 and SwarmClaw shipped v1.5.68 plus v1.5.69 on 2026-04-23, while the rest of the set mostly showed routine growth and another PicoClaw nightly build."
     ],
     "whyItMatters": [
-      "OpenClaw itself moved, so this is not just derivative churn. The anchor project is still shipping fast and setting the pace.",
-      "nanobot continues to validate the lightweight lane as a serious product branch, not just a one-off clone story.",
-      "Hermes keeps compounding adjacent-market momentum, but today's movement still strengthens the existing strategic read rather than changing the map."
+      "OpenClaw and Hermes both moved in the same window, so this run shows live momentum from both the core reference and the strongest learning-loop adjacent benchmark.",
+      "Multiple orchestration and platform-style competitors also shipped, confirming ecosystem activity without forcing a new taxonomy.",
+      "The durable strategic read still holds: OpenClaw sets pace, Hermes strengthens the learning-loop branch, and the broader field remains active without a category break."
     ]
   }
 }
