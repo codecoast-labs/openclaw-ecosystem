@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24 UTC",
+  "updatedAt": "2026-04-25 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,17 @@
     ]
   },
   "today": {
-    "date": "2026-04-24 UTC",
+    "date": "2026-04-25 UTC",
     "changes": [
-      "OpenClaw shipped stable v2026.4.22 on 2026-04-23 13:56 UTC, keeping the category anchor on a near-daily release cadence.",
-      "Hermes Agent shipped v2026.4.23 on 2026-04-23 22:32 UTC and reached roughly 113.9k stars in the 2026-04-24 scan.",
-      "HiClaw published v1.1.0-rc.1 on 2026-04-23 15:07 UTC, adding another fresh signal from the orchestration lane.",
-      "AstrBot shipped v4.23.5 and SwarmClaw shipped v1.5.68 plus v1.5.69 on 2026-04-23, while the rest of the set mostly showed routine growth and another PicoClaw nightly build."
+      "OpenClaw shipped stable v2026.4.23 on 2026-04-24 15:19 UTC, keeping the category anchor on a near-daily release cadence.",
+      "HiClaw moved from release candidate to stable v1.1.0 on 2026-04-24 07:40 UTC, which is the clearest fresh orchestration signal in this run.",
+      "SwarmClaw shipped v1.5.70 and v1.5.71 on 2026-04-24, reinforcing its rapid release cadence.",
+      "Hermes Agent did not post a newer release than v2026.4.23, but it climbed to roughly 115.6k stars in the 2026-04-25 scan, while the rest of the set mostly showed routine growth and another PicoClaw nightly build."
     ],
     "whyItMatters": [
-      "OpenClaw and Hermes both moved in the same window, so this run shows live momentum from both the core reference and the strongest learning-loop adjacent benchmark.",
-      "Multiple orchestration and platform-style competitors also shipped, confirming ecosystem activity without forcing a new taxonomy.",
-      "The durable strategic read still holds: OpenClaw sets pace, Hermes strengthens the learning-loop branch, and the broader field remains active without a category break."
+      "OpenClaw is still setting the release pace, so the core reference remains visibly active rather than coasting on brand.",
+      "HiClaw converting its recent release candidate into a stable v1.1.0 matters more than routine star drift because it strengthens the orchestration lane with a concrete shipped milestone.",
+      "Hermes continues to accumulate attention fast, but the durable strategic read still holds: learning-loop momentum is real, yet there is still no category break that forces a map or thesis rewrite."
     ]
   }
 }
