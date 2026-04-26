@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25 UTC",
+  "updatedAt": "2026-04-26 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,17 @@
     ]
   },
   "today": {
-    "date": "2026-04-25 UTC",
+    "date": "2026-04-26 UTC",
     "changes": [
-      "OpenClaw shipped stable v2026.4.23 on 2026-04-24 15:19 UTC, keeping the category anchor on a near-daily release cadence.",
-      "HiClaw moved from release candidate to stable v1.1.0 on 2026-04-24 07:40 UTC, which is the clearest fresh orchestration signal in this run.",
-      "SwarmClaw shipped v1.5.70 and v1.5.71 on 2026-04-24, reinforcing its rapid release cadence.",
-      "Hermes Agent did not post a newer release than v2026.4.23, but it climbed to roughly 115.6k stars in the 2026-04-25 scan, while the rest of the set mostly showed routine growth and another PicoClaw nightly build."
+      "OpenClaw shipped stable v2026.4.24 on 2026-04-25 18:15 UTC, keeping the category anchor on a near-daily release cadence.",
+      "SwarmClaw shipped stable v1.6.0 on 2026-04-25 23:47 UTC, extending its fast control-plane/orchestration release cadence.",
+      "Hermes Agent did not post a newer release than v2026.4.23, but it climbed to roughly 117.1k stars in the 2026-04-26 scan.",
+      "PicoClaw posted another nightly build on 2026-04-26 01:06 UTC, while ZeroClaw materially rewrote its README positioning toward ownership, installability, and explicit runtime controls."
     ],
     "whyItMatters": [
-      "OpenClaw is still setting the release pace, so the core reference remains visibly active rather than coasting on brand.",
-      "HiClaw converting its recent release candidate into a stable v1.1.0 matters more than routine star drift because it strengthens the orchestration lane with a concrete shipped milestone.",
-      "Hermes continues to accumulate attention fast, but the durable strategic read still holds: learning-loop momentum is real, yet there is still no category break that forces a map or thesis rewrite."
+      "OpenClaw is still visibly acting like the pace-setter, which keeps the reference implementation strategically central.",
+      "SwarmClaw reaching v1.6.0 matters more than routine star drift because it reinforces that the orchestration layer is becoming a real product lane, not just an experiment.",
+      "Hermes' continued acceleration strengthens the learning-loop narrative, while ZeroClaw's messaging shift suggests lightweight competitors may increasingly borrow security and sovereignty language as they mature."
     ]
   }
 }
