@@ -1,14 +1,15 @@
 {
-  "date": "2026-04-26 UTC",
+  "date": "2026-04-27 UTC",
   "changes": [
-    "OpenClaw shipped stable v2026.4.24 on 2026-04-25 18:15 UTC, keeping the category anchor on a near-daily release cadence.",
-    "SwarmClaw shipped stable v1.6.0 on 2026-04-25 23:47 UTC, extending its fast control-plane/orchestration release cadence.",
-    "Hermes Agent did not post a newer release than v2026.4.23, but it climbed to roughly 117.1k stars in the 2026-04-26 scan.",
-    "PicoClaw posted another nightly build on 2026-04-26 01:06 UTC, while ZeroClaw materially rewrote its README positioning toward ownership, installability, and explicit runtime controls."
+    "OpenClaw did not cut a new stable tag in this 2026-04-27 scan, but it pushed three fresh prereleases on 2026-04-26: v2026.4.25-beta.2, beta.3, and beta.4.",
+    "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 119.1k stars in this scan.",
+    "AstrBot shipped stable v4.23.6 on 2026-04-27 05:09 UTC.",
+    "PicoClaw posted another nightly build on 2026-04-27 01:06 UTC, while HiClaw and other orchestration-layer names kept shipping and updating without changing the broader category map."
   ],
   "whyItMatters": [
-    "OpenClaw is still visibly acting like the pace-setter, which keeps the reference implementation strategically central.",
-    "SwarmClaw reaching v1.6.0 matters more than routine star drift because it reinforces that the orchestration layer is becoming a real product lane, not just an experiment.",
-    "Hermes' continued acceleration strengthens the learning-loop narrative, while ZeroClaw's messaging shift suggests lightweight competitors may increasingly borrow security and sovereignty language as they mature."
+    "OpenClaw's multiple same-day betas still signal extremely fast iteration, even on a day without a fresh stable anchor.",
+    "Hermes' continued growth reinforces that the learning-loop lane is compounding audience attention faster than most derivative rewrites.",
+    "AstrBot's release matters as adjacent benchmark pressure, because the broader messaging-agent market is also shipping quickly, not just direct OpenClaw descendants.",
+    "The rest of today's movement looks like cadence confirmation, not a thesis break: the ecosystem is active, but the durable strategic read still holds."
   ]
 }
