@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-28 UTC",
+  "date": "2026-04-29 UTC",
   "changes": [
-    "OpenClaw cut fresh stable release v2026.4.26, published on 2026-04-28 01:11 UTC.",
-    "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 121.4k stars in this scan.",
-    "AstrBot remains on fresh stable v4.23.6 from 2026-04-27 05:09 UTC, and SwarmClaw remains on fresh stable v1.6.1 from 2026-04-27 10:55 UTC.",
-    "HiClaw still shows recent v1.1.0 from 2026-04-24, while the rest of the map looks active but structurally unchanged."
+    "IronClaw shipped fresh stable release ironclaw-v0.27.0, published on 2026-04-29 06:45 UTC.",
+    "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 123.7k stars in this scan.",
+    "OpenClaw did not cut a newer release after yesterday's stable v2026.4.26, but the repo remained active and still anchors the category.",
+    "The rest of the Tier 1 and Tier 2 map looks active, but there is no material taxonomy shift versus the previous run."
   ],
   "whyItMatters": [
-    "The main new fact is that OpenClaw moved from fast prerelease churn to a fresh stable anchor, which is the clearest high-signal category update in this run.",
+    "IronClaw is one of the clearest security-first alternatives in the map, so a same-day stable release is meaningful even without changing the overall category structure.",
     "Hermes' continued growth reinforces that the learning-loop lane remains strategically important even without a newer tag.",
-    "AstrBot, SwarmClaw, and HiClaw still show that adjacent messaging-agent and orchestration players are shipping quickly, even though none changed the taxonomy today.",
-    "Net: meaningful movement happened, but it strengthens the existing strategic read rather than changing it."
+    "OpenClaw stayed strategically steady today, so the notable movement happened around the anchor rather than through a new core reset.",
+    "Net: this run had real ecosystem motion, but it still reinforces the existing strategic read rather than changing it."
   ]
 }
