@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29 UTC",
+  "updatedAt": "2026-04-30 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-04-29 UTC",
+    "date": "2026-04-30 UTC",
     "changes": [
-      "IronClaw shipped fresh stable release ironclaw-v0.27.0, published on 2026-04-29 06:45 UTC.",
-      "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 123.7k stars in this scan.",
-      "OpenClaw did not cut a newer release after yesterday's stable v2026.4.26, but the repo remained active and still anchors the category.",
-      "The rest of the Tier 1 and Tier 2 map looks active, but there is no material taxonomy shift versus the previous run."
+      "OpenClaw shipped fresh stable release v2026.4.27, published on 2026-04-29 22:12 UTC.",
+      "nanobot shipped v0.1.5.post3 on 2026-04-29 10:57 UTC, extending the lightweight lane's fast release cadence.",
+      "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 125.7k stars in this scan.",
+      "SwarmClaw also shipped v1.7.2 on 2026-04-29 22:15 UTC.",
+      "The rest of the Tier 1 and Tier 2 map stayed active, but there is no material taxonomy shift versus the previous run."
     ],
     "whyItMatters": [
-      "IronClaw is one of the clearest security-first alternatives in the map, so a same-day stable release is meaningful even without changing the overall category structure.",
+      "OpenClaw shipping again matters most because the category anchor is still setting pace rather than just defending share.",
+      "nanobot's continued release cadence reinforces that lightweight rewrites remain the busiest direct derivative pressure.",
       "Hermes' continued growth reinforces that the learning-loop lane remains strategically important even without a newer tag.",
-      "OpenClaw stayed strategically steady today, so the notable movement happened around the anchor rather than through a new core reset.",
+      "SwarmClaw shipping alongside OpenClaw reinforces that orchestration and control-plane layers are getting more real, even if the durable map did not change.",
       "Net: this run had real ecosystem motion, but it still reinforces the existing strategic read rather than changing it."
     ]
   }
