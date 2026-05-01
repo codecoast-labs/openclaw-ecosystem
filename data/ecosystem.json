@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30 UTC",
+  "updatedAt": "2026-05-01 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-04-30 UTC",
+    "date": "2026-05-01 UTC",
     "changes": [
-      "OpenClaw shipped fresh stable release v2026.4.27, published on 2026-04-29 22:12 UTC.",
-      "nanobot shipped v0.1.5.post3 on 2026-04-29 10:57 UTC, extending the lightweight lane's fast release cadence.",
-      "Hermes Agent still has no newer release than v2026.4.23, but it climbed again to roughly 125.7k stars in this scan.",
-      "SwarmClaw also shipped v1.7.2 on 2026-04-29 22:15 UTC.",
-      "The rest of the Tier 1 and Tier 2 map stayed active, but there is no material taxonomy shift versus the previous run."
+      "OpenClaw shipped newer stable release v2026.4.29, published on 2026-04-30 21:01 UTC.",
+      "Hermes Agent shipped v2026.4.30 on 2026-04-30 18:31 UTC, extending the learning-loop lane with another weekly release.",
+      "ZeroClaw shipped v0.7.4 on 2026-05-01 02:52 UTC, keeping the Rust lightweight line active.",
+      "PicoClaw shipped stable v0.2.8 on 2026-04-30 15:15 UTC and also pushed a fresh nightly on 2026-05-01 01:17 UTC.",
+      "nanobot did not add a newer release beyond v0.1.5.post3, but it remains the fastest-moving high-signal lightweight rewrite in the set."
     ],
     "whyItMatters": [
-      "OpenClaw shipping again matters most because the category anchor is still setting pace rather than just defending share.",
-      "nanobot's continued release cadence reinforces that lightweight rewrites remain the busiest direct derivative pressure.",
-      "Hermes' continued growth reinforces that the learning-loop lane remains strategically important even without a newer tag.",
-      "SwarmClaw shipping alongside OpenClaw reinforces that orchestration and control-plane layers are getting more real, even if the durable map did not change.",
-      "Net: this run had real ecosystem motion, but it still reinforces the existing strategic read rather than changing it."
+      "OpenClaw shipping again matters most because the category anchor is still releasing on a very tight cadence.",
+      "Hermes shipping the same day matters because the strongest adjacent benchmark is keeping pace on product momentum, not just mindshare.",
+      "ZeroClaw and PicoClaw shipping together reinforces that the lightweight and low-overhead lane is still the densest source of direct competitive pressure.",
+      "There is still no material taxonomy shift: the durable ecosystem map stays the same even as release velocity stays high.",
+      "Net: this was a meaningful run because multiple Tier 1 names shipped within roughly 24 hours, but the strategic read still holds."
     ]
   }
 }
