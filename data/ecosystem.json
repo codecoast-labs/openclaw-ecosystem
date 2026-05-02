@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01 UTC",
+  "updatedAt": "2026-05-02 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,7 +648,7 @@
     ]
   },
   "today": {
-    "date": "2026-05-01 UTC",
+    "date": "2026-05-02 UTC",
     "changes": [
       "OpenClaw shipped newer stable release v2026.4.29, published on 2026-04-30 21:01 UTC.",
       "Hermes Agent shipped v2026.4.30 on 2026-04-30 18:31 UTC, extending the learning-loop lane with another weekly release.",
