@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04 UTC",
+  "updatedAt": "2026-05-06 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,16 @@
     ]
   },
   "today": {
-    "date": "2026-05-04 UTC",
+    "date": "2026-05-06 UTC",
     "changes": [
-      "OpenClaw shipped another stable release, v2026.5.3, published on 2026-05-04 07:01 UTC after beta cuts on 2026-05-03 21:26 UTC and 2026-05-04 02:20 UTC.",
-      "SwarmClaw still shows fresh control-plane momentum off v1.7.3 from 2026-05-02 16:05 UTC, but it did not add a newer release in this run.",
-      "PicoClaw remains active with the current nightly from 2026-05-03 01:18 UTC, and ZeroClaw remains fresh off v0.7.4 from 2026-05-01 02:52 UTC.",
-      "Hermes Agent still has no release newer than v2026.4.30, so the learning-loop lane stayed strategically relevant but unchanged today.",
-      "The watchset itself tightened in a meaningful but non-strategic way: TinyClaw now points to TinyAGI and HiClaw now points to agentscope-ai/HiClaw."
+      "OpenClaw shipped a fresh stable release, v2026.5.4, published on 2026-05-05 08:24 UTC after two beta cuts earlier the same day.",
+      "Hermes Agent remains canonical in the atlas under NousResearch/hermes-agent, with its latest stable still v2026.4.30; relevant, but unchanged in this run.",
+      "PicoClaw, ZeroClaw, AstrBot, and SwarmClaw all still show active repos and recent release cadence, but this run did not surface a new taxonomy shift, breakout launch, or newly validated strategic lane."
     ],
     "whyItMatters": [
-      "The biggest signal is that the category anchor shipped again less than 48 hours after the prior stable cut, reinforcing how fast the core reference is still moving.",
-      "The rest of the field is active, but today did not introduce a new taxonomy shift, new lane, or new strategic winner.",
-      "The lightweight lane still looks healthiest by release and activity tempo, while the orchestration lane stays relevant through SwarmClaw and HiClaw rather than a fresh breakout today.",
-      "Cleaning up canonical repo targets matters because the hosted atlas depends on structured links staying correct even when the strategic story is unchanged.",
-      "Net: this was a meaningful run because OpenClaw shipped a new stable release and the canonical dataset got cleaner, even though the broader strategic read stayed the same."
+      "The main signal is that the category anchor shipped again, which reinforces that OpenClaw is still the fastest-moving reference point for the ecosystem.",
+      "The rest of the field remains active, but today did not materially change the strategic map: the same five pressures still dominate, lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud digital workers.",
+      "Net: this was a meaningful but narrow run, mostly because the core reference advanced again while the broader competitive structure held steady."
     ]
   }
 }
