@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06 UTC",
+  "updatedAt": "2026-05-07 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,16 +648,16 @@
     ]
   },
   "today": {
-    "date": "2026-05-06 UTC",
+    "date": "2026-05-07 UTC",
     "changes": [
-      "OpenClaw shipped a fresh stable release, v2026.5.4, published on 2026-05-05 08:24 UTC after two beta cuts earlier the same day.",
-      "Hermes Agent remains canonical in the atlas under NousResearch/hermes-agent, with its latest stable still v2026.4.30; relevant, but unchanged in this run.",
-      "PicoClaw, ZeroClaw, AstrBot, and SwarmClaw all still show active repos and recent release cadence, but this run did not surface a new taxonomy shift, breakout launch, or newly validated strategic lane."
+      "OpenClaw shipped two fresh stable releases in one day, v2026.5.5 at 2026-05-06 09:00 UTC and v2026.5.6 at 2026-05-06 17:51 UTC.",
+      "HiClaw shipped v1.1.1, published on 2026-05-07 03:33 UTC, which is a real signal that the orchestration lane is still shipping, not just narrating.",
+      "Hermes Agent remains canonical under NousResearch/hermes-agent and continues to gain repo momentum, but this run did not surface a new stable release, taxonomy change, or newly validated strategic lane from Hermes itself."
     ],
     "whyItMatters": [
-      "The main signal is that the category anchor shipped again, which reinforces that OpenClaw is still the fastest-moving reference point for the ecosystem.",
-      "The rest of the field remains active, but today did not materially change the strategic map: the same five pressures still dominate, lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud digital workers.",
-      "Net: this was a meaningful but narrow run, mostly because the core reference advanced again while the broader competitive structure held steady."
+      "The strongest signal is still category-anchor velocity: OpenClaw is shipping faster than the rest of the field, and two same-day stable releases reinforce that pace-setting role.",
+      "HiClaw shipping again matters because it keeps the multi-agent / control-plane lane alive with fresh product movement, rather than leaving orchestration as a purely conceptual branch.",
+      "Net: this was a meaningful but still narrow day. The ecosystem moved, but it did not change the durable strategic map, which still centers on lighter runtimes, safer runtimes, orchestration, learning loops, and cloud digital workers."
     ]
   }
 }
