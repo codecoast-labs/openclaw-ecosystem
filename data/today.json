@@ -1,13 +1,14 @@
 {
-  "date": "2026-05-07 UTC",
+  "date": "2026-05-08 UTC",
   "changes": [
-    "OpenClaw shipped two fresh stable releases in one day, v2026.5.5 at 2026-05-06 09:00 UTC and v2026.5.6 at 2026-05-06 17:51 UTC.",
-    "HiClaw shipped v1.1.1, published on 2026-05-07 03:33 UTC, which is a real signal that the orchestration lane is still shipping, not just narrating.",
-    "Hermes Agent remains canonical under NousResearch/hermes-agent and continues to gain repo momentum, but this run did not surface a new stable release, taxonomy change, or newly validated strategic lane from Hermes itself."
+    "OpenClaw shipped v2026.5.7 on 2026-05-07 20:57 UTC, extending the reference project's unusually fast release cadence.",
+    "Hermes Agent shipped v2026.5.7 on 2026-05-07 16:23 UTC, which is the clearest fresh signal in the learning-loop / self-improving lane since Hermes became a canonical tracked target.",
+    "ZeroClaw shipped v0.7.5 on 2026-05-08 05:12 UTC and IronClaw shipped v0.28.0 on 2026-05-07 20:53 UTC, showing that the lighter-runtime and security-first critiques are both still shipping in parallel.",
+    "HiClaw's v1.1.1 release from 2026-05-07 remains fresh in the orchestration lane, but this run did not uncover a taxonomy break, newly tracked target, or new source-backed use case that changes the durable map."
   ],
   "whyItMatters": [
-    "The strongest signal is still category-anchor velocity: OpenClaw is shipping faster than the rest of the field, and two same-day stable releases reinforce that pace-setting role.",
-    "HiClaw shipping again matters because it keeps the multi-agent / control-plane lane alive with fresh product movement, rather than leaving orchestration as a purely conceptual branch.",
-    "Net: this was a meaningful but still narrow day. The ecosystem moved, but it did not change the durable strategic map, which still centers on lighter runtimes, safer runtimes, orchestration, learning loops, and cloud digital workers."
+    "This is a strong ecosystem-velocity day, not just a single-repo spike: the core reference, the learning-loop benchmark, the lightweight Rust lane, and the security-first lane all moved within roughly 24 hours.",
+    "Hermes shipping again matters strategically because it keeps the self-improving-agent story active as a live competitive pressure on OpenClaw, not just a conceptual adjacency.",
+    "Even with several releases, the higher-order read stays stable: the ecosystem is still organized around five durable pressures, namely core assistant depth, lightweight runtimes, stronger isolation, orchestration, and learning-loop or cloud-worker differentiation."
   ]
 }
