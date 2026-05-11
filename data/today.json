@@ -1,12 +1,13 @@
 {
-  "date": "2026-05-10 UTC",
+  "date": "2026-05-11 UTC",
   "changes": [
-    "The 2026-05-10 UTC scan did not uncover a new Tier 1 or Tier 2 release, a new tracked target, or a taxonomy break relative to the 2026-05-09 UTC state.",
-    "The most visible movement in the fresh snapshot was routine repo churn, including updated repo metadata and a fresh NextClaw push at 2026-05-10T03:22:10Z, but nothing that changes the durable ecosystem read.",
-    "Yesterday's release cluster across OpenClaw, Hermes Agent, ZeroClaw, IronClaw, and HiClaw still stands as the latest material signal."
+    "OpenClaw published another prerelease, v2026.5.10-beta.3, on 2026-05-11 03:28 UTC, which extends yesterday's release burst rather than changing the category read.",
+    "PicoClaw posted a fresh nightly build on 2026-05-11 01:21 UTC, a useful activity signal but not a strategic shift on its own.",
+    "The clearest new competitive move is Poco v0.5.0, published on 2026-05-10 10:42 UTC, with channel-based team collaboration as the headline release.",
+    "Across the rest of the tracked set, the scan mostly showed routine repo churn, metadata refreshes, and ordinary pushes rather than a new tracked target or a taxonomy break."
   ],
   "whyItMatters": [
-    "This is a quiet follow-through day, which is useful in itself: yesterday's burst looks real, but it did not immediately force a new map, new watchlist entry, or new strategic rewrite.",
-    "The competitive frame still holds: core assistant depth, lightweight runtimes, stronger isolation, orchestration, and learning-loop differentiation remain the main pressures shaping the category."
+    "Poco is the main thing worth noticing today because it reinforces a real product direction: OpenClaw-adjacent systems are not only competing on safety or lighter runtimes anymore, they are also moving toward shared workspace and collaboration UX.",
+    "The broader frame still holds: OpenClaw remains the anchor, lightweight rewrites remain the biggest derivative pattern, and the strongest differentiation pressure still comes from security, orchestration, learning loops, and now increasingly team collaboration surfaces."
   ]
 }
