@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11 UTC",
+  "updatedAt": "2026-05-12 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,16 +648,17 @@
     ]
   },
   "today": {
-    "date": "2026-05-11 UTC",
+    "date": "2026-05-12 UTC",
     "changes": [
-      "OpenClaw published another prerelease, v2026.5.10-beta.3, on 2026-05-11 03:28 UTC, which extends yesterday's release burst rather than changing the category read.",
-      "PicoClaw posted a fresh nightly build on 2026-05-11 01:21 UTC, a useful activity signal but not a strategic shift on its own.",
-      "The clearest new competitive move is Poco v0.5.0, published on 2026-05-10 10:42 UTC, with channel-based team collaboration as the headline release.",
-      "Across the rest of the tracked set, the scan mostly showed routine repo churn, metadata refreshes, and ordinary pushes rather than a new tracked target or a taxonomy break."
+      "OpenClaw extended its prerelease burst again, with v2026.5.10-beta.5 published on 2026-05-11 16:38 UTC after beta.4 the same day.",
+      "IronClaw added a fresh stable release, ironclaw-v0.28.1, published on 2026-05-11 22:38 UTC.",
+      "Poco followed its collaboration-oriented v0.5.0 launch with v0.5.1 on 2026-05-11 13:35 UTC, reinforcing that the shared-workspace direction is now shipping.",
+      "SwarmClaw also shipped v1.9.27 on 2026-05-11 09:55 UTC, keeping the orchestration/control-plane lane active.",
+      "No new tracked target appeared, and the taxonomy still holds."
     ],
     "whyItMatters": [
-      "Poco is the main thing worth noticing today because it reinforces a real product direction: OpenClaw-adjacent systems are not only competing on safety or lighter runtimes anymore, they are also moving toward shared workspace and collaboration UX.",
-      "The broader frame still holds: OpenClaw remains the anchor, lightweight rewrites remain the biggest derivative pattern, and the strongest differentiation pressure still comes from security, orchestration, learning loops, and now increasingly team collaboration surfaces."
+      "The strongest signal today is continued execution across multiple differentiation lanes at once: OpenClaw on release cadence, IronClaw on trust and safety, Poco on collaboration UX, and SwarmClaw on orchestration.",
+      "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and increasingly team collaboration surfaces."
     ]
   }
 }
