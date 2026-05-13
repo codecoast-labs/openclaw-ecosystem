@@ -1,14 +1,13 @@
 {
-  "date": "2026-05-12 UTC",
+  "date": "2026-05-13 UTC",
   "changes": [
-    "OpenClaw extended its prerelease burst again, with v2026.5.10-beta.5 published on 2026-05-11 16:38 UTC after beta.4 the same day.",
-    "IronClaw added a fresh stable release, ironclaw-v0.28.1, published on 2026-05-11 22:38 UTC.",
-    "Poco followed its collaboration-oriented v0.5.0 launch with v0.5.1 on 2026-05-11 13:35 UTC, reinforcing that the shared-workspace direction is now shipping.",
-    "SwarmClaw also shipped v1.9.27 on 2026-05-11 09:55 UTC, keeping the orchestration/control-plane lane active.",
+    "OpenClaw started a fresh prerelease burst, with v2026.5.12-beta.4 published on 2026-05-13 05:17 UTC after beta.3 and beta.2 late on 2026-05-12 UTC.",
+    "PicoClaw rolled its nightly again, with the nightly tag published on 2026-05-13 01:20 UTC.",
+    "AstrBot shipped v4.24.4 on 2026-05-12 17:49 UTC, keeping the adjacent messaging-agent benchmark set active.",
     "No new tracked target appeared, and the taxonomy still holds."
   ],
   "whyItMatters": [
-    "The strongest signal today is continued execution across multiple differentiation lanes at once: OpenClaw on release cadence, IronClaw on trust and safety, Poco on collaboration UX, and SwarmClaw on orchestration.",
-    "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and increasingly team collaboration surfaces."
+    "The main signal today is continued velocity at the core plus continued pressure from adjacent execution, not a taxonomy break.",
+    "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud or platform-style execution surfaces."
   ]
 }
