@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13 UTC",
+  "updatedAt": "2026-05-14 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,15 +648,15 @@
     ]
   },
   "today": {
-    "date": "2026-05-13 UTC",
+    "date": "2026-05-14 UTC",
     "changes": [
-      "OpenClaw started a fresh prerelease burst, with v2026.5.12-beta.4 published on 2026-05-13 05:17 UTC after beta.3 and beta.2 late on 2026-05-12 UTC.",
-      "PicoClaw rolled its nightly again, with the nightly tag published on 2026-05-13 01:20 UTC.",
-      "AstrBot shipped v4.24.4 on 2026-05-12 17:49 UTC, keeping the adjacent messaging-agent benchmark set active.",
+      "OpenClaw kept the prerelease train moving, with v2026.5.12-beta.5 and v2026.5.12-beta.6 published on 2026-05-13 UTC.",
+      "PicoClaw rolled another nightly on 2026-05-14 01:21 UTC.",
+      "AstrBot shipped v4.24.5 on 2026-05-13 17:19 UTC, keeping the adjacent messaging-agent benchmark set active.",
       "No new tracked target appeared, and the taxonomy still holds."
     ],
     "whyItMatters": [
-      "The main signal today is continued velocity at the core plus continued pressure from adjacent execution, not a taxonomy break.",
+      "The main signal today is sustained execution velocity across the core and nearby benchmark set, not a taxonomy break.",
       "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud or platform-style execution surfaces."
     ]
   }
