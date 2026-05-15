@@ -1,13 +1,14 @@
 {
-  "date": "2026-05-14 UTC",
+  "date": "2026-05-15 UTC",
   "changes": [
-    "OpenClaw kept the prerelease train moving, with v2026.5.12-beta.5 and v2026.5.12-beta.6 published on 2026-05-13 UTC.",
-    "PicoClaw rolled another nightly on 2026-05-14 01:21 UTC.",
-    "AstrBot shipped v4.24.5 on 2026-05-13 17:19 UTC, keeping the adjacent messaging-agent benchmark set active.",
+    "OpenClaw shipped stable v2026.5.12 on 2026-05-14 18:28 UTC, then followed with v2026.5.14-beta.1 on 2026-05-14 21:31 UTC.",
+    "IronClaw shipped ironclaw-v0.28.2 on 2026-05-15 06:34 UTC, keeping the security-first lane active.",
+    "PicoClaw rolled another nightly on 2026-05-15 01:18 UTC.",
+    "SwarmClaw kept rapid orchestration-lane release cadence with v1.9.29, v1.9.30, and v1.9.31 on 2026-05-14.",
     "No new tracked target appeared, and the taxonomy still holds."
   ],
   "whyItMatters": [
-    "The main signal today is sustained execution velocity across the core and nearby benchmark set, not a taxonomy break.",
+    "The main signal today is cross-lane execution velocity: the category anchor, the security-first lane, the lightweight lane, and the orchestration lane all shipped inside the same 24-hour window.",
     "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud or platform-style execution surfaces."
   ]
 }
