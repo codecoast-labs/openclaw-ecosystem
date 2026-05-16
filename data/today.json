@@ -1,14 +1,15 @@
 {
-  "date": "2026-05-15 UTC",
+  "date": "2026-05-16 UTC",
   "changes": [
-    "OpenClaw shipped stable v2026.5.12 on 2026-05-14 18:28 UTC, then followed with v2026.5.14-beta.1 on 2026-05-14 21:31 UTC.",
-    "IronClaw shipped ironclaw-v0.28.2 on 2026-05-15 06:34 UTC, keeping the security-first lane active.",
-    "PicoClaw rolled another nightly on 2026-05-15 01:18 UTC.",
-    "SwarmClaw kept rapid orchestration-lane release cadence with v1.9.29, v1.9.30, and v1.9.31 on 2026-05-14.",
+    "OpenClaw published v2026.5.16-beta.1 on 2026-05-16 01:33 UTC, extending its near-daily release cadence after the fresh stable shipped the day before.",
+    "NanoClaw shipped v2.0.63 on 2026-05-15 19:08 UTC, keeping the security-first containerized lane active.",
+    "PicoClaw rolled another nightly on 2026-05-16 01:16 UTC, preserving the cheap-hardware lane's daily iteration signal.",
+    "SwarmClaw released v1.9.32 on 2026-05-15 11:19 UTC, continuing rapid orchestration-lane shipping.",
+    "AstrBot released v4.25.0 on 2026-05-15 17:42 UTC, adding movement from a neighboring IM-agent platform benchmark.",
     "No new tracked target appeared, and the taxonomy still holds."
   ],
   "whyItMatters": [
-    "The main signal today is cross-lane execution velocity: the category anchor, the security-first lane, the lightweight lane, and the orchestration lane all shipped inside the same 24-hour window.",
-    "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure continues to cluster around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and cloud or platform-style execution surfaces."
+    "The main signal today is continued cross-lane execution velocity: the anchor, the security-first lane, the lightweight or edge lane, the orchestration layer, and an adjacent platform benchmark all moved again within roughly a day.",
+    "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure still clusters around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and platform-style execution surfaces."
   ]
 }
