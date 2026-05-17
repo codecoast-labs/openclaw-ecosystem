@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16 UTC",
+  "updatedAt": "2026-05-17 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-05-16 UTC",
+    "date": "2026-05-17 UTC",
     "changes": [
-      "OpenClaw published v2026.5.16-beta.1 on 2026-05-16 01:33 UTC, extending its near-daily release cadence after the fresh stable shipped the day before.",
-      "NanoClaw shipped v2.0.63 on 2026-05-15 19:08 UTC, keeping the security-first containerized lane active.",
-      "PicoClaw rolled another nightly on 2026-05-16 01:16 UTC, preserving the cheap-hardware lane's daily iteration signal.",
-      "SwarmClaw released v1.9.32 on 2026-05-15 11:19 UTC, continuing rapid orchestration-lane shipping.",
-      "AstrBot released v4.25.0 on 2026-05-15 17:42 UTC, adding movement from a neighboring IM-agent platform benchmark.",
+      "OpenClaw published v2026.5.16-beta.4 on 2026-05-17 04:22 UTC, so the category anchor is still shipping multiple betas per day immediately after the prior stable.",
+      "PicoClaw rolled another nightly on 2026-05-17 01:22 UTC, keeping the edge and cheap-hardware lane on a daily ship rhythm.",
+      "AstrBot released v4.25.1 on 2026-05-17 07:05 UTC, showing adjacent IM-agent platforms are still iterating quickly too.",
+      "The refreshed snapshot also confirms yesterday's broader moves, including nanobot v0.2.0, NanoClaw v2.0.63, Hermes Agent v2026.5.16, HiClaw v1.1.1, and Poco v0.5.1, and folds them into the canonical dataset.",
+      "Tracked repo links were normalized for NanoClaw, TinyAGI, HiClaw, and Hermes, and three new source-backed OpenClaw use cases were added from the official showcase.",
       "No new tracked target appeared, and the taxonomy still holds."
     ],
     "whyItMatters": [
-      "The main signal today is continued cross-lane execution velocity: the anchor, the security-first lane, the lightweight or edge lane, the orchestration layer, and an adjacent platform benchmark all moved again within roughly a day.",
+      "The main signal today is continued cross-lane execution velocity: the anchor, the edge-lightweight lane, and adjacent IM-agent platforms all moved again within hours.",
+      "The second signal is better proof of real-world usage. The expanded OpenClaw showcase now gives stronger evidence for home control, ambient daily briefings, and back-office document workflows.",
       "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure still clusters around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and platform-style execution surfaces."
     ]
   }
