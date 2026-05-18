@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17 UTC",
+  "updatedAt": "2026-05-18 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-05-17 UTC",
+    "date": "2026-05-18 UTC",
     "changes": [
-      "OpenClaw published v2026.5.16-beta.4 on 2026-05-17 04:22 UTC, so the category anchor is still shipping multiple betas per day immediately after the prior stable.",
-      "PicoClaw rolled another nightly on 2026-05-17 01:22 UTC, keeping the edge and cheap-hardware lane on a daily ship rhythm.",
-      "AstrBot released v4.25.1 on 2026-05-17 07:05 UTC, showing adjacent IM-agent platforms are still iterating quickly too.",
-      "The refreshed snapshot also confirms yesterday's broader moves, including nanobot v0.2.0, NanoClaw v2.0.63, Hermes Agent v2026.5.16, HiClaw v1.1.1, and Poco v0.5.1, and folds them into the canonical dataset.",
-      "Tracked repo links were normalized for NanoClaw, TinyAGI, HiClaw, and Hermes, and three new source-backed OpenClaw use cases were added from the official showcase.",
-      "No new tracked target appeared, and the taxonomy still holds."
+      "OpenClaw published v2026.5.16-beta.6 on 2026-05-18 01:09 UTC, after beta.5 landed on 2026-05-17 17:59 UTC, so the category anchor is still shipping betas in tight succession.",
+      "PicoClaw rolled another nightly on 2026-05-18 01:23 UTC, keeping the cheap-hardware and edge lane on a true daily release rhythm.",
+      "Poco released v0.5.2 on 2026-05-18 07:27 UTC, extending the safer, more productized alternative lane only a week after v0.5.1.",
+      "The refreshed snapshot also keeps yesterday's broader state current: nanobot v0.2.0, NanoClaw v2.0.63, Hermes Agent v2026.5.16, HiClaw v1.1.1, and AstrBot v4.25.1 all remain reflected in the canonical dataset.",
+      "No new tracked target appeared, and the lane map still holds."
     ],
     "whyItMatters": [
-      "The main signal today is continued cross-lane execution velocity: the anchor, the edge-lightweight lane, and adjacent IM-agent platforms all moved again within hours.",
-      "The second signal is better proof of real-world usage. The expanded OpenClaw showcase now gives stronger evidence for home control, ambient daily briefings, and back-office document workflows.",
-      "The stable strategic read stays intact: OpenClaw remains the anchor, while pressure still clusters around lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and platform-style execution surfaces."
+      "The main signal today is sustained execution velocity in the core product lane and the lightweight edge lane, with OpenClaw and PicoClaw both shipping again within roughly 24 hours.",
+      "Poco's v0.5.2 release matters because the productized, sandboxed alternative lane is still moving too, which keeps pressure on OpenClaw from a UX and safety angle, not just from lighter runtimes.",
+      "This strengthens the existing strategic read rather than changing it: the center of gravity is still OpenClaw, while pressure still clusters around lighter runtimes, safer runtimes, orchestration, learning loops, and more polished execution surfaces."
     ]
   }
 }
