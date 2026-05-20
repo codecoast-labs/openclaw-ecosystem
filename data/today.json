@@ -1,15 +1,16 @@
 {
-  "date": "2026-05-18 UTC",
+  "date": "2026-05-20 UTC",
   "changes": [
-    "OpenClaw published v2026.5.16-beta.6 on 2026-05-18 01:09 UTC, after beta.5 landed on 2026-05-17 17:59 UTC, so the category anchor is still shipping betas in tight succession.",
-    "PicoClaw rolled another nightly on 2026-05-18 01:23 UTC, keeping the cheap-hardware and edge lane on a true daily release rhythm.",
-    "Poco released v0.5.2 on 2026-05-18 07:27 UTC, extending the safer, more productized alternative lane only a week after v0.5.1.",
-    "The refreshed snapshot also keeps yesterday's broader state current: nanobot v0.2.0, NanoClaw v2.0.63, Hermes Agent v2026.5.16, HiClaw v1.1.1, and AstrBot v4.25.1 all remain reflected in the canonical dataset.",
-    "No new tracked target appeared, and the lane map still holds."
+    "OpenClaw added two fresh prereleases in the last cycle: v2026.5.19-beta.2 on 2026-05-19 21:12 UTC and v2026.5.19-alpha.1 on 2026-05-20 00:50 UTC, so the category anchor is still shipping at unusually high velocity.",
+    "NanoClaw remains newly advanced at v2.0.64 from 2026-05-18 18:01 UTC, keeping the security-first alternative lane active rather than static.",
+    "PicoClaw rolled another nightly on 2026-05-20 01:26 UTC, preserving the strongest daily cadence in the cheap-hardware and edge lane.",
+    "SwarmClaw also moved to v1.9.34 on 2026-05-19 10:37 UTC, which is a small but real sign that the orchestration and control-plane layer is still shipping too.",
+    "Hermes Agent remains the canonical adjacent benchmark, and the tracked set plus lane map still hold without taxonomy changes."
   ],
   "whyItMatters": [
-    "The main signal today is sustained execution velocity in the core product lane and the lightweight edge lane, with OpenClaw and PicoClaw both shipping again within roughly 24 hours.",
-    "Poco's v0.5.2 release matters because the productized, sandboxed alternative lane is still moving too, which keeps pressure on OpenClaw from a UX and safety angle, not just from lighter runtimes.",
-    "This strengthens the existing strategic read rather than changing it: the center of gravity is still OpenClaw, while pressure still clusters around lighter runtimes, safer runtimes, orchestration, learning loops, and more polished execution surfaces."
+    "The main signal today is continued multi-lane execution, not just one project shipping in isolation. OpenClaw, PicoClaw, and SwarmClaw all moved, while NanoClaw still keeps the security critique commercially alive.",
+    "OpenClaw's dual prerelease motion matters most because it shows the anchor project is still iterating fast across the product surface, which raises the bar for followers and adjacent competitors.",
+    "PicoClaw keeps the low-cost always-on deployment wedge visible and credible, while SwarmClaw reinforces that orchestration around OpenClaw-like runtimes is becoming its own product layer.",
+    "This strengthens the existing strategic read rather than changing it: pressure remains concentrated in lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and more polished execution surfaces."
   ]
 }
