@@ -1,16 +1,16 @@
 {
-  "date": "2026-05-20 UTC",
+  "date": "2026-05-21 UTC",
   "changes": [
-    "OpenClaw added two fresh prereleases in the last cycle: v2026.5.19-beta.2 on 2026-05-19 21:12 UTC and v2026.5.19-alpha.1 on 2026-05-20 00:50 UTC, so the category anchor is still shipping at unusually high velocity.",
-    "NanoClaw remains newly advanced at v2.0.64 from 2026-05-18 18:01 UTC, keeping the security-first alternative lane active rather than static.",
-    "PicoClaw rolled another nightly on 2026-05-20 01:26 UTC, preserving the strongest daily cadence in the cheap-hardware and edge lane.",
-    "SwarmClaw also moved to v1.9.34 on 2026-05-19 10:37 UTC, which is a small but real sign that the orchestration and control-plane layer is still shipping too.",
+    "OpenClaw shipped v2026.5.19 on 2026-05-20 20:20 UTC and then followed immediately with v2026.5.20-beta.1 on 2026-05-21 00:11 UTC, keeping the category anchor on a very tight release loop.",
+    "ZeroClaw posted v0.8.0-beta-1 on 2026-05-21 01:36 UTC, giving the lightweight Rust lane a fresh product signal.",
+    "PicoClaw rolled another nightly on 2026-05-21 01:25 UTC, preserving the strongest daily cadence in the cheap-hardware and edge lane.",
+    "Hermes Agent, nanobot, and NanoClaw all showed continued repo activity in the latest snapshot, but without a taxonomy-changing release or positioning shift.",
     "Hermes Agent remains the canonical adjacent benchmark, and the tracked set plus lane map still hold without taxonomy changes."
   ],
   "whyItMatters": [
-    "The main signal today is continued multi-lane execution, not just one project shipping in isolation. OpenClaw, PicoClaw, and SwarmClaw all moved, while NanoClaw still keeps the security critique commercially alive.",
-    "OpenClaw's dual prerelease motion matters most because it shows the anchor project is still iterating fast across the product surface, which raises the bar for followers and adjacent competitors.",
-    "PicoClaw keeps the low-cost always-on deployment wedge visible and credible, while SwarmClaw reinforces that orchestration around OpenClaw-like runtimes is becoming its own product layer.",
+    "The biggest signal is still anchor velocity: OpenClaw is moving from stable release to next-cycle prerelease with almost no idle time, which keeps pressure on the whole field.",
+    "ZeroClaw's new beta matters because the lightweight Rust line is still one of the strongest direct competitive answers to OpenClaw's heavier runtime story.",
+    "PicoClaw keeps the low-cost always-on deployment wedge visible and credible through near-daily release motion.",
     "This strengthens the existing strategic read rather than changing it: pressure remains concentrated in lighter runtimes, safer runtimes, multi-agent orchestration, learning loops, and more polished execution surfaces."
   ]
 }
