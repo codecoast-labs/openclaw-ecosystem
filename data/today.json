@@ -1,12 +1,12 @@
 {
-  "date": "2026-05-23 UTC",
+  "date": "2026-05-24 UTC",
   "changes": [
-    "PicoClaw posted another nightly build on 2026-05-23 01:21 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
-    "OpenClaw, Hermes Agent, NanoClaw, HiClaw, AstrBot, and the rest of the monitored set all showed fresh repo activity in the latest snapshot, but there was no new tier-1 or taxonomy-changing release after OpenClaw's stable v2026.5.20 on 2026-05-21 20:44 UTC.",
-    "Hermes Agent remains the canonical adjacent benchmark, and the tracked set plus lane map still hold without structural changes."
+    "OpenClaw shipped stable v2026.5.22 on 2026-05-24 01:12 UTC, after v2026.5.22-beta.1 landed on 2026-05-23 09:59 UTC.",
+    "PicoClaw posted another nightly build on 2026-05-24 01:08 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
+    "Hermes Agent, ZeroClaw, NanoClaw, IronClaw, HiClaw, and AstrBot all remained repo-active in the latest snapshot, but there was no taxonomy-changing entrant or positioning shift in the monitored set."
   ],
   "whyItMatters": [
-    "The only clearly new ecosystem event today is PicoClaw's nightly rhythm, which keeps the low-cost always-on deployment wedge visible and credible.",
-    "The broader field stayed active, but today did not alter the strategic shape of the ecosystem. Pressure remains concentrated in lighter runtimes, safer runtimes, multi-agent orchestration, and learning-loop or long-running execution surfaces."
+    "The main signal today is OpenClaw shipping another stable, which reinforces its role as the category anchor and pace-setter.",
+    "PicoClaw keeps the low-cost always-on wedge visible, but the broader ecosystem shape still centers on lighter runtimes, safer runtimes, multi-agent orchestration, and learning-loop or long-running execution surfaces."
   ]
 }
