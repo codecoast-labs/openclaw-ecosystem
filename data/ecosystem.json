@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24 UTC",
+  "updatedAt": "2026-05-25 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,14 +648,14 @@
     ]
   },
   "today": {
-    "date": "2026-05-24 UTC",
+    "date": "2026-05-25 UTC",
     "changes": [
-      "OpenClaw shipped stable v2026.5.22 on 2026-05-24 01:12 UTC, after v2026.5.22-beta.1 landed on 2026-05-23 09:59 UTC.",
-      "PicoClaw posted another nightly build on 2026-05-24 01:08 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
+      "OpenClaw pushed v2026.5.24-beta.1 at 2026-05-24 14:42 UTC and v2026.5.24-beta.2 at 2026-05-24 23:49 UTC, showing the next release cycle started immediately after the prior stable.",
+      "PicoClaw posted another nightly build on 2026-05-25 01:09 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
       "Hermes Agent, ZeroClaw, NanoClaw, IronClaw, HiClaw, and AstrBot all remained repo-active in the latest snapshot, but there was no taxonomy-changing entrant or positioning shift in the monitored set."
     ],
     "whyItMatters": [
-      "The main signal today is OpenClaw shipping another stable, which reinforces its role as the category anchor and pace-setter.",
+      "The main signal today is OpenClaw moving straight back into beta, which reinforces its role as the category pace-setter rather than a slower incumbent.",
       "PicoClaw keeps the low-cost always-on wedge visible, but the broader ecosystem shape still centers on lighter runtimes, safer runtimes, multi-agent orchestration, and learning-loop or long-running execution surfaces."
     ]
   }
