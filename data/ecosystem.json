@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26 UTC",
+  "updatedAt": "2026-05-27 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,15 +648,16 @@
     ]
   },
   "today": {
-    "date": "2026-05-26 UTC",
+    "date": "2026-05-27 UTC",
     "changes": [
-      "OpenClaw stayed in its fresh beta cycle, with the latest visible releases still v2026.5.24-beta.1 and v2026.5.24-beta.2, while the repo itself remained highly active through 2026-05-26 07:29 UTC.",
-      "PicoClaw posted another nightly build on 2026-05-26 01:06 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
-      "Poco shipped v0.5.3 on 2026-05-25 16:36 UTC, showing that the safer, more productized UI-first alternative is still iterating quickly.",
-      "Hermes Agent, ZeroClaw, NanoClaw, IronClaw, HiClaw, and AstrBot all remained repo-active in the latest snapshot, but there was no taxonomy-changing entrant or positioning shift in the monitored set."
+      "OpenClaw shipped fresh betas, with v2026.5.26-beta.1 published on 2026-05-26 21:10 UTC and v2026.5.26-beta.2 on 2026-05-27 05:46 UTC, while the repo stayed highly active through 2026-05-27 07:29 UTC.",
+      "PicoClaw posted another nightly build on 2026-05-27 01:09 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
+      "IronClaw released 0.29.0 on 2026-05-26 16:58 UTC, showing the privacy-and-security lane is still shipping, not just positioning.",
+      "HiClaw released v1.1.2 on 2026-05-27 05:59 UTC and SwarmClaw released v1.9.36 on 2026-05-26 14:01 UTC, reinforcing continued motion in the orchestration and control-plane lane.",
+      "Hermes Agent, nanobot, ZeroClaw, NanoClaw, Poco, and AstrBot all remained repo-active in the latest snapshot, but there was no taxonomy-changing entrant or strategic repositioning in the monitored set."
     ],
     "whyItMatters": [
-      "The daily signal is still execution velocity, not a new category shape: OpenClaw is shipping like the pace-setter, PicoClaw keeps reinforcing the low-cost edge wedge, and Poco continues to validate the safer polished-product lane.",
+      "The daily signal is still execution velocity across multiple lanes, not a new category shape: OpenClaw remains the pace-setter, PicoClaw keeps validating the low-cost edge wedge, IronClaw is still advancing the trust-and-security case, and HiClaw plus SwarmClaw keep the multi-agent control-plane lane warm.",
       "The broader ecosystem frame still holds: lighter runtimes, safer runtimes, multi-agent orchestration, and learning-loop or long-running agent behavior remain the durable fault lines."
     ]
   }
