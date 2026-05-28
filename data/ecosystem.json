@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27 UTC",
+  "updatedAt": "2026-05-28 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,17 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-05-27 UTC",
+    "date": "2026-05-28 UTC",
     "changes": [
-      "OpenClaw shipped fresh betas, with v2026.5.26-beta.1 published on 2026-05-26 21:10 UTC and v2026.5.26-beta.2 on 2026-05-27 05:46 UTC, while the repo stayed highly active through 2026-05-27 07:29 UTC.",
-      "PicoClaw posted another nightly build on 2026-05-27 01:09 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
-      "IronClaw released 0.29.0 on 2026-05-26 16:58 UTC, showing the privacy-and-security lane is still shipping, not just positioning.",
-      "HiClaw released v1.1.2 on 2026-05-27 05:59 UTC and SwarmClaw released v1.9.36 on 2026-05-26 14:01 UTC, reinforcing continued motion in the orchestration and control-plane lane.",
-      "Hermes Agent, nanobot, ZeroClaw, NanoClaw, Poco, and AstrBot all remained repo-active in the latest snapshot, but there was no taxonomy-changing entrant or strategic repositioning in the monitored set."
+      "OpenClaw published stable v2026.5.26 on 2026-05-27 11:27 UTC and then v2026.5.27-beta.1 on 2026-05-28 05:54 UTC, while repo activity continued through 2026-05-28 07:28 UTC.",
+      "PicoClaw posted another nightly build on 2026-05-28 01:04 UTC, preserving the strongest day-to-day release cadence in the cheap-hardware and edge lane.",
+      "nanobot, ZeroClaw, Hermes Agent, IronClaw, HiClaw, and AstrBot all showed fresh repo movement in the latest snapshot, but without a same-day taxonomy shift or new strategic claim.",
+      "The watch docs were cleaned up to reflect the current canonical targets and sources, including Hermes Agent at NousResearch/hermes-agent, NanoClaw at nanocoai/nanoclaw, TinyAGI or TinyClaw, and HiClaw at agentscope-ai/HiClaw.",
+      "The OpenClaw showcase-driven use-case log was expanded with additional official-source examples around device automation, scheduled visual briefings, and accounting intake from email plus PDFs."
     ],
     "whyItMatters": [
-      "The daily signal is still execution velocity across multiple lanes, not a new category shape: OpenClaw remains the pace-setter, PicoClaw keeps validating the low-cost edge wedge, IronClaw is still advancing the trust-and-security case, and HiClaw plus SwarmClaw keep the multi-agent control-plane lane warm.",
-      "The broader ecosystem frame still holds: lighter runtimes, safer runtimes, multi-agent orchestration, and learning-loop or long-running agent behavior remain the durable fault lines."
+      "The strongest signal today is still OpenClaw release velocity. The anchor product is shipping both stable and beta cuts back-to-back, which keeps pressure on every derivative lane.",
+      "PicoClaw continues to validate that low-cost edge deployment is not a one-off story, while the rest of the field stays active enough that the category still looks alive across lightweight, security, orchestration, and learning-loop branches.",
+      "The ecosystem map itself did not reframe today. What improved was confidence and cleanliness: better canonical target mapping, fresher official-source use cases, and a more accurate daily layer."
     ]
   }
 }
