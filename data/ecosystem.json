@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30 UTC",
+  "updatedAt": "2026-06-01 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-05-30 UTC",
+    "date": "2026-06-01 UTC",
     "changes": [
-      "OpenClaw published v2026.5.28-beta.2, beta.3, and beta.4 on 2026-05-29 12:19 UTC, 17:19 UTC, and 22:48 UTC, while repo activity continued through 2026-05-30 07:30 UTC.",
-      "Hermes Agent published v2026.5.29.2 on 2026-05-29 13:37 UTC, with repo activity still landing through 2026-05-30 07:23 UTC.",
-      "PicoClaw posted another nightly build on 2026-05-30 01:23 UTC, one day after shipping v0.2.9.",
-      "The tracked set was cleaned up where it mattered: NanoClaw now points to nanocoai/nanoclaw, TinyClaw is tracked through TinyAGI, HiClaw now points to agentscope-ai/HiClaw, and Hermes remains canonical.",
-      "OpenClaw's showcase added a few more source-backed workflow examples that were worth logging in the use-case layer."
+      "OpenClaw published v2026.5.31-beta.2 on 2026-05-31 18:17 UTC, v2026.5.31-beta.3 on 2026-05-31 19:19 UTC, and v2026.5.31-beta.4 on 2026-06-01 02:04 UTC while repo activity continued through 2026-06-01 07:30 UTC.",
+      "PicoClaw posted another nightly build on 2026-06-01 01:31 UTC, extending the rapid lightweight-edge release cadence after v0.2.9.",
+      "Poco shipped v0.5.4 on 2026-05-31 15:11 UTC, adding another live product release in the polished sandboxed-assistant lane.",
+      "Hermes Agent did not cut a fresh release in this window, but repo activity continued through 2026-06-01 07:00 UTC and its native Windows install story now reads more mature in the surfaced docs snapshot."
     ],
     "whyItMatters": [
-      "The category anchor is still setting the pace: OpenClaw keeps shipping quickly, with multiple beta cuts landing inside one cycle.",
-      "Hermes remains the clearest adjacent pressure because it is pairing fast release cadence with the strongest learning-loop and self-improving agent story in the watched set.",
-      "PicoClaw continues to validate that lightweight edge deployment is not a novelty.",
-      "The stable taxonomy did not change, but the canonical dataset is now cleaner and more accurate for the hosted atlas and downstream summaries."
+      "OpenClaw is still the category pace-setter: three beta cuts across one day signal sustained high-speed iteration.",
+      "PicoClaw continues to prove the lightweight edge story has operating cadence, not just launch attention.",
+      "Poco remains worth watching because the safer, more productized UI lane is still shipping, even without changing the broader map.",
+      "The strategic taxonomy still holds. This was a cadence update, not a category-shape change."
     ]
   }
 }
