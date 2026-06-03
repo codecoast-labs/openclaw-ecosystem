@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02 UTC",
+  "updatedAt": "2026-06-03 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,18 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-02 UTC",
+    "date": "2026-06-03 UTC",
     "changes": [
-      "OpenClaw published v2026.6.1-beta.1 on 2026-06-01 09:45 UTC and v2026.6.1-beta.2 on 2026-06-01 21:56 UTC while repo activity continued through 2026-06-02 07:29 UTC.",
-      "nanobot shipped v0.2.1 on 2026-06-01 08:56 UTC and positioned it as The Workbench Release with a stronger packaged WebUI, project workspaces, live file-edit activity, and broader extension/provider support.",
-      "PicoClaw posted another nightly build on 2026-06-02 01:30 UTC, extending the rapid lightweight-edge release cadence after v0.2.9.",
-      "Hermes Agent stayed highly active at repo level through 2026-06-02 07:29 UTC but did not cut a newer release than v2026.5.29.2."
+      "The atlas was re-synced to a live official-source snapshot on 2026-06-03 UTC, restoring current GitHub, release, and README state in data/latest.md.",
+      "OpenClaw remained active through 2026-06-03 07:24 UTC with no newer release than v2026.6.1-beta.2 from 2026-06-01.",
+      "nanobot remained active through 2026-06-03 07:01 UTC with v0.2.1 still the latest release and its workbench positioning intact.",
+      "PicoClaw's latest fresh shipping signal is still the nightly build published on 2026-06-03 01:36 UTC after v0.2.9.",
+      "Canonical upstream references in the dataset are now aligned with current reality, including Hermes Agent, NanoClaw, TinyAGI, and HiClaw."
     ],
     "whyItMatters": [
-      "OpenClaw is still the category pace-setter: two more betas in under a day reinforce sustained high-speed iteration.",
-      "nanobot remains the most important lightweight rewrite, and v0.2.1 strengthens its story as a daily-use product rather than only a minimal core runtime.",
-      "PicoClaw continues to prove the lightweight edge story has operating cadence, not just launch attention.",
-      "The strategic taxonomy still holds. This was a cadence update, not a category-shape change."
+      "The biggest change today was data integrity, not a brand-new category shock: the hosted atlas is back on current official-source footing.",
+      "Correct canonical repo and org references matter because stale upstream pointers distort ecosystem tracking and hosted atlas output.",
+      "The stable strategic read still holds: OpenClaw is the anchor, lightweight rewrites keep shipping, and Hermes remains the strongest learning-loop adjacent benchmark.",
+      "This was a meaningful sync run, but not a taxonomy rewrite."
     ]
   }
 }
