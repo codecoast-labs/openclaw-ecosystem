@@ -1,16 +1,16 @@
 {
-  "date": "2026-06-04 UTC",
+  "date": "2026-06-05 UTC",
   "changes": [
-    "The atlas was refreshed from a live official-source snapshot on 2026-06-04 UTC, replacing the old March-level data/latest.md state with current repo, release, and README evidence.",
-    "OpenClaw posted a fresh June 3 release burst: v2026.6.1-beta.3 at 09:16 UTC, v2026.6.1 at 19:35 UTC, and v2026.6.2-beta.1 at 23:46 UTC.",
-    "IronClaw shipped ironclaw-v0.29.1 on 2026-06-03 19:18 UTC and remained active into 2026-06-04 07:22 UTC.",
-    "nanobot, ZeroClaw, Hermes Agent, AstrBot, and PicoClaw all still show active repo movement in the latest snapshot without a taxonomy-breaking position change.",
-    "Canonical upstream references remain aligned, including Hermes Agent, NanoClaw, TinyAGI, and HiClaw."
+    "The daily official-source snapshot was refreshed on 2026-06-05 UTC and kept the canonical watch aligned with live repo, release, and README state.",
+    "OpenClaw remained highly active in the fresh snapshot, with repo activity still following the June 3 release burst rather than a new release-class event today.",
+    "PicoClaw published a fresh nightly build at 2026-06-05 01:28 UTC, which is a useful ongoing velocity signal for the cheap-hardware lane but not a taxonomy-changing move.",
+    "nanobot, ZeroClaw, NanoClaw, IronClaw, Hermes Agent, HiClaw, and AstrBot all still show current repo activity, reinforcing that the field remains crowded and shipping.",
+    "Hermes remains canonical at https://github.com/NousResearch/hermes-agent, and the monitored set itself did not change today."
   ],
   "whyItMatters": [
-    "The biggest shift is not a brand-new lane, but fresh evidence that the category is still shipping quickly across the anchor project and several serious alternatives.",
-    "OpenClaw’s June 3 release burst reinforces that the reference implementation is still setting pace, not just defending installed base.",
-    "IronClaw’s fresh release is another signal that the security-first lane is still shipping, not just acting as a static critique.",
-    "The stable strategic read still holds: OpenClaw is the anchor, lightweight rewrites remain the dominant derivative pattern, security-first alternatives still matter, and Hermes remains the strongest learning-loop adjacent benchmark."
+    "Today confirms continuation, not reclassification: the ecosystem is still moving fast, but the winners and lanes did not materially reshuffle.",
+    "PicoClaw's nightly and broad repo activity across the field keep validating that lightweight and always-on deployment remain durable demand vectors.",
+    "The strategic read still holds: OpenClaw is the anchor, lightweight rewrites dominate the derivative wave, security-first alternatives still matter, and Hermes remains the strongest learning-loop adjacent benchmark.",
+    "Because there was no new category-defining launch, monitored-set change, or strategy-breaking use case, the stable docs should stay intact while the daily layer rolls forward."
   ]
 }
