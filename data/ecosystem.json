@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05 UTC",
+  "updatedAt": "2026-06-06 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-05 UTC",
+    "date": "2026-06-06 UTC",
     "changes": [
-      "The daily official-source snapshot was refreshed on 2026-06-05 UTC and kept the canonical watch aligned with live repo, release, and README state.",
-      "OpenClaw remained highly active in the fresh snapshot, with repo activity still following the June 3 release burst rather than a new release-class event today.",
-      "PicoClaw published a fresh nightly build at 2026-06-05 01:28 UTC, which is a useful ongoing velocity signal for the cheap-hardware lane but not a taxonomy-changing move.",
-      "nanobot, ZeroClaw, NanoClaw, IronClaw, Hermes Agent, HiClaw, and AstrBot all still show current repo activity, reinforcing that the field remains crowded and shipping.",
-      "Hermes remains canonical at https://github.com/NousResearch/hermes-agent, and the monitored set itself did not change today."
+      "The daily official-source snapshot was refreshed on 2026-06-06 UTC and rolled the canonical watch forward to current repo, release, and README state.",
+      "OpenClaw shipped a new prerelease, v2026.6.5-beta.1, published at 2026-06-06 03:36:51 UTC, extending the June release burst into a fresh day-level release event.",
+      "OpenClaw repo activity remained strong beyond the release itself, with updated_at at 2026-06-06 07:15:10 UTC and pushed_at at 2026-06-06 06:46:20 UTC in the snapshot.",
+      "The rest of the Tier 1 field still looks active rather than stale, but there was no monitored-set expansion, no taxonomy break, and no new category-defining launch outside the OpenClaw beta.",
+      "Hermes remains canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "Today confirms continuation, not reclassification: the ecosystem is still moving fast, but the winners and lanes did not materially reshuffle.",
-      "PicoClaw's nightly and broad repo activity across the field keep validating that lightweight and always-on deployment remain durable demand vectors.",
-      "The strategic read still holds: OpenClaw is the anchor, lightweight rewrites dominate the derivative wave, security-first alternatives still matter, and Hermes remains the strongest learning-loop adjacent benchmark.",
-      "Because there was no new category-defining launch, monitored-set change, or strategy-breaking use case, the stable docs should stay intact while the daily layer rolls forward."
+      "This is a real movement day, not just a heartbeat refresh, because the category anchor shipped again on June 6, 2026.",
+      "The update reinforces that OpenClaw is still setting the tempo for the ecosystem while the derivative field continues to react around it.",
+      "At the same time, the move is incremental rather than thesis-breaking: it strengthens the existing strategic read more than it changes it.",
+      "So the right response is to refresh the volatile daily layer and hosted dataset, while leaving the stable strategic digest intact."
     ]
   }
 }
