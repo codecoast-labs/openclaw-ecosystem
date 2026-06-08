@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07 UTC",
+  "updatedAt": "2026-06-08 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-07 UTC",
+    "date": "2026-06-08 UTC",
     "changes": [
-      "The daily official-source snapshot was refreshed on 2026-06-07 UTC and rolled the canonical watch forward to the current repo, release, README, and showcase state.",
-      "OpenClaw shipped a fresh prerelease, v2026.6.5-beta.2, published at 2026-06-07 00:26:39 UTC, continuing the early-June release cadence for a second consecutive day.",
-      "Hermes Agent also posted a new stable release, v2026.6.5 (The Surface Release), published at 2026-06-06 00:55:58 UTC, reinforcing the learning-loop / self-improving adjacent lane.",
-      "AstrBot shipped v4.25.4 on 2026-06-07 04:38:36 UTC, which is notable as adjacent IM-agent platform activity, but it does not change the core atlas framing.",
+      "The daily official-source snapshot was refreshed on 2026-06-08 UTC and rolled the canonical watch forward to current repo, release, and README state across the tracked set.",
+      "AstrBot shipped a fresh adjacent-platform release, v4.25.5, published at 2026-06-07 17:26:28 UTC.",
+      "PicoClaw posted a new nightly build, published at 2026-06-08 01:34:04 UTC, which keeps the lightweight / cheap-hardware lane active.",
+      "OpenClaw itself did not post a newer release after v2026.6.5-beta.2 from 2026-06-07 00:26:39 UTC.",
       "The monitored set, taxonomy, and canonical references remain unchanged, including Hermes Agent at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful movement day because the category anchor shipped again, not just because repo metadata moved.",
-      "OpenClaw is still setting the cadence for the ecosystem, with consecutive prerelease activity and live repo momentum on 2026-06-07 UTC.",
-      "Hermes shipping on the same watch cycle matters because it strengthens the learning-loop competitor lane without changing the underlying strategic thesis.",
-      "So the correct move is to refresh the volatile day layer and hosted dataset, while leaving the stable taxonomy and executive digest intact."
+      "This was a real but not thesis-changing movement day: there was fresh release activity around the ecosystem, but not from the category anchor itself.",
+      "AstrBot continuing to ship matters because it reinforces adjacent IM-agent platform competition, especially on plugin-heavy, chat-native deployment.",
+      "PicoClaw nightlies matter as a signal that the lightweight edge-device lane is still active, but they do not change the strategic map by themselves.",
+      "The right call is to refresh the volatile day layer and hosted dataset, while leaving the stable taxonomy and executive digest unchanged."
     ]
   }
 }
