@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08 UTC",
+  "updatedAt": "2026-06-09 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-08 UTC",
+    "date": "2026-06-09 UTC",
     "changes": [
-      "The daily official-source snapshot was refreshed on 2026-06-08 UTC and rolled the canonical watch forward to current repo, release, and README state across the tracked set.",
-      "AstrBot shipped a fresh adjacent-platform release, v4.25.5, published at 2026-06-07 17:26:28 UTC.",
-      "PicoClaw posted a new nightly build, published at 2026-06-08 01:34:04 UTC, which keeps the lightweight / cheap-hardware lane active.",
-      "OpenClaw itself did not post a newer release after v2026.6.5-beta.2 from 2026-06-07 00:26:39 UTC.",
+      "The daily official-source snapshot was refreshed on 2026-06-09 UTC and rolled the canonical watch forward to current repo, release, and README state across the tracked set.",
+      "OpenClaw shipped two newer prereleases since the prior daily read: v2026.6.5-beta.3 at 2026-06-08 21:38:14 UTC and v2026.6.5-beta.5 at 2026-06-08 22:49:14 UTC.",
+      "PicoClaw posted a fresh nightly build at 2026-06-09 01:25:38 UTC, keeping the lightweight / cheap-hardware lane active.",
+      "SwarmClaw also shipped v1.9.38 at 2026-06-08 12:14:11 UTC, which is real movement in the orchestration / control-plane lane but not enough to change the map.",
       "The monitored set, taxonomy, and canonical references remain unchanged, including Hermes Agent at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a real but not thesis-changing movement day: there was fresh release activity around the ecosystem, but not from the category anchor itself.",
-      "AstrBot continuing to ship matters because it reinforces adjacent IM-agent platform competition, especially on plugin-heavy, chat-native deployment.",
-      "PicoClaw nightlies matter as a signal that the lightweight edge-device lane is still active, but they do not change the strategic map by themselves.",
-      "The right call is to refresh the volatile day layer and hosted dataset, while leaving the stable taxonomy and executive digest unchanged."
+      "This was a meaningful but not thesis-changing day because the category anchor itself moved again, which matters more than background repo churn.",
+      "The new OpenClaw betas are the clearest signal that core platform velocity remains high, even if today's snapshot does not yet show a strategic repositioning.",
+      "PicoClaw continuing to post nightly builds matters as a durability signal for the lightweight edge-device lane.",
+      "SwarmClaw's release is worth noting because orchestration remains an active branch of the ecosystem, but it does not yet alter the stable taxonomy or executive read."
     ]
   }
 }
