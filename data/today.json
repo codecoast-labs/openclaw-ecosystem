@@ -1,16 +1,16 @@
 {
-  "date": "2026-06-09 UTC",
+  "date": "2026-06-11 UTC",
   "changes": [
-    "The daily official-source snapshot was refreshed on 2026-06-09 UTC and rolled the canonical watch forward to current repo, release, and README state across the tracked set.",
-    "OpenClaw shipped two newer prereleases since the prior daily read: v2026.6.5-beta.3 at 2026-06-08 21:38:14 UTC and v2026.6.5-beta.5 at 2026-06-08 22:49:14 UTC.",
-    "PicoClaw posted a fresh nightly build at 2026-06-09 01:25:38 UTC, keeping the lightweight / cheap-hardware lane active.",
-    "SwarmClaw also shipped v1.9.38 at 2026-06-08 12:14:11 UTC, which is real movement in the orchestration / control-plane lane but not enough to change the map.",
-    "The monitored set, taxonomy, and canonical references remain unchanged, including Hermes Agent at https://github.com/NousResearch/hermes-agent."
+    "The official-source snapshot was refreshed on 2026-06-11 UTC across the tracked set.",
+    "OpenClaw moved materially again since the prior snapshot: stable v2026.6.5 shipped on 2026-06-09 18:13:20 UTC, then prerelease v2026.6.6-beta.1 shipped on 2026-06-10 19:33:39 UTC.",
+    "PicoClaw posted a newer nightly release on 2026-06-11 01:31:17 UTC, which keeps the cheap-hardware lane visibly active.",
+    "nanobot refreshed its README entry path with a new Start Here section, but there was no new release and no positioning shift.",
+    "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful but not thesis-changing day because the category anchor itself moved again, which matters more than background repo churn.",
-    "The new OpenClaw betas are the clearest signal that core platform velocity remains high, even if today's snapshot does not yet show a strategic repositioning.",
-    "PicoClaw continuing to post nightly builds matters as a durability signal for the lightweight edge-device lane.",
-    "SwarmClaw's release is worth noting because orchestration remains an active branch of the ecosystem, but it does not yet alter the stable taxonomy or executive read."
+    "This was a meaningful run because the category anchor did more than routine repo churn: it converted the last beta train into a stable release and immediately started the next prerelease cycle.",
+    "That is the strongest current signal that OpenClaw's core platform velocity is still setting the pace for the rest of the field.",
+    "PicoClaw's newer nightly continues to validate the lightweight edge-device lane, but it does not change the strategic map on its own.",
+    "The right update is to refresh the day layer and hosted dataset, while leaving the long-horizon thesis unchanged."
   ]
 }
