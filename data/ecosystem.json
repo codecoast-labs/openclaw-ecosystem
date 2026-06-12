@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11 UTC",
+  "updatedAt": "2026-06-12 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-06-11 UTC",
+    "date": "2026-06-12 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-11 UTC across the tracked set.",
-      "OpenClaw moved materially again since the prior snapshot: stable v2026.6.5 shipped on 2026-06-09 18:13:20 UTC, then prerelease v2026.6.6-beta.1 shipped on 2026-06-10 19:33:39 UTC.",
-      "PicoClaw posted a newer nightly release on 2026-06-11 01:31:17 UTC, which keeps the cheap-hardware lane visibly active.",
-      "nanobot refreshed its README entry path with a new Start Here section, but there was no new release and no positioning shift.",
+      "The official-source snapshot was refreshed on 2026-06-12 UTC across the tracked set.",
+      "OpenClaw shipped prerelease v2026.6.6-beta.2 on 2026-06-12 03:32:42 UTC, extending the current beta train two days after v2026.6.6-beta.1 and three days after stable v2026.6.5.",
+      "ZeroClaw shipped stable v0.8.0 on 2026-06-12 00:04:32 UTC, which is a real signal that the Rust lightweight lane is still iterating quickly.",
+      "PicoClaw posted a fresh nightly build on 2026-06-12 01:35:20 UTC, reinforcing the cheap-hardware / edge-device lane.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful run because the category anchor did more than routine repo churn: it converted the last beta train into a stable release and immediately started the next prerelease cycle.",
-      "That is the strongest current signal that OpenClaw's core platform velocity is still setting the pace for the rest of the field.",
-      "PicoClaw's newer nightly continues to validate the lightweight edge-device lane, but it does not change the strategic map on its own.",
-      "The right update is to refresh the day layer and hosted dataset, while leaving the long-horizon thesis unchanged."
+      "This was a meaningful run because there were actual release-level moves, not just repo churn.",
+      "OpenClaw remains the pace-setter. Another beta this quickly after the last stable release is the clearest current sign that the category anchor is still iterating fast in public.",
+      "ZeroClaw getting v0.8.0 out the door matters because the strongest lightweight Rust challenger is still shipping, not just accumulating stars.",
+      "PicoClaw continues to validate the edge-device narrative, but it does not change the strategic map by itself.",
+      "The right move is to refresh the daily layer and hosted dataset, while leaving the stable strategic read unchanged."
     ]
   }
 }
