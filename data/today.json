@@ -1,15 +1,17 @@
 {
-  "date": "2026-06-13 UTC",
+  "date": "2026-06-14 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-13 UTC across the tracked set.",
-    "OpenClaw shipped stable v2026.6.6 on 2026-06-12 11:04:42 UTC, replacing the prior beta-only state from the June 12 scan.",
-    "PicoClaw posted a fresh nightly build on 2026-06-13 01:33:59 UTC, which keeps the edge-device lane visibly active day over day.",
+    "The official-source snapshot was refreshed on 2026-06-14 UTC across the tracked set.",
+    "OpenClaw started a fresh beta train with v2026.6.7-beta.1 on 2026-06-13 09:42:35 UTC and v2026.6.8-beta.1 on 2026-06-13 21:49:06 UTC.",
+    "PicoClaw posted another nightly build on 2026-06-14 01:34:26 UTC, keeping the cheap-hardware lane visibly active day over day.",
+    "Poco shipped v0.5.6 on 2026-06-13 14:32:21 UTC, a small but real signal that the productized sandboxed-alternative lane is still moving.",
     "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful run because the category anchor converted a beta train into a fresh stable release.",
-    "OpenClaw v2026.6.6 matters more than routine repo churn because it confirms the project is still shipping quickly in public, not just testing in prerelease.",
-    "PicoClaw continues to validate the cheap-hardware / edge-device narrative, but this alone does not change the strategic map.",
-    "The right move is to refresh the daily layer and hosted dataset while leaving the stable long-horizon read unchanged."
+    "This was a meaningful run because the category anchor moved immediately from a fresh stable into the next public beta cycle, which signals continued release velocity rather than a pause after v2026.6.6.",
+    "OpenClaw's beta cadence matters more than routine star movement because it is the clearest official-source signal that the core project is still shipping in public at high speed.",
+    "PicoClaw continues to validate the edge-device / low-cost deployment story, but this is still reinforcement rather than a map-changing event.",
+    "Poco v0.5.6 is worth noting as incremental evidence that the polished sandboxed alternative lane is active, even if it does not yet change the strategic hierarchy.",
+    "The right move is to refresh the day layer and hosted dataset while leaving the stable long-horizon read unchanged."
   ]
 }
