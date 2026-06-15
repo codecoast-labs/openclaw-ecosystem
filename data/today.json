@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-14 UTC",
+  "date": "2026-06-15 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-14 UTC across the tracked set.",
-    "OpenClaw started a fresh beta train with v2026.6.7-beta.1 on 2026-06-13 09:42:35 UTC and v2026.6.8-beta.1 on 2026-06-13 21:49:06 UTC.",
-    "PicoClaw posted another nightly build on 2026-06-14 01:34:26 UTC, keeping the cheap-hardware lane visibly active day over day.",
-    "Poco shipped v0.5.6 on 2026-06-13 14:32:21 UTC, a small but real signal that the productized sandboxed-alternative lane is still moving.",
+    "The official-source snapshot was refreshed on 2026-06-15 UTC across the tracked set.",
+    "OpenClaw v2026.6.8-beta.1 is now clearly published at 2026-06-14 22:45:33 UTC, confirming that the post-v2026.6.6 beta train is still moving in public.",
+    "PicoClaw posted another nightly build on 2026-06-15 01:36:02 UTC, keeping the cheap-hardware lane visibly active day over day.",
+    "AstrBot published v4.26.0-beta.1 on 2026-06-15 05:32:21 UTC, reinforcing that the broader IM-agent adjacent set is still shipping quickly too.",
     "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful run because the category anchor moved immediately from a fresh stable into the next public beta cycle, which signals continued release velocity rather than a pause after v2026.6.6.",
-    "OpenClaw's beta cadence matters more than routine star movement because it is the clearest official-source signal that the core project is still shipping in public at high speed.",
-    "PicoClaw continues to validate the edge-device / low-cost deployment story, but this is still reinforcement rather than a map-changing event.",
-    "Poco v0.5.6 is worth noting as incremental evidence that the polished sandboxed alternative lane is active, even if it does not yet change the strategic hierarchy.",
+    "This was a meaningful run because the category anchor is still shipping fast enough that fresh beta evidence showed up again immediately after the stable v2026.6.6 release.",
+    "OpenClaw's public beta cadence matters more than routine star movement because it is the strongest official-source signal that the reference project is still setting pace for the category.",
+    "PicoClaw's nightly cadence continues to reinforce the edge-device / low-cost deployment story, but it is still reinforcement rather than a map-changing strategic event.",
+    "AstrBot's beta is worth noting as adjacent-market motion, but it does not change the current ecosystem hierarchy or taxonomy.",
     "The right move is to refresh the day layer and hosted dataset while leaving the stable long-horizon read unchanged."
   ]
 }
