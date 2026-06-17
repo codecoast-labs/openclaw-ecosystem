@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16 UTC",
+  "updatedAt": "2026-06-17 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-16 UTC",
+    "date": "2026-06-17 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-16 UTC across the tracked set.",
-      "OpenClaw v2026.6.8-beta.2 was published at 2026-06-16 01:50:19 UTC, extending the same beta train that already looked active yesterday.",
-      "PicoClaw posted another nightly build on 2026-06-16 01:41:32 UTC, and its README now prominently points to PicoPaw AI at https://picopaw.ai.",
-      "AstrBot published v4.26.0-beta.2 on 2026-06-16 04:46:07 UTC, reinforcing that the broader IM-agent adjacent set is still shipping quickly too.",
+      "The official-source snapshot was refreshed on 2026-06-17 UTC across the tracked set.",
+      "OpenClaw v2026.6.8 was published at 2026-06-16 16:32:26 UTC, converting yesterday's beta train into a same-cycle stable release.",
+      "PicoClaw posted another nightly build on 2026-06-17 01:34:38 UTC, showing the lightweight edge lane is still shipping daily.",
+      "AstrBot advanced again to v4.26.0-beta.4 on 2026-06-17 03:16:43 UTC, continuing the fast adjacent-market beta cadence.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was another meaningful run because the category anchor did not just stay active, it pushed a fresh beta again within roughly a day.",
-      "OpenClaw's back-to-back beta cadence remains the strongest official-source signal that the reference project is still setting the pace for the category.",
-      "PicoClaw's nightly plus PicoPaw surface expansion slightly strengthens the argument that the lightweight lane is trying to become an ecosystem, not just a smaller runtime, but it is still too early to redraw the strategic map around that.",
-      "AstrBot's beta is useful adjacent-market motion, but it still does not alter the current hierarchy or taxonomy.",
+      "This was a meaningful run because the category anchor moved from beta motion to a fresh stable release, which is a stronger signal than another prerelease alone.",
+      "OpenClaw shipping v2026.6.8 reinforces that the reference project is still setting pace, not just experimenting in public.",
+      "PicoClaw's nightly cadence keeps the lightweight lane active, but without a taxonomy-changing move on this pass.",
+      "AstrBot's new beta confirms that adjacent IM-agent platforms are still iterating fast, which matters for market pressure even if it does not change the current hierarchy.",
       "The right move is to roll the day layer and hosted dataset forward while leaving the stable long-horizon read unchanged."
     ]
   }
