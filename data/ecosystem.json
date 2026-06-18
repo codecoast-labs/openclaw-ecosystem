@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17 UTC",
+  "updatedAt": "2026-06-18 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,20 +648,20 @@
     ]
   },
   "today": {
-    "date": "2026-06-17 UTC",
+    "date": "2026-06-18 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-17 UTC across the tracked set.",
-      "OpenClaw v2026.6.8 was published at 2026-06-16 16:32:26 UTC, converting yesterday's beta train into a same-cycle stable release.",
-      "PicoClaw posted another nightly build on 2026-06-17 01:34:38 UTC, showing the lightweight edge lane is still shipping daily.",
-      "AstrBot advanced again to v4.26.0-beta.4 on 2026-06-17 03:16:43 UTC, continuing the fast adjacent-market beta cadence.",
+      "The official-source snapshot was refreshed on 2026-06-18 UTC across the tracked set.",
+      "NanoClaw shipped a new v2.1 line on 2026-06-17, with v2.1.0 and follow-up patch v2.1.17 published minutes apart.",
+      "ZeroClaw materially expanded its install surface in the README, adding preset, app-selection, gateway, prefix, dry-run, and uninstall flows.",
+      "PicoClaw posted another nightly build on 2026-06-18 06:16:24 UTC, confirming the lightweight edge lane is still shipping daily.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful run because the category anchor moved from beta motion to a fresh stable release, which is a stronger signal than another prerelease alone.",
-      "OpenClaw shipping v2026.6.8 reinforces that the reference project is still setting pace, not just experimenting in public.",
-      "PicoClaw's nightly cadence keeps the lightweight lane active, but without a taxonomy-changing move on this pass.",
-      "AstrBot's new beta confirms that adjacent IM-agent platforms are still iterating fast, which matters for market pressure even if it does not change the current hierarchy.",
-      "The right move is to roll the day layer and hosted dataset forward while leaving the stable long-horizon read unchanged."
+      "This was a meaningful run because the strongest movement came from derivative projects, not the category anchor, which is exactly the kind of pressure the watch should catch.",
+      "NanoClaw's v2.1 jump signals continued momentum for the security-first, container-isolated branch of the market.",
+      "ZeroClaw's broader install and packaging surface matters because better onboarding usually precedes wider adoption, especially for lean Rust alternatives.",
+      "PicoClaw's nightly cadence keeps the low-resource edge story active, even without a new stable release.",
+      "The right move is to refresh the daily layer and hosted dataset while leaving the stable long-horizon thesis unchanged."
     ]
   }
 }
