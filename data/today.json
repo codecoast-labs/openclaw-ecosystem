@@ -1,19 +1,16 @@
 {
-  "date": "2026-06-19 UTC",
+  "date": "2026-06-20 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-19 UTC across the tracked set.",
-    "OpenClaw published v2026.6.9-beta.1 on 2026-06-19 05:52:39 UTC, which is the clearest fresh movement at the category anchor today.",
-    "ZeroClaw shipped v0.8.1 on 2026-06-19 02:01:55 UTC, showing continued momentum in the lean Rust lane one week after v0.8.0.",
-    "PicoClaw rolled its nightly release forward again, now published at 2026-06-19 01:39:30 UTC, keeping the edge-device lane visibly active.",
-    "The Perplexity Computer announcement now resolves to the full official article instead of a bot-check stub, giving the watch a better primary-source read on the cloud digital-worker benchmark.",
+    "The official-source snapshot was refreshed on 2026-06-20 UTC across the tracked set.",
+    "Hermes Agent published v2026.6.19 / v0.17.0 on 2026-06-19 19:39:06 UTC, giving the closest OpenClaw-adjacent learning-loop competitor a fresh official release.",
+    "PicoClaw rolled its nightly release forward again, now published at 2026-06-20 01:30:10 UTC, keeping the edge-device lane visibly active day over day.",
+    "OpenClaw, nanobot, ZeroClaw, IronClaw, and HiClaw all show fresh repo activity in the latest snapshot, but without a second taxonomy-changing announcement or release-tier shift.",
     "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful run because movement showed up in both the category anchor and the lightweight derivative lane, not just in repo-level noise.",
-    "OpenClaw's new beta matters because anchor-project release cadence still sets expectations for the whole category.",
-    "ZeroClaw v0.8.1 reinforces that the low-overhead Rust alternative is shipping fast enough to stay strategically relevant.",
-    "PicoClaw's nightly cadence continues to validate the low-resource edge story, even without a new stable tag.",
-    "Perplexity's now-readable official post matters because it sharpens the benchmark for cloud-managed, long-running digital-worker positioning.",
-    "The right move is to refresh the daily layer and hosted dataset while leaving the stable long-horizon thesis unchanged."
+    "This was a meaningful run because the strongest adjacent benchmark, Hermes Agent, moved with a fresh official release instead of just repo churn.",
+    "Hermes v0.17.0 matters because it reinforces the learning-loop / self-improving lane as a live competitive pressure, not just a one-off narrative.",
+    "PicoClaw's nightly cadence still matters because it keeps validating the low-resource edge story, even without a new stable tag.",
+    "The rest of the movement looks like healthy ecosystem execution, but not enough to change the strategic map, monitored set, or stable executive read."
   ]
 }
