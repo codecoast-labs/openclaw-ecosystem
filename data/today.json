@@ -1,16 +1,18 @@
 {
-  "date": "2026-06-20 UTC",
+  "date": "2026-06-21 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-20 UTC across the tracked set.",
-    "Hermes Agent published v2026.6.19 / v0.17.0 on 2026-06-19 19:39:06 UTC, giving the closest OpenClaw-adjacent learning-loop competitor a fresh official release.",
-    "PicoClaw rolled its nightly release forward again, now published at 2026-06-20 01:30:10 UTC, keeping the edge-device lane visibly active day over day.",
-    "OpenClaw, nanobot, ZeroClaw, IronClaw, and HiClaw all show fresh repo activity in the latest snapshot, but without a second taxonomy-changing announcement or release-tier shift.",
+    "The official-source snapshot was refreshed on 2026-06-21 UTC across the tracked set.",
+    "OpenClaw published stable v2026.6.9 on 2026-06-21 01:44:28 UTC, converting the prior beta line into a fresh official release from the category anchor.",
+    "PicoClaw rolled its nightly release forward again, now published at 2026-06-21 01:37:05 UTC, keeping the edge-device lane visibly active day over day.",
+    "AstrBot published v4.26.0-beta.12 on 2026-06-21 06:15:38 UTC, showing continued fast iteration in the plugin-heavy messaging-platform benchmark lane.",
+    "Hermes Agent, nanobot, ZeroClaw, IronClaw, and HiClaw all show fresh repo activity in the latest snapshot, but without a second taxonomy-changing announcement or release-tier shift.",
     "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful run because the strongest adjacent benchmark, Hermes Agent, moved with a fresh official release instead of just repo churn.",
-    "Hermes v0.17.0 matters because it reinforces the learning-loop / self-improving lane as a live competitive pressure, not just a one-off narrative.",
-    "PicoClaw's nightly cadence still matters because it keeps validating the low-resource edge story, even without a new stable tag.",
-    "The rest of the movement looks like healthy ecosystem execution, but not enough to change the strategic map, monitored set, or stable executive read."
+    "This was a meaningful run because OpenClaw itself moved with a fresh stable release, which matters more than ordinary repo churn anywhere else in the set.",
+    "OpenClaw v2026.6.9 matters because it confirms the reference implementation is still shipping quickly, not just absorbing derivative pressure.",
+    "PicoClaw's nightly cadence still matters because it keeps validating the low-resource edge story as an active competitive lane.",
+    "AstrBot's beta velocity is worth noting as adjacent benchmark motion, but it does not change the strategic map by itself.",
+    "The rest of the movement looks like healthy ecosystem execution, but not enough to change the monitored set, taxonomy, use-case log, or stable executive read."
   ]
 }
