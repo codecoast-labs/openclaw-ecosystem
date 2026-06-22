@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21 UTC",
+  "updatedAt": "2026-06-22 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,21 +648,21 @@
     ]
   },
   "today": {
-    "date": "2026-06-21 UTC",
+    "date": "2026-06-22 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-21 UTC across the tracked set.",
-      "OpenClaw published stable v2026.6.9 on 2026-06-21 01:44:28 UTC, converting the prior beta line into a fresh official release from the category anchor.",
-      "PicoClaw rolled its nightly release forward again, now published at 2026-06-21 01:37:05 UTC, keeping the edge-device lane visibly active day over day.",
-      "AstrBot published v4.26.0-beta.12 on 2026-06-21 06:15:38 UTC, showing continued fast iteration in the plugin-heavy messaging-platform benchmark lane.",
-      "Hermes Agent, nanobot, ZeroClaw, IronClaw, and HiClaw all show fresh repo activity in the latest snapshot, but without a second taxonomy-changing announcement or release-tier shift.",
+      "The official-source snapshot was refreshed on 2026-06-22 UTC across the tracked set.",
+      "OpenClaw published v2026.6.10-beta.1 on 2026-06-21 09:12:41 UTC, showing the reference implementation already pushing the next release line less than a day after v2026.6.9.",
+      "PicoClaw rolled its nightly release forward again at 2026-06-22 01:37:04 UTC, keeping the low-resource edge lane visibly active day after day.",
+      "AstrBot added fresh release motion on 2026-06-21 with v4.25.6-rc.2, v4.25.6-rc.3, and v4.26.0-beta.12, reinforcing how fast the adjacent IM-agent platform lane is iterating.",
+      "Hermes Agent, nanobot, ZeroClaw, IronClaw, HiClaw, and NextClaw all show fresh repo activity in the new snapshot, but without a taxonomy-changing announcement or strategic repositioning.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful run because OpenClaw itself moved with a fresh stable release, which matters more than ordinary repo churn anywhere else in the set.",
-      "OpenClaw v2026.6.9 matters because it confirms the reference implementation is still shipping quickly, not just absorbing derivative pressure.",
-      "PicoClaw's nightly cadence still matters because it keeps validating the low-resource edge story as an active competitive lane.",
-      "AstrBot's beta velocity is worth noting as adjacent benchmark motion, but it does not change the strategic map by itself.",
-      "The rest of the movement looks like healthy ecosystem execution, but not enough to change the monitored set, taxonomy, use-case log, or stable executive read."
+      "This was a meaningful run because the category anchor moved again: OpenClaw is already back on a new beta line immediately after the last stable release.",
+      "OpenClaw v2026.6.10-beta.1 matters because it signals continued release velocity from the reference implementation, not just steady maintenance.",
+      "PicoClaw's nightly cadence still matters because it keeps validating the edge-device and ultra-cheap deployment story as an active competitive lane.",
+      "AstrBot's clustered RC/beta releases matter as adjacent benchmark pressure, but they do not by themselves change the strategic map.",
+      "The rest of the movement looks like healthy ecosystem execution rather than a structural shift, so tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md stay unchanged on this run."
     ]
   }
 }
