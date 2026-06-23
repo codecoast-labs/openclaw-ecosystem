@@ -1,18 +1,16 @@
 {
-  "date": "2026-06-22 UTC",
+  "date": "2026-06-23 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-22 UTC across the tracked set.",
-    "OpenClaw published v2026.6.10-beta.1 on 2026-06-21 09:12:41 UTC, showing the reference implementation already pushing the next release line less than a day after v2026.6.9.",
-    "PicoClaw rolled its nightly release forward again at 2026-06-22 01:37:04 UTC, keeping the low-resource edge lane visibly active day after day.",
-    "AstrBot added fresh release motion on 2026-06-21 with v4.25.6-rc.2, v4.25.6-rc.3, and v4.26.0-beta.12, reinforcing how fast the adjacent IM-agent platform lane is iterating.",
-    "Hermes Agent, nanobot, ZeroClaw, IronClaw, HiClaw, and NextClaw all show fresh repo activity in the new snapshot, but without a taxonomy-changing announcement or strategic repositioning.",
+    "The official-source snapshot was refreshed on 2026-06-23 UTC across the tracked set.",
+    "OpenClaw published v2026.6.10-beta.2 on 2026-06-22 09:36:28 UTC, extending the same beta line again less than 24 hours after v2026.6.10-beta.1.",
+    "nanobot published v0.2.2 on 2026-06-23 01:37:26 UTC, adding a fresh release in the strongest lightweight rewrite lane.",
+    "PicoClaw, ZeroClaw, IronClaw, Hermes Agent, and NanoClaw all show fresh repo activity in the new snapshot, but without a taxonomy-changing announcement.",
     "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
   ],
   "whyItMatters": [
-    "This was a meaningful run because the category anchor moved again: OpenClaw is already back on a new beta line immediately after the last stable release.",
-    "OpenClaw v2026.6.10-beta.1 matters because it signals continued release velocity from the reference implementation, not just steady maintenance.",
-    "PicoClaw's nightly cadence still matters because it keeps validating the edge-device and ultra-cheap deployment story as an active competitive lane.",
-    "AstrBot's clustered RC/beta releases matter as adjacent benchmark pressure, but they do not by themselves change the strategic map.",
-    "The rest of the movement looks like healthy ecosystem execution rather than a structural shift, so tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md stay unchanged on this run."
+    "This was a meaningful run because the category anchor moved again: OpenClaw is still shipping at a very fast cadence inside the current beta line.",
+    "OpenClaw v2026.6.10-beta.2 matters because it reinforces release velocity at the center of the category, not just routine maintenance.",
+    "nanobot v0.2.2 matters because it shows the leading lightweight reinterpretation is still actively tightening its product, not just coasting on earlier momentum.",
+    "The rest of the movement looks like normal ecosystem execution rather than a structural shift, so tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md do not need another strategic rewrite on this run."
   ]
 }
