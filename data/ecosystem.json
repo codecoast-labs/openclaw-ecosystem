@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23 UTC",
+  "updatedAt": "2026-06-24 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-23 UTC",
+    "date": "2026-06-24 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-23 UTC across the tracked set.",
-      "OpenClaw published v2026.6.10-beta.2 on 2026-06-22 09:36:28 UTC, extending the same beta line again less than 24 hours after v2026.6.10-beta.1.",
-      "nanobot published v0.2.2 on 2026-06-23 01:37:26 UTC, adding a fresh release in the strongest lightweight rewrite lane.",
-      "PicoClaw, ZeroClaw, IronClaw, Hermes Agent, and NanoClaw all show fresh repo activity in the new snapshot, but without a taxonomy-changing announcement.",
+      "The official-source snapshot was refreshed on 2026-06-24 UTC across the tracked set.",
+      "OpenClaw published v2026.6.10 on 2026-06-24 03:06:38 UTC, converting the fast beta line from June 21-22 into a full release.",
+      "nanobot v0.2.2 remains the latest lightweight-lane release, and the repo still shows active post-release execution in the new snapshot.",
+      "ZeroClaw, Hermes Agent, IronClaw, NanoClaw, HiClaw, and AstrBot all show fresh repo activity, but without a new release or taxonomy-changing announcement in this run.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful run because the category anchor moved again: OpenClaw is still shipping at a very fast cadence inside the current beta line.",
-      "OpenClaw v2026.6.10-beta.2 matters because it reinforces release velocity at the center of the category, not just routine maintenance.",
-      "nanobot v0.2.2 matters because it shows the leading lightweight reinterpretation is still actively tightening its product, not just coasting on earlier momentum.",
-      "The rest of the movement looks like normal ecosystem execution rather than a structural shift, so tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md do not need another strategic rewrite on this run."
+      "This was a meaningful run because the category anchor moved from rapid beta churn to a new stable release.",
+      "OpenClaw v2026.6.10 matters more than another beta because it signals that the recent shipping burst has now landed as a canonical release users can anchor on.",
+      "The rest of the movement mostly looks like continued execution rather than a strategic reshaping of the field.",
+      "That means tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md do not need a rewrite on this run."
     ]
   }
 }
