@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24 UTC",
+  "updatedAt": "2026-06-25 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,18 +648,18 @@
     ]
   },
   "today": {
-    "date": "2026-06-24 UTC",
+    "date": "2026-06-25 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-24 UTC across the tracked set.",
-      "OpenClaw published v2026.6.10 on 2026-06-24 03:06:38 UTC, converting the fast beta line from June 21-22 into a full release.",
-      "nanobot v0.2.2 remains the latest lightweight-lane release, and the repo still shows active post-release execution in the new snapshot.",
-      "ZeroClaw, Hermes Agent, IronClaw, NanoClaw, HiClaw, and AstrBot all show fresh repo activity, but without a new release or taxonomy-changing announcement in this run.",
+      "The official-source snapshot was refreshed on 2026-06-25 UTC across the tracked set.",
+      "OpenClaw published v2026.6.11-beta.1 on 2026-06-24 23:37:32 UTC, one day after the stable v2026.6.10 release on 2026-06-24 03:06:38 UTC.",
+      "AstrBot published the stable release v4.26.0 on 2026-06-24 15:47:14 UTC, replacing the prior beta/RC-only state in this scan.",
+      "PicoClaw, ZeroClaw, Hermes Agent, IronClaw, nanobot, and HiClaw all show fresh repo activity, but without a taxonomy-changing announcement in this run.",
       "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
     ],
     "whyItMatters": [
-      "This was a meaningful run because the category anchor moved from rapid beta churn to a new stable release.",
-      "OpenClaw v2026.6.10 matters more than another beta because it signals that the recent shipping burst has now landed as a canonical release users can anchor on.",
-      "The rest of the movement mostly looks like continued execution rather than a strategic reshaping of the field.",
+      "This was a meaningful run because the category anchor already moved again: OpenClaw returned to beta immediately after shipping the new stable line, which signals continued rapid release cadence rather than a pause after stabilization.",
+      "AstrBot v4.26.0 matters because it converts adjacent platform motion from prerelease churn into a fresh stable drop, reinforcing that nearby IM-native competitors are still shipping.",
+      "The net read is still execution velocity, not strategic category reshaping.",
       "That means tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md do not need a rewrite on this run."
     ]
   }
