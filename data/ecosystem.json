@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25 UTC",
+  "updatedAt": "2026-06-26 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -308,7 +308,7 @@
       "links": [
         [
           "Repo",
-          "https://github.com/agentscope-ai/HiClaw"
+          "https://github.com/agentscope-ai/AgentTeams"
         ],
         [
           "Site",
@@ -648,19 +648,19 @@
     ]
   },
   "today": {
-    "date": "2026-06-25 UTC",
+    "date": "2026-06-26 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-25 UTC across the tracked set.",
-      "OpenClaw published v2026.6.11-beta.1 on 2026-06-24 23:37:32 UTC, one day after the stable v2026.6.10 release on 2026-06-24 03:06:38 UTC.",
-      "AstrBot published the stable release v4.26.0 on 2026-06-24 15:47:14 UTC, replacing the prior beta/RC-only state in this scan.",
-      "PicoClaw, ZeroClaw, Hermes Agent, IronClaw, nanobot, and HiClaw all show fresh repo activity, but without a taxonomy-changing announcement in this run.",
-      "The monitored set and taxonomy remain unchanged. Hermes stays canonical at https://github.com/NousResearch/hermes-agent."
+      "The official-source snapshot was refreshed on 2026-06-26 UTC across the tracked set.",
+      "ZeroClaw published v0.8.2 on 2026-06-26 04:34:52 UTC.",
+      "AstrBot published v4.26.1 on 2026-06-25 15:14:48 UTC, one day after v4.26.0.",
+      "HiClaw now resolves in the latest GitHub metadata as agentscope-ai/AgentTeams, which is worth treating as the current canonical repo identity behind the HiClaw project.",
+      "OpenClaw, Hermes Agent, PicoClaw, nanobot, and IronClaw all show fresh activity, but without a new thesis-changing launch or repositioning update in this run."
     ],
     "whyItMatters": [
-      "This was a meaningful run because the category anchor already moved again: OpenClaw returned to beta immediately after shipping the new stable line, which signals continued rapid release cadence rather than a pause after stabilization.",
-      "AstrBot v4.26.0 matters because it converts adjacent platform motion from prerelease churn into a fresh stable drop, reinforcing that nearby IM-native competitors are still shipping.",
-      "The net read is still execution velocity, not strategic category reshaping.",
-      "That means tracked-targets.md, map.md, use-cases-log.md, and executive-digest.md do not need a rewrite on this run."
+      "ZeroClaw v0.8.2 reinforces that the lightweight Rust lane is still shipping steadily, not just collecting stars.",
+      "AstrBot v4.26.1 confirms the adjacent IM-agent benchmark is iterating quickly after its fresh stable v4.26.0 line.",
+      "The HiClaw repo identity shift matters operationally because the tracked set and scan script should point at the current canonical upstream, even if the strategic lane itself did not change.",
+      "The net read is still execution velocity, not strategic category reshaping."
     ]
   }
 }
