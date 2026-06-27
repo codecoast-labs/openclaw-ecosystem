@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26 UTC",
+  "updatedAt": "2026-06-27 UTC",
   "thesis": [
     "OpenClaw is still the category anchor for self-hosted, messaging-native personal assistants.",
     "Lightweight rewrites are the dominant derivative pattern: smaller runtimes, lower memory, cheaper hardware.",
@@ -648,12 +648,12 @@
     ]
   },
   "today": {
-    "date": "2026-06-26 UTC",
+    "date": "2026-06-27 UTC",
     "changes": [
-      "The official-source snapshot was refreshed on 2026-06-26 UTC across the tracked set.",
-      "ZeroClaw published v0.8.2 on 2026-06-26 04:34:52 UTC.",
-      "AstrBot published v4.26.1 on 2026-06-25 15:14:48 UTC, one day after v4.26.0.",
-      "HiClaw now resolves in the latest GitHub metadata as agentscope-ai/AgentTeams, which is worth treating as the current canonical repo identity behind the HiClaw project.",
+      "The official-source snapshot was refreshed on 2026-06-27 UTC across the tracked set.",
+      "ZeroClaw still shows the freshest clear release signal in this run with v0.8.2 published on 2026-06-26 04:34:52 UTC.",
+      "AstrBot still shows recent adjacent-market shipping activity with v4.26.1 published on 2026-06-25 15:14:48 UTC, one day after v4.26.0.",
+      "HiClaw continues to resolve in current GitHub metadata as agentscope-ai/AgentTeams, which should be treated as the canonical upstream identity behind the HiClaw project.",
       "OpenClaw, Hermes Agent, PicoClaw, nanobot, and IronClaw all show fresh activity, but without a new thesis-changing launch or repositioning update in this run."
     ],
     "whyItMatters": [
