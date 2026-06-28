@@ -1,16 +1,14 @@
 {
-  "date": "2026-06-27 UTC",
+  "date": "2026-06-28 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-27 UTC across the tracked set.",
-    "ZeroClaw still shows the freshest clear release signal in this run with v0.8.2 published on 2026-06-26 04:34:52 UTC.",
-    "AstrBot still shows recent adjacent-market shipping activity with v4.26.1 published on 2026-06-25 15:14:48 UTC, one day after v4.26.0.",
-    "HiClaw continues to resolve in current GitHub metadata as agentscope-ai/AgentTeams, which should be treated as the canonical upstream identity behind the HiClaw project.",
-    "OpenClaw, Hermes Agent, PicoClaw, nanobot, and IronClaw all show fresh activity, but without a new thesis-changing launch or repositioning update in this run."
+    "The official-source snapshot was refreshed on 2026-06-28 UTC across the tracked set.",
+    "AstrBot shipped v4.26.2 on 2026-06-27 09:53:04 UTC, a quick follow-on release after v4.26.1 and v4.26.0 earlier in the week.",
+    "ZeroClaw still holds the freshest high-signal derivative release in the core watch with v0.8.2 published on 2026-06-26 04:34:52 UTC.",
+    "OpenClaw, Hermes Agent, nanobot, PicoClaw, NanoClaw, and IronClaw all show fresh repo activity, but no new release or repositioning update that changes the current strategic read."
   ],
   "whyItMatters": [
-    "ZeroClaw v0.8.2 reinforces that the lightweight Rust lane is still shipping steadily, not just collecting stars.",
-    "AstrBot v4.26.1 confirms the adjacent IM-agent benchmark is iterating quickly after its fresh stable v4.26.0 line.",
-    "The HiClaw repo identity shift matters operationally because the tracked set and scan script should point at the current canonical upstream, even if the strategic lane itself did not change.",
-    "The net read is still execution velocity, not strategic category reshaping."
+    "AstrBot v4.26.2 reinforces that the adjacent IM-agent benchmark is iterating quickly and remains a useful pace check for messaging-native assistant products.",
+    "ZeroClaw v0.8.2 still signals steady shipping momentum in the lightweight Rust lane.",
+    "The net read remains execution velocity, not category reshaping."
   ]
 }
