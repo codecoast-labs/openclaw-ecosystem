@@ -1,14 +1,16 @@
 {
-  "date": "2026-06-28 UTC",
+  "date": "2026-06-29 UTC",
   "changes": [
-    "The official-source snapshot was refreshed on 2026-06-28 UTC across the tracked set.",
-    "AstrBot shipped v4.26.2 on 2026-06-27 09:53:04 UTC, a quick follow-on release after v4.26.1 and v4.26.0 earlier in the week.",
-    "ZeroClaw still holds the freshest high-signal derivative release in the core watch with v0.8.2 published on 2026-06-26 04:34:52 UTC.",
-    "OpenClaw, Hermes Agent, nanobot, PicoClaw, NanoClaw, and IronClaw all show fresh repo activity, but no new release or repositioning update that changes the current strategic read."
+    "The official-source snapshot was refreshed on 2026-06-29 UTC across the tracked set.",
+    "OpenClaw published v2026.6.11-beta.2 on 2026-06-28 23:19:35 UTC, the freshest core-project release in this run.",
+    "The watchlist canonicals were tightened where upstream identities changed: NanoClaw now resolves to nanocoai/nanoclaw, TinyClaw to TinyAGI/tinyagi, and HiClaw to agentscope-ai/AgentTeams.",
+    "AstrBot v4.26.2 and ZeroClaw v0.8.2 still stand out as recent adjacent or derivative releases, but neither changes the broader strategic map.",
+    "OpenClaw's showcase page added stronger workflow evidence for home automation, scheduled visual briefings, and accounting intake from email plus PDFs."
   ],
   "whyItMatters": [
-    "AstrBot v4.26.2 reinforces that the adjacent IM-agent benchmark is iterating quickly and remains a useful pace check for messaging-native assistant products.",
-    "ZeroClaw v0.8.2 still signals steady shipping momentum in the lightweight Rust lane.",
-    "The net read remains execution velocity, not category reshaping."
+    "OpenClaw beta.2 is the clearest fresh signal from the category anchor, so the center of gravity is still active at the core, not just in the derivative wave.",
+    "The repo and brand canonicalization updates matter because the atlas should track live upstream identities, not stale repo paths.",
+    "The new showcase examples strengthen the evidence base for practical automation and ambient-assistant use cases without changing the long-horizon thesis.",
+    "The net read remains active execution and ecosystem maturation, not category reshaping."
   ]
 }
